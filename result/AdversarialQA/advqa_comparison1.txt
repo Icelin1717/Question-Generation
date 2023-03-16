@@ -1,0 +1,1871 @@
+-------------------------------data 1------------------------------------
+<hl> Another green space in Newcastle is the Town Moor, lying immediately north of the city centre. <hl> It is larger than London's famous Hyde Park and Hampstead Heath put together and the freemen of the city have the right to graze cattle on it. The right incidentally extends to the pitch of St. James' Park, Newcastle United Football Club's ground, though this is not exercised, although the Freemen do collect rent for the loss of privilege. Honorary freemen include Bob Geldof, King Harald V of Norway, Bobby Robson, Alan Shearer, the late Nelson Mandela and the Royal Shakespeare Company. The Hoppings funfair, said to be the largest travelling funfair in Europe, is held here annually in June.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where is the Hoppings funfair held?
+generated output:  What is the opposite of the city's famous location?
+
+
+question answering task:
+truth output:      Town Moor
+generated output:  the Town Moor
+
+-------------------------------data 2------------------------------------
+Another green space in Newcastle is the Town Moor, lying immediately north of the city centre. It is larger than London's famous Hyde Park and Hampstead Heath put together and the freemen of the city have the right to graze cattle on it. <hl> The right incidentally extends to the pitch of St. James' Park, Newcastle United Football Club's ground, though this is not exercised, although the Freemen do collect rent for the loss of privilege. <hl> Honorary freemen include Bob Geldof, King Harald V of Norway, Bobby Robson, Alan Shearer, the late Nelson Mandela and the Royal Shakespeare Company. The Hoppings funfair, said to be the largest travelling funfair in Europe, is held here annually in June.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is a soccer organization called in England?
+generated output:  What is the opposite of the other two places?
+
+
+question answering task:
+truth output:      Club
+generated output:  Town Moor
+
+-------------------------------data 3------------------------------------
+<hl> Another green space in Newcastle is the Town Moor, lying immediately north of the city centre. <hl> It is larger than London's famous Hyde Park and Hampstead Heath put together and the freemen of the city have the right to graze cattle on it. The right incidentally extends to the pitch of St. James' Park, Newcastle United Football Club's ground, though this is not exercised, although the Freemen do collect rent for the loss of privilege. Honorary freemen include Bob Geldof, King Harald V of Norway, Bobby Robson, Alan Shearer, the late Nelson Mandela and the Royal Shakespeare Company. The Hoppings funfair, said to be the largest travelling funfair in Europe, is held here annually in June.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where is the Town Moor?
+generated output:  What is the opposite of the city's famous location?
+
+
+question answering task:
+truth output:      Newcastle
+generated output:  the Town Moor
+
+-------------------------------data 4------------------------------------
+<hl> Another green space in Newcastle is the Town Moor, lying immediately north of the city centre. <hl> It is larger than London's famous Hyde Park and Hampstead Heath put together and the freemen of the city have the right to graze cattle on it. The right incidentally extends to the pitch of St. James' Park, Newcastle United Football Club's ground, though this is not exercised, although the Freemen do collect rent for the loss of privilege. Honorary freemen include Bob Geldof, King Harald V of Norway, Bobby Robson, Alan Shearer, the late Nelson Mandela and the Royal Shakespeare Company. The Hoppings funfair, said to be the largest travelling funfair in Europe, is held here annually in June.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What makes Town Moor suitable to graze cattle on it?
+generated output:  What is the opposite of the city's famous location?
+
+
+question answering task:
+truth output:      green space
+generated output:  the Town Moor
+
+-------------------------------data 5------------------------------------
+<hl> Another green space in Newcastle is the Town Moor, lying immediately north of the city centre. <hl> It is larger than London's famous Hyde Park and Hampstead Heath put together and the freemen of the city have the right to graze cattle on it. The right incidentally extends to the pitch of St. James' Park, Newcastle United Football Club's ground, though this is not exercised, although the Freemen do collect rent for the loss of privilege. Honorary freemen include Bob Geldof, King Harald V of Norway, Bobby Robson, Alan Shearer, the late Nelson Mandela and the Royal Shakespeare Company. The Hoppings funfair, said to be the largest travelling funfair in Europe, is held here annually in June.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where do the owners of the cattle that graze in the Town Moor live?
+generated output:  What is the opposite of the city's famous location?
+
+
+question answering task:
+truth output:      Newcastle
+generated output:  the Town Moor
+
+-------------------------------data 6------------------------------------
+<hl> There are 3 main bus companies providing services in the city; Arriva North East, Go North East and Stagecoach North East. <hl> There are two major bus stations in the city: Haymarket bus station and Eldon Square bus station. Arriva mainly operates from Haymarket Bus Station providing the majority of services to the north of Newcastle, Northumberland and North Tyneside. Go-Ahead operates from Eldon Square Bus Station, providing the majority of services south of the river in Gateshead, South Tyneside, Sunderland, and County Durham. Stagecoach is the primary operator in the city proper, with cross-city services mainly between both the West and East ends via the city centre with some services extending out to the MetroCentre, Killingworth, Wallsend and Ponteland. Bus Services in Newcastle upon Tyne and the surrounding boroughs part of the Tyne and Wear area are coordinated by Nexus, the Tyne and Wear Passenger Transport Executive.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who shares a name with an older type of transportation?
+generated output:  What is the bus company that operates from Haymarket?
+
+
+question answering task:
+truth output:      Stagecoach North East
+generated output:  Stagecoach
+
+-------------------------------data 7------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would be done for people who need more information?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      link the local networks to national networks
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 8------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How will people be assured that their cycles are secure?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      Increase the number of cycle parking facilities
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 9------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would be done about routes that are off the beaten path?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      joining up routes that are partially or completely isolated
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 10------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What goal does the city needs to implement on the streets?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      developing on road cycle networks
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 11------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What has been added to streets to allow traffic in both directions?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      contraflows on one way streets
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 12------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How is the city convincing people that cycling is better?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      educating that cycling promotes healthy living
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 13------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would be done about busy streets?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      making safer routes on busier streets
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 14------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would help people who don't know what to do with their bikes when at their destination?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      Increase the number of cycle parking facilities
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 15------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where can residents leave their bicycles?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      cycle parking facilities
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 16------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What personal benefit might the cycling strategy aim to provide?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      educating that cycling promotes healthy living
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 17------------------------------------
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. <hl> As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks. <hl>
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How does cycling help environment?
+generated output:  What is the key to the objectives?
+
+
+question answering task:
+truth output:      cut city congestion
+generated output:  highlighting the usage of cycling to cut city congestion
+
+-------------------------------data 18------------------------------------
+<hl> The Pilgrim Street building was refurbished between November 2006 and May 2008; during the refurbishment works, the cinema relocated to the Old Town Hall, Gateshead. <hl> In May 2008 the Tyneside Cinema reopened in the restored and refurbished original building. The site currently houses three cinemas, including the restored Classic —the United Kingdom's last surviving news cinema still in full-time operation—alongside two new screens, a roof extension containing the Tyneside Bar, and dedicated education and teaching suites.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was affected by the refurbishment?
+generated output:  What was the location of the new school building?
+
+
+question answering task:
+truth output:      cinema
+generated output:  Gateshead
+
+-------------------------------data 19------------------------------------
+The Pilgrim Street building was refurbished between November 2006 and May 2008; during the refurbishment works, the cinema relocated to the Old Town Hall, Gateshead. In May 2008 the Tyneside Cinema reopened in the restored and refurbished original building. <hl> The site currently houses three cinemas, including the restored Classic —the United Kingdom's last surviving news cinema still in full-time operation—alongside two new screens, a roof extension containing the Tyneside Bar, and dedicated education and teaching suites. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What will keep viewers out of the elements?
+generated output:  What is the second most well known example of the new school system in the UK?
+
+
+question answering task:
+truth output:      roof
+generated output:  Classic
+
+-------------------------------data 20------------------------------------
+<hl> The Pilgrim Street building was refurbished between November 2006 and May 2008; during the refurbishment works, the cinema relocated to the Old Town Hall, Gateshead. <hl> In May 2008 the Tyneside Cinema reopened in the restored and refurbished original building. The site currently houses three cinemas, including the restored Classic —the United Kingdom's last surviving news cinema still in full-time operation—alongside two new screens, a roof extension containing the Tyneside Bar, and dedicated education and teaching suites.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where are motion pictures viewed?
+generated output:  What was the location of the new school building?
+
+
+question answering task:
+truth output:      cinema
+generated output:  Gateshead
+
+-------------------------------data 21------------------------------------
+The Pilgrim Street building was refurbished between November 2006 and May 2008; during the refurbishment works, the cinema relocated to the Old Town Hall, Gateshead. In May 2008 the Tyneside Cinema reopened in the restored and refurbished original building. <hl> The site currently houses three cinemas, including the restored Classic —the United Kingdom's last surviving news cinema still in full-time operation—alongside two new screens, a roof extension containing the Tyneside Bar, and dedicated education and teaching suites. <hl>
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How is the Tyneside Cinema operated?
+generated output:  What is the second most well known example of the new school system in the UK?
+
+
+question answering task:
+truth output:      full-time
+generated output:  Classic
+
+-------------------------------data 22------------------------------------
+There are eleven LEA-funded 11 to 18 schools and seven independent schools with sixth forms in Newcastle. There are a number of successful state schools, including Walker Technology College, Gosforth High School, Heaton Manor School, St Cuthbert's High School, St. Mary's Catholic Comprehensive School, Kenton School, George Stephenson High School, Sacred Heart and Benfield School. The largest co-ed independent school is the Royal Grammar School. The largest girls' independent school is Newcastle High School for Girls. Both schools are located on the same street in Jesmond. Newcastle School for Boys is the only independent boys' only school in the city and is situated in Gosforth. Newcastle College is the largest general further education college in the North East and is a beacon status college; there are two smaller colleges in the Newcastle area. <hl> St Cuthbert's High School and Sacred Heart are the two primary state-Catholic run high schools, and are both achieving results on par with the independent schools in Newcastle. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened to the result of those state-Catholic schools when it was compared with others in Newcastle?
+generated output:  What is the primary school that is located in the North East?
+
+
+question answering task:
+truth output:      on par
+generated output:  Newcastle College
+
+-------------------------------data 23------------------------------------
+<hl> Newcastle Mela, held on the late August bank holiday weekend, is an annual two-day multicultural event, blending drama, music and food from Punjabi, Pakistani, Bengali and Hindu cultures. <hl> NewcastleGateshead also holds an annual International Arts Fair. The 2009 event will be in the Norman Foster designed Sage Gateshead Music and Arts Centre in September. In October, there is the Design Event festival—an annual festival providing the public with an opportunity to see work by regional, national and international designers. The SAMA Festival, an East Asian cultural festival is also held in early October.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How often does Newcastle Mela happen?
+generated output:  What is Newcastle Mela?
+
+
+question answering task:
+truth output:      annual
+generated output:  multicultural event
+
+-------------------------------data 24------------------------------------
+<hl> Newcastle Mela, held on the late August bank holiday weekend, is an annual two-day multicultural event, blending drama, music and food from Punjabi, Pakistani, Bengali and Hindu cultures. <hl> NewcastleGateshead also holds an annual International Arts Fair. The 2009 event will be in the Norman Foster designed Sage Gateshead Music and Arts Centre in September. In October, there is the Design Event festival—an annual festival providing the public with an opportunity to see work by regional, national and international designers. The SAMA Festival, an East Asian cultural festival is also held in early October.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is a form of theater?
+generated output:  What is Newcastle Mela?
+
+
+question answering task:
+truth output:      drama
+generated output:  multicultural event
+
+-------------------------------data 25------------------------------------
+Newcastle Mela, held on the late August bank holiday weekend, is an annual two-day multicultural event, blending drama, music and food from Punjabi, Pakistani, Bengali and Hindu cultures. NewcastleGateshead also holds an annual International Arts Fair. <hl> The 2009 event will be in the Norman Foster designed Sage Gateshead Music and Arts Centre in September. <hl> In October, there is the Design Event festival—an annual festival providing the public with an opportunity to see work by regional, national and international designers. The SAMA Festival, an East Asian cultural festival is also held in early October.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where was the Arts Fair held?
+generated output:  What is the location of the event?
+
+
+question answering task:
+truth output:      in the Norman Foster designed Sage Gateshead Music and Arts Centre
+generated output:  in early October
+
+-------------------------------data 26------------------------------------
+<hl> In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the corporation that was part of the study?
+generated output:  What was the highest level of noise in the UK?
+
+
+question answering task:
+truth output:      Widex
+generated output:  80.4 decibels
+
+-------------------------------data 27------------------------------------
+In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. <hl> The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is one thing that may have attributed to Newcastle being found as the noisiest city in the whole of the UK?
+generated output:  What was the reason for the report's weight?
+
+
+question answering task:
+truth output:      Newcastle's case included a motorway underpass without pedestrian access
+generated output:  these noise levels would have a negative long-term impact on the health of the city'
+
+-------------------------------data 28------------------------------------
+<hl> In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the educational establishment that ran the study?
+generated output:  What was the highest level of noise in the UK?
+
+
+question answering task:
+truth output:      University College London
+generated output:  80.4 decibels
+
+-------------------------------data 29------------------------------------
+<hl> In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What unit did the Ear Institute and Widex measure noise in for the study?
+generated output:  What was the highest level of noise in the UK?
+
+
+question answering task:
+truth output:      decibels
+generated output:  80.4 decibels
+
+-------------------------------data 30------------------------------------
+In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. <hl> The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What location might have skewed the results negatively for Newcastle?
+generated output:  What was the reason for the report's weight?
+
+
+question answering task:
+truth output:      motorway underpass
+generated output:  these noise levels would have a negative long-term impact on the health of the city'
+
+-------------------------------data 31------------------------------------
+In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. <hl> The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the fact that Newcastle averaged 80.4 decibels first appear?
+generated output:  What was the reason for the report?
+
+
+question answering task:
+truth output:      In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex
+generated output:  attaching too much weight to readings at arbitrarily selected locations
+
+-------------------------------data 32------------------------------------
+In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. <hl> The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did the report measure in various cities?
+generated output:  What was the reason for the report?
+
+
+question answering task:
+truth output:      noise levels
+generated output:  attaching too much weight to readings at arbitrarily selected locations
+
+-------------------------------data 33------------------------------------
+<hl> In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who were those people working in Widex?
+generated output:  What was the highest level of noise in the UK?
+
+
+question answering task:
+truth output:      Danish
+generated output:  80.4 decibels
+
+-------------------------------data 34------------------------------------
+In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. <hl> The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was one piece of evidence for critics of the 2007 report?
+generated output:  What was the reason for the report's weight?
+
+
+question answering task:
+truth output:      included a motorway underpass without pedestrian access
+generated output:  these noise levels would have a negative long-term impact on the health of the city'
+
+-------------------------------data 35------------------------------------
+<hl> In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. <hl> The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why did the report claim Newcastle as UK's noisiest city?
+generated output:  What was the highest level of noise in the UK?
+
+
+question answering task:
+truth output:      with an average level of 80.4 decibels
+generated output:  80.4 decibels
+
+-------------------------------data 36------------------------------------
+Other shopping destinations in Newcastle include Grainger Street and the area around Grey's Monument, the relatively modern Eldon Garden and Monument Mall complexes, the Newgate Centre, Central Arcade and the traditional Grainger Market. Outside the city centre, the largest suburban shopping areas are Gosforth and Byker. The largest Tesco store in the United Kingdom is located in Kingston Park on the edge of Newcastle. <hl> Close to Newcastle, the largest indoor shopping centre in Europe, the MetroCentre, is located in Gateshead. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What activity is at the center of the text?
+generated output:  What is the largest indoor shopping centre in the UK?
+
+
+question answering task:
+truth output:      shopping
+generated output:  Tesco store
+
+-------------------------------data 37------------------------------------
+Other shopping destinations in Newcastle include Grainger Street and the area around Grey's Monument, the relatively modern Eldon Garden and Monument Mall complexes, the Newgate Centre, Central Arcade and the traditional Grainger Market. Outside the city centre, the largest suburban shopping areas are Gosforth and Byker. The largest Tesco store in the United Kingdom is located in Kingston Park on the edge of Newcastle. <hl> Close to Newcastle, the largest indoor shopping centre in Europe, the MetroCentre, is located in Gateshead. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where do you find the largest indoor shopping center in Europe?
+generated output:  What is the largest indoor shopping centre in the UK?
+
+
+question answering task:
+truth output:      Gateshead
+generated output:  Tesco store
+
+-------------------------------data 38------------------------------------
+Other shopping destinations in Newcastle include Grainger Street and the area around Grey's Monument, the relatively modern Eldon Garden and Monument Mall complexes, the Newgate Centre, Central Arcade and the traditional Grainger Market. Outside the city centre, the largest suburban shopping areas are Gosforth and Byker. The largest Tesco store in the United Kingdom is located in Kingston Park on the edge of Newcastle. <hl> Close to Newcastle, the largest indoor shopping centre in Europe, the MetroCentre, is located in Gateshead. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the only continent mentioned in the text?
+generated output:  What is the largest indoor shopping centre in the UK?
+
+
+question answering task:
+truth output:      Europe
+generated output:  Tesco store
+
+-------------------------------data 39------------------------------------
+Other shopping destinations in Newcastle include Grainger Street and the area around Grey's Monument, the relatively modern Eldon Garden and Monument Mall complexes, the Newgate Centre, Central Arcade and the traditional Grainger Market. Outside the city centre, the largest suburban shopping areas are Gosforth and Byker. <hl> The largest Tesco store in the United Kingdom is located in Kingston Park on the edge of Newcastle. <hl> Close to Newcastle, the largest indoor shopping centre in Europe, the MetroCentre, is located in Gateshead.
+question type classification task:
+truth output:      Where
+generated output:  Where
+
+
+QG task:
+truth output:      Where is the city located?
+generated output:  Where is the largest shopping destination in the UK?
+
+
+question answering task:
+truth output:      United Kingdom
+generated output:  Kingston Park
+
+-------------------------------data 40------------------------------------
+In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. <hl> They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. <hl> In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What moved on keels?
+generated output:  What was used to transport coal from the river banks to the waiting colliers?
+
+
+question answering task:
+truth output:      coal
+generated output:  boats
+
+-------------------------------data 41------------------------------------
+In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. <hl> Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the 365 day period where almost half the people in a city passed away?
+generated output:  What is the population of Newcastle that was affected by the epidemic?
+
+
+question answering task:
+truth output:      1636
+generated output:  keelmen
+
+-------------------------------data 42------------------------------------
+In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. <hl> They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. <hl> In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What locale would receive the coal?
+generated output:  What was used to transport coal from the river banks to the waiting colliers?
+
+
+question answering task:
+truth output:      London
+generated output:  boats
+
+-------------------------------data 43------------------------------------
+In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. <hl> Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did almost half the people die?
+generated output:  What is the population of Newcastle that was affected by the epidemic?
+
+
+question answering task:
+truth output:      Newcastle
+generated output:  keelmen
+
+-------------------------------data 44------------------------------------
+In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. <hl> Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of city is Newcastle?
+generated output:  What is the population of Newcastle that was affected by the epidemic?
+
+
+question answering task:
+truth output:      British
+generated output:  keelmen
+
+-------------------------------data 45------------------------------------
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. <hl> It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. <hl> The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How is the front of the station designed?
+generated output:  What was originally designed by the architect John Dobson?
+
+
+question answering task:
+truth output:      neoclassical
+generated output:  The station sightlines towards the Castle Keep
+
+-------------------------------data 46------------------------------------
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. <hl> The station is one of only six Grade One listed railway stations in the UK. <hl> Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How exclusive is the structure?
+generated output:  What was originally designed by the architect John Dobson?
+
+
+question answering task:
+truth output:      one of only six Grade One
+generated output:  The station sightlines towards the Castle Keep
+
+-------------------------------data 47------------------------------------
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. <hl> The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. <hl> The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is a notable feature?
+generated output:  What is the main point of the passage?
+
+
+question answering task:
+truth output:      station’s arched roof
+generated output:  The city's other mainline station, Manors, is to the east of the
+
+-------------------------------data 48------------------------------------
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. The first services were operated by the North Eastern Railway company. <hl> The city's other mainline station, Manors, is to the east of the city centre. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where would you go for another option?
+generated output:  What is Manors?
+
+
+question answering task:
+truth output:      east of the city centre
+generated output:  city's other mainline station
+
+-------------------------------data 49------------------------------------
+<hl> In 2014, work was completed on the stations historic entrance. <hl> Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What covered the arches after renovation?
+generated output:  What was done on the historic entrance?
+
+
+question answering task:
+truth output:      Glazing
+generated output:  work
+
+-------------------------------data 50------------------------------------
+In 2014, work was completed on the stations historic entrance. <hl> Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. <hl> The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the station transformed from?
+generated output:  What was a major improvement?
+
+
+question answering task:
+truth output:      public portico
+generated output:  Glazing was placed over the historic arches
+
+-------------------------------data 51------------------------------------
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. <hl> The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. <hl> The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What part of the station was not included in the 2014 renovations, the entrance or the roof?
+generated output:  What is the main point of the passage?
+
+
+question answering task:
+truth output:      roof
+generated output:  The city's other mainline station, Manors, is to the east of the
+
+-------------------------------data 52------------------------------------
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. <hl> The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. <hl> The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What can be seen from the station?
+generated output:  What is the main point of the passage?
+
+
+question answering task:
+truth output:      the Castle Keep
+generated output:  The city's other mainline station, Manors, is to the east of the
+
+-------------------------------data 53------------------------------------
+The Grainger Market replaced an earlier market originally built in 1808 called the Butcher Market. <hl> The Grainger Market itself, was opened in 1835 and was Newcastle's first indoor market. <hl> At the time of its opening in 1835 it was said to be one of the largest and most beautiful markets in Europe. The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art Gallery has a painting of this event. With the exception of the timber roof which was destroyed by a fire in 1901 and replaced by latticed-steel arches the Market is largely in its original condition. The Grainger Market architecture, like most in Grainger Town, which are either grade I or II listed, was listed grade I in 1954 by English Heritage.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where in the EU could you find the Grainger Market?
+generated output:  What was the name of the area that was originally built in 1835?
+
+
+question answering task:
+truth output:      Newcastle
+generated output:  Grainger Market
+
+-------------------------------data 54------------------------------------
+The Grainger Market replaced an earlier market originally built in 1808 called the Butcher Market. The Grainger Market itself, was opened in 1835 and was Newcastle's first indoor market. At the time of its opening in 1835 it was said to be one of the largest and most beautiful markets in Europe. The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art Gallery has a painting of this event. With the exception of the timber roof which was destroyed by a fire in 1901 and replaced by latticed-steel arches the Market is largely in its original condition. <hl> The Grainger Market architecture, like most in Grainger Town, which are either grade I or II listed, was listed grade I in 1954 by English Heritage. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was not purely Grade I listed by English Heritage?
+generated output:  What is the name of the area that Grainger Town was originally called?
+
+
+question answering task:
+truth output:      Grainger Town
+generated output:  Grainger Market
+
+-------------------------------data 55------------------------------------
+The Grainger Market replaced an earlier market originally built in 1808 called the Butcher Market. The Grainger Market itself, was opened in 1835 and was Newcastle's first indoor market. At the time of its opening in 1835 it was said to be one of the largest and most beautiful markets in Europe. The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art Gallery has a painting of this event. With the exception of the timber roof which was destroyed by a fire in 1901 and replaced by latticed-steel arches the Market is largely in its original condition. <hl> The Grainger Market architecture, like most in Grainger Town, which are either grade I or II listed, was listed grade I in 1954 by English Heritage. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was not solely listed grade I or in 1954 by English Heritage?
+generated output:  What is the name of the area that Grainger Town was originally called?
+
+
+question answering task:
+truth output:      most in Grainger Town
+generated output:  Grainger Market
+
+-------------------------------data 56------------------------------------
+The Grainger Market replaced an earlier market originally built in 1808 called the Butcher Market. The Grainger Market itself, was opened in 1835 and was Newcastle's first indoor market. At the time of its opening in 1835 it was said to be one of the largest and most beautiful markets in Europe. <hl> The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art Gallery has a painting of this event. <hl> With the exception of the timber roof which was destroyed by a fire in 1901 and replaced by latticed-steel arches the Market is largely in its original condition. The Grainger Market architecture, like most in Grainger Town, which are either grade I or II listed, was listed grade I in 1954 by English Heritage.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How were many people illustrated in one of the festivities of the market in 1835?
+generated output:  What was the result of the opening of the Grainger Market?
+
+
+question answering task:
+truth output:      a painting
+generated output:  The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art
+
+-------------------------------data 57------------------------------------
+The Grainger Market replaced an earlier market originally built in 1808 called the Butcher Market. The Grainger Market itself, was opened in 1835 and was Newcastle's first indoor market. At the time of its opening in 1835 it was said to be one of the largest and most beautiful markets in Europe. The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art Gallery has a painting of this event. With the exception of the timber roof which was destroyed by a fire in 1901 and replaced by latticed-steel arches the Market is largely in its original condition. <hl> The Grainger Market architecture, like most in Grainger Town, which are either grade I or II listed, was listed grade I in 1954 by English Heritage. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What level of listing among most Grainger town listings is the Grainger Market not listed as?
+generated output:  What is the name of the area that Grainger Town was originally called?
+
+
+question answering task:
+truth output:      II
+generated output:  Grainger Market
+
+-------------------------------data 58------------------------------------
+<hl> In large parts, Newcastle still retains a medieval street layout. <hl> Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where could one avoid car traffic?
+generated output:  What is the name of the place that houses a merchant's house in 16th century
+
+
+question answering task:
+truth output:      Narrow alleys or 'chares'
+generated output:  House of Tides
+
+-------------------------------data 59------------------------------------
+In large parts, Newcastle still retains a medieval street layout. <hl> Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. <hl> Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What extent of corridors do you find?
+generated output:  What is the main attraction of the city?
+
+
+question answering task:
+truth output:      abundance
+generated output:  a medieval street layout
+
+-------------------------------data 60------------------------------------
+<hl> In large parts, Newcastle still retains a medieval street layout. <hl> Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What part of Newcastle is from the middle ages?
+generated output:  What is the name of the place that houses a merchant's house in 16th century
+
+
+question answering task:
+truth output:      street layout
+generated output:  House of Tides
+
+-------------------------------data 61------------------------------------
+In large parts, Newcastle still retains a medieval street layout. <hl> Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. <hl> Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How does one get to the Castle Keep?
+generated output:  What is the main attraction of the city?
+
+
+question answering task:
+truth output:      Stairs
+generated output:  a medieval street layout
+
+-------------------------------data 62------------------------------------
+In large parts, Newcastle still retains a medieval street layout. <hl> Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. <hl> Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What do you find at the bottom of the leg that you can use to get through a corridor?
+generated output:  What is the main attraction of the city?
+
+
+question answering task:
+truth output:      foot
+generated output:  a medieval street layout
+
+-------------------------------data 63------------------------------------
+In large parts, Newcastle still retains a medieval street layout. Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. <hl> Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the building with "House of Tides" originally?
+generated output:  What is the location of the historic building?
+
+
+question answering task:
+truth output:      merchant's house
+generated output:  close, Sandhill and Quayside contain modern buildings as well as structures dating from the
+
+-------------------------------data 64------------------------------------
+In large parts, Newcastle still retains a medieval street layout. Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. <hl> Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where is the restaurant "House of Tides" located?
+generated output:  What is the location of the historic building?
+
+
+question answering task:
+truth output:      28–30 Close
+generated output:  close, Sandhill and Quayside contain modern buildings as well as structures dating from the
+
+-------------------------------data 65------------------------------------
+In large parts, Newcastle still retains a medieval street layout. Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. <hl> Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. <hl> Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the condition of the steps?
+generated output:  What is the main attraction of the city?
+
+
+question answering task:
+truth output:      intact in places
+generated output:  a medieval street layout
+
+-------------------------------data 66------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. <hl> The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. <hl> The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  Where
+
+
+QG task:
+truth output:      What is the name of the festival in July that is not for the city's Gay Community?
+generated output:  Where is the Northern Pride Festival and Parade held?
+
+
+question answering task:
+truth output:      The Ouseburn Festival
+generated output:  in the city's Gay Community
+
+-------------------------------data 67------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. <hl> The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. <hl> The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  Where
+
+
+QG task:
+truth output:      What is a festival held by The Hoppings along with Newcastle Community Green Festival, The Northern Rock Cyclone, and Northern Pride Festival.
+generated output:  Where is the Northern Pride Festival and Parade held?
+
+
+question answering task:
+truth output:      The Ouseburn
+generated output:  in the city's Gay Community
+
+-------------------------------data 68------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. <hl> The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. <hl> The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  Where
+
+
+QG task:
+truth output:      What is a festival held by The Hoppings along with Newcastle Community Green Festival, The Northern Rock Cyclone, and Ouseburn Festival.
+generated output:  Where is the Northern Pride Festival and Parade held?
+
+
+question answering task:
+truth output:      Northern Pride
+generated output:  in the city's Gay Community
+
+-------------------------------data 69------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. <hl> The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. <hl> Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What special era did the Hoppings come into being?
+generated output:  What is the Hoppings event called?
+
+
+question answering task:
+truth output:      Temperance Movement
+generated output:  The Hoppings
+
+-------------------------------data 70------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. <hl> The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. <hl> The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the festival in July that does not have "Family Fun Day"?
+generated output:  What is the Northern Rock Cyclone?
+
+
+question answering task:
+truth output:      The Northern Pride Festival and Parade
+generated output:  cycling festival
+
+-------------------------------data 71------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. <hl> Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. <hl> The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is a festival held by The Hoppings along with Northern Pride Festival, Newcastle Community Green Festival, and Ouseburn Festival.
+generated output:  What is the Northern Rock Cyclone?
+
+
+question answering task:
+truth output:      The Northern Rock Cyclone
+generated output:  cycling festival
+
+-------------------------------data 72------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. <hl> Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. <hl> The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the festival in June that is not in Leazes Park?
+generated output:  What is the Northern Rock Cyclone?
+
+
+question answering task:
+truth output:      The Northern Rock Cyclone
+generated output:  cycling festival
+
+-------------------------------data 73------------------------------------
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. <hl> The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. <hl> The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What event gets its name for being more targeted for a Gay Community than a family environment?
+generated output:  What is the Northern Rock Cyclone?
+
+
+question answering task:
+truth output:      The Northern Pride Festival and Parade
+generated output:  cycling festival
+
+-------------------------------data 74------------------------------------
+Throughout the Middle Ages, Newcastle was England's northern fortress. Incorporated first by Henry II, the city had a new charter granted by Elizabeth in 1589. <hl> A 25-foot (7.6 m) high stone wall was built around the town in the 13th century, to defend it from invaders during the Border war against Scotland. <hl> The Scots king William the Lion was imprisoned in Newcastle in 1174, and Edward I brought the Stone of Scone and William Wallace south through the town. Newcastle was successfully defended against the Scots three times during the 14th century, and was created a county corporate with its own sheriff by Henry IV in 1400.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did England do in the 1200's?
+generated output:  What was the purpose of the new settlement?
+
+
+question answering task:
+truth output:      25-foot (7.6 m) high stone wall was built around the town
+generated output:  defend it from invaders during the Border war against Scotland
+
+-------------------------------data 75------------------------------------
+Throughout the Middle Ages, Newcastle was England's northern fortress. Incorporated first by Henry II, the city had a new charter granted by Elizabeth in 1589. <hl> A 25-foot (7.6 m) high stone wall was built around the town in the 13th century, to defend it from invaders during the Border war against Scotland. <hl> The Scots king William the Lion was imprisoned in Newcastle in 1174, and Edward I brought the Stone of Scone and William Wallace south through the town. Newcastle was successfully defended against the Scots three times during the 14th century, and was created a county corporate with its own sheriff by Henry IV in 1400.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was England's main foe?
+generated output:  What was the purpose of the new settlement?
+
+
+question answering task:
+truth output:      Scotland
+generated output:  defend it from invaders during the Border war against Scotland
+
+-------------------------------data 76------------------------------------
+Throughout the Middle Ages, Newcastle was England's northern fortress. <hl> Incorporated first by Henry II, the city had a new charter granted by Elizabeth in 1589. <hl> A 25-foot (7.6 m) high stone wall was built around the town in the 13th century, to defend it from invaders during the Border war against Scotland. The Scots king William the Lion was imprisoned in Newcastle in 1174, and Edward I brought the Stone of Scone and William Wallace south through the town. Newcastle was successfully defended against the Scots three times during the 14th century, and was created a county corporate with its own sheriff by Henry IV in 1400.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened to Newcastle in the sixteenth century?
+generated output:  What was the name of the city that was incorporated first, Elizabeth or William the Lion
+
+
+question answering task:
+truth output:      new charter granted by Elizabeth
+generated output:  William the Lion
+
+-------------------------------data 77------------------------------------
+Throughout the Middle Ages, Newcastle was England's northern fortress. Incorporated first by Henry II, the city had a new charter granted by Elizabeth in 1589. A 25-foot (7.6 m) high stone wall was built around the town in the 13th century, to defend it from invaders during the Border war against Scotland. <hl> The Scots king William the Lion was imprisoned in Newcastle in 1174, and Edward I brought the Stone of Scone and William Wallace south through the town. <hl> Newcastle was successfully defended against the Scots three times during the 14th century, and was created a county corporate with its own sheriff by Henry IV in 1400.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who did Newcastle lock up?
+generated output:  What happened to the town in the 14th century?
+
+
+question answering task:
+truth output:      Scots king William the Lion
+generated output:  A 25-foot (7.6 m) high stone wall was built around the town
+
+-------------------------------data 78------------------------------------
+Throughout the Middle Ages, Newcastle was England's northern fortress. Incorporated first by Henry II, the city had a new charter granted by Elizabeth in 1589. A 25-foot (7.6 m) high stone wall was built around the town in the 13th century, to defend it from invaders during the Border war against Scotland. The Scots king William the Lion was imprisoned in Newcastle in 1174, and Edward I brought the Stone of Scone and William Wallace south through the town. <hl> Newcastle was successfully defended against the Scots three times during the 14th century, and was created a county corporate with its own sheriff by Henry IV in 1400. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did Henry IV do for Newcastle?
+generated output:  What happened to the town in the 14th century?
+
+
+question answering task:
+truth output:      was created a county corporate with its own sheriff
+generated output:  A 25-foot (7.6 m) high stone wall was built around the town
+
+-------------------------------data 79------------------------------------
+The earliest known movie featuring some exterior scenes filmed in the city is On the Night of the Fire (1939), though by and large the action is studio-bound. Later came The Clouded Yellow (1951) and Payroll (1961), both of which feature more extensive scenes filmed in the city. <hl> The 1971 film Get Carter was shot on location in and around Newcastle and offers an opportunity to see what Newcastle looked like in the 1960s and early 1970s. <hl> The city was also backdrop to another gangster film, the 1988 film noir thriller Stormy Monday, directed by Mike Figgis and starring Tommy Lee Jones, Melanie Griffith, Sting and Sean Bean.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was so special about Get Carter?
+generated output:  What was the film in the 1970s?
+
+
+question answering task:
+truth output:      opportunity to see what Newcastle looked like in the 1960s and early 1970s
+generated output:  Stormy Monday
+
+-------------------------------data 80------------------------------------
+<hl> The earliest known movie featuring some exterior scenes filmed in the city is On the Night of the Fire (1939), though by and large the action is studio-bound. <hl> Later came The Clouded Yellow (1951) and Payroll (1961), both of which feature more extensive scenes filmed in the city. The 1971 film Get Carter was shot on location in and around Newcastle and offers an opportunity to see what Newcastle looked like in the 1960s and early 1970s. The city was also backdrop to another gangster film, the 1988 film noir thriller Stormy Monday, directed by Mike Figgis and starring Tommy Lee Jones, Melanie Griffith, Sting and Sean Bean.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where was most of the action filmed in the movie On the Night of the Fire?
+generated output:  What is On the Night of the Fire?
+
+
+question answering task:
+truth output:      studio
+generated output:  exterior scenes filmed in the city
+
+-------------------------------data 81------------------------------------
+From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). <hl> The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. <hl> Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What service was ceased about a year before Newcastle was added as a departure port?
+generated output:  What is the name of the destination that the company cited high fuel prices and new competition from
+
+
+question answering task:
+truth output:      Gothenburg, Sweden
+generated output:  DFDS ferry service
+
+-------------------------------data 82------------------------------------
+From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. <hl> Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What kind of higher-end ferry service does DFDS ferry service offer from Newcastle International Ferry Terminal?
+generated output:  What is the name of the destination that Thomson has been a departure port for?
+
+
+question answering task:
+truth output:      cruise
+generated output:  Norwegian and Fjords cruise
+
+-------------------------------data 83------------------------------------
+<hl> From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). <hl> The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What nationality is the DFDS ferry service?
+generated output:  What is the location of the destination?
+
+
+question answering task:
+truth output:      Danish
+generated output:  North Shields
+
+-------------------------------data 84------------------------------------
+From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). <hl> The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. <hl> Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What service was ceased about a year after Newcastle was added as a departure port?
+generated output:  What is the name of the destination that the company cited high fuel prices and new competition from
+
+
+question answering task:
+truth output:      Bergen and Stavanger, Norway
+generated output:  DFDS ferry service
+
+-------------------------------data 85------------------------------------
+From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). <hl> The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. <hl> Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did low cost air services represent to DFDS?
+generated output:  What is the name of the destination that the company cited high fuel prices and new competition from
+
+
+question answering task:
+truth output:      new competition
+generated output:  DFDS ferry service
+
+-------------------------------data 86------------------------------------
+<hl> From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). <hl> The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name for anything relating to the Danes or Denmark?
+generated output:  What is the location of the destination?
+
+
+question answering task:
+truth output:      Danish
+generated output:  North Shields
+
+-------------------------------data 87------------------------------------
+From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). <hl> The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. <hl> Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is a city that DFDS stopped serving during the last quarter of 2006?
+generated output:  What is the name of the destination that the company cited high fuel prices and new competition from
+
+
+question answering task:
+truth output:      Gothenburg
+generated output:  DFDS ferry service
+
+-------------------------------data 88------------------------------------
+The climate in Newcastle is oceanic (Köppen Cfb) and significantly milder than some other locations in the world at a similar latitude, due to the warming influence of the Gulf Stream (via the North Atlantic Drift). Being in the rain shadow of the North Pennines, it is among the driest cities in the UK. <hl> Temperature extremes recorded at Newcastle Weather Centre include 32.5 °C (90.5 °F) during August 1990 down to −12.6 °C (9.3 °F) during January 1982. <hl> In contrast to other areas influenced by the Gulf Stream, such as inland Scandinavia, Newcastle has milder winters and cooler summers, similar to the remainder of the British Isles.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When was it coldest in Newcastle?
+generated output:  What was the temperature in Newcastle from 1990 to 1982?
+
+
+question answering task:
+truth output:      January 1982
+generated output:  9.3 °F
+
+-------------------------------data 89------------------------------------
+<hl> The climate in Newcastle is oceanic (Köppen Cfb) and significantly milder than some other locations in the world at a similar latitude, due to the warming influence of the Gulf Stream (via the North Atlantic Drift). <hl> Being in the rain shadow of the North Pennines, it is among the driest cities in the UK. Temperature extremes recorded at Newcastle Weather Centre include 32.5 °C (90.5 °F) during August 1990 down to −12.6 °C (9.3 °F) during January 1982. In contrast to other areas influenced by the Gulf Stream, such as inland Scandinavia, Newcastle has milder winters and cooler summers, similar to the remainder of the British Isles.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How does the gulf stream get to newcastle?
+generated output:  What is the climate in Newcastle?
+
+
+question answering task:
+truth output:      North Atlantic Drift
+generated output:  milder than some other locations in the world at a similar latitude
+
+-------------------------------data 90------------------------------------
+The climate in Newcastle is oceanic (Köppen Cfb) and significantly milder than some other locations in the world at a similar latitude, due to the warming influence of the Gulf Stream (via the North Atlantic Drift). Being in the rain shadow of the North Pennines, it is among the driest cities in the UK. Temperature extremes recorded at Newcastle Weather Centre include 32.5 °C (90.5 °F) during August 1990 down to −12.6 °C (9.3 °F) during January 1982. <hl> In contrast to other areas influenced by the Gulf Stream, such as inland Scandinavia, Newcastle has milder winters and cooler summers, similar to the remainder of the British Isles. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where are winters colder?
+generated output:  What is the weather in Newcastle?
+
+
+question answering task:
+truth output:      inland Scandinavia
+generated output:  milder
+
+-------------------------------data 91------------------------------------
+The climate in Newcastle is oceanic (Köppen Cfb) and significantly milder than some other locations in the world at a similar latitude, due to the warming influence of the Gulf Stream (via the North Atlantic Drift). Being in the rain shadow of the North Pennines, it is among the driest cities in the UK. Temperature extremes recorded at Newcastle Weather Centre include 32.5 °C (90.5 °F) during August 1990 down to −12.6 °C (9.3 °F) during January 1982. <hl> In contrast to other areas influenced by the Gulf Stream, such as inland Scandinavia, Newcastle has milder winters and cooler summers, similar to the remainder of the British Isles. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is similar to the British Isles?
+generated output:  What is the weather in Newcastle?
+
+
+question answering task:
+truth output:      Newcastle
+generated output:  milder
+
+-------------------------------data 92------------------------------------
+During the English Civil War, the North declared for the King. <hl> In a bid to gain Newcastle and the Tyne, Cromwell's allies, the Scots, captured the town of Newburn. <hl> In 1644 the Scots then captured the reinforced fortification on the Lawe in South Shields following a siege. In 1644 the city was then besieged for many months and was eventually stormed ('with roaring drummes') and sacked by Cromwell's allies. The grateful King bestowed the motto "Fortiter Defendit Triumphans" ("Triumphing by a brave defence") upon the town. Charles I was imprisoned in Newcastle by the Scots in 1646–7.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the major name in the battle?
+generated output:  What was the result of the siege?
+
+
+question answering task:
+truth output:      Cromwell
+generated output:  the city was then besieged for many months
+
+-------------------------------data 93------------------------------------
+During the English Civil War, the North declared for the King. In a bid to gain Newcastle and the Tyne, Cromwell's allies, the Scots, captured the town of Newburn. In 1644 the Scots then captured the reinforced fortification on the Lawe in South Shields following a siege. In 1644 the city was then besieged for many months and was eventually stormed ('with roaring drummes') and sacked by Cromwell's allies. <hl> The grateful King bestowed the motto "Fortiter Defendit Triumphans" ("Triumphing by a brave defence") upon the town. <hl> Charles I was imprisoned in Newcastle by the Scots in 1646–7.
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why did the king give the town a motto?
+generated output:  What was the name of the man who was imprisoned for the second time?
+
+
+question answering task:
+truth output:      grateful
+generated output:  Charles
+
+-------------------------------data 94------------------------------------
+In 2010, Newcastle was positioned ninth in the retail centre expenditure league of the UK. There are several major shopping areas in Newcastle City Centre. The largest of these is the Eldon Square Shopping Centre, one of the largest city centre shopping complexes in the UK. It incorporates a flagship Debenhams store as well as one of the largest John Lewis stores in the UK. John Lewis is still known to many in Newcastle as Bainbridges. <hl> Newcastle store Bainbridge's, opened in 1838, is often cited as the world’s first department store. <hl> Emerson Bainbridge (1817–1892), a pioneer and the founder of Bainbridges, sold goods via department, a new for merchant custom for that time. The Bainbridge’s official ledgers reported revenue by department, giving birth to the name department store. Eldon Square is currently undergoing a full redevelopment. A new bus station, replacing the old underground bus station, was officially opened in March 2007. The wing of the centre, including the undercover Green Market, near Grainger Street was demolished in 2007 so that the area could be redeveloped. This was completed in February 2010 with the opening of a flagship Debenhams department store as well as other major stores including Apple, Hollister and Guess.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who died in the year that immediately follows 1891?
+generated output:  What was the name of the name department store?
+
+
+question answering task:
+truth output:      Emerson Bainbridge
+generated output:  Emerson Bainbridge
+
+-------------------------------data 95------------------------------------
+In 2010, Newcastle was positioned ninth in the retail centre expenditure league of the UK. There are several major shopping areas in Newcastle City Centre. The largest of these is the Eldon Square Shopping Centre, one of the largest city centre shopping complexes in the UK. It incorporates a flagship Debenhams store as well as one of the largest John Lewis stores in the UK. John Lewis is still known to many in Newcastle as Bainbridges. <hl> Newcastle store Bainbridge's, opened in 1838, is often cited as the world’s first department store. <hl> Emerson Bainbridge (1817–1892), a pioneer and the founder of Bainbridges, sold goods via department, a new for merchant custom for that time. The Bainbridge’s official ledgers reported revenue by department, giving birth to the name department store. Eldon Square is currently undergoing a full redevelopment. A new bus station, replacing the old underground bus station, was officially opened in March 2007. The wing of the centre, including the undercover Green Market, near Grainger Street was demolished in 2007 so that the area could be redeveloped. This was completed in February 2010 with the opening of a flagship Debenhams department store as well as other major stores including Apple, Hollister and Guess.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was born in the year that immediately precedes 1818?
+generated output:  What was the name of the name department store?
+
+
+question answering task:
+truth output:      Emerson Bainbridge
+generated output:  Emerson Bainbridge
+
+-------------------------------data 96------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. The building contains more old stonework than any other church in Newcastle. <hl> It is surrounded by the last of the ancient churchyards to retain its original character. <hl> Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who were buried at the Parish Church?
+generated output:  What is the original structure of the church?
+
+
+question answering task:
+truth output:      Many key names
+generated output:  the last of the ancient churchyards
+
+-------------------------------data 97------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. <hl> The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. <hl> It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. The building contains more old stonework than any other church in Newcastle. It is surrounded by the last of the ancient churchyards to retain its original character. Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was built 293 years ago?
+generated output:  What was the last addition to the original building?
+
+
+question answering task:
+truth output:      main porch
+generated output:  the main porch
+
+-------------------------------data 98------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. <hl> The building contains more old stonework than any other church in Newcastle. <hl> It is surrounded by the last of the ancient churchyards to retain its original character. Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What can The Parish Church of St Andrew claim above all others?
+generated output:  What is the original structure of the church?
+
+
+question answering task:
+truth output:      contains more old stonework
+generated output:  the last of the ancient churchyards
+
+-------------------------------data 99------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. <hl> The building contains more old stonework than any other church in Newcastle. <hl> It is surrounded by the last of the ancient churchyards to retain its original character. Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does The Parish Church of St Andrew have that they can brag about?
+generated output:  What is the original structure of the church?
+
+
+question answering task:
+truth output:      more old stonework
+generated output:  the last of the ancient churchyards
+
+-------------------------------data 100------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. <hl> The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. <hl> It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. The building contains more old stonework than any other church in Newcastle. It is surrounded by the last of the ancient churchyards to retain its original character. Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened nearly 600 years before the main porch was built?
+generated output:  What was the last addition to the original building?
+
+
+question answering task:
+truth output:      present building was begun
+generated output:  the main porch
+
+-------------------------------data 101------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. The building contains more old stonework than any other church in Newcastle. <hl> It is surrounded by the last of the ancient churchyards to retain its original character. <hl> Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who worshipped at the Parish Church?
+generated output:  What is the original structure of the church?
+
+
+question answering task:
+truth output:      Many key names
+generated output:  the last of the ancient churchyards
+
+-------------------------------data 102------------------------------------
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. The building contains more old stonework than any other church in Newcastle. It is surrounded by the last of the ancient churchyards to retain its original character. <hl> Many key names associated with Newcastle's history worshipped and were buried here. <hl> The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What part of the church was damaged by the Scots?
+generated output:  Who did not rule the city?
+
+
+question answering task:
+truth output:      The church tower
+generated output:  Scots
+
+-------------------------------data 103------------------------------------
+<hl> Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. <hl> CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did a small number of trains extend to besides Aberdeen and Glasgow?
+generated output:  What is the longest number of trains in the East Coast?
+
+
+question answering task:
+truth output:      Inverness
+generated output:  half-hourly frequency
+
+-------------------------------data 104------------------------------------
+Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. <hl> Northern Rail provides local and regional services. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where does the last company mentioned by the text provide services?
+generated output:  What is the name of the company that operates CrossCountry trains?
+
+
+question answering task:
+truth output:      local and regional
+generated output:  Virgin Trains East Coast
+
+-------------------------------data 105------------------------------------
+<hl> Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. <hl> CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did a small number of trains extend to besides Glasgow and Inverness?
+generated output:  What is the longest number of trains in the East Coast?
+
+
+question answering task:
+truth output:      Aberdeen
+generated output:  half-hourly frequency
+
+-------------------------------data 106------------------------------------
+<hl> Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. <hl> CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How often does the London King's Cross run?
+generated output:  What is the longest number of trains in the East Coast?
+
+
+question answering task:
+truth output:      half-hourly frequency
+generated output:  half-hourly frequency
+
+-------------------------------data 107------------------------------------
+<hl> Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. <hl> CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did a small number of trains go besides Glasgow and Inverness?
+generated output:  What is the longest number of trains in the East Coast?
+
+
+question answering task:
+truth output:      Aberdeen
+generated output:  half-hourly frequency
+
+-------------------------------data 108------------------------------------
+<hl> Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. <hl> CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the station from which the trains that can go to Scotland leave?
+generated output:  What is the longest number of trains in the East Coast?
+
+
+question answering task:
+truth output:      London King's Cross
+generated output:  half-hourly frequency
+
+-------------------------------data 109------------------------------------
+Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. <hl> CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. <hl> First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who besides the South West and Midlands uses CrossCountry?
+generated output:  What is the second mentioned destination?
+
+
+question answering task:
+truth output:      Yorkshire
+generated output:  London
+
+-------------------------------data 110------------------------------------
+<hl> There are concentrations of pubs, bars and nightclubs around the Bigg Market and the Quayside area of the city centre. <hl> There are many bars on the Bigg Market, and other popular areas for nightlife are Collingwood Street, popularly referred to as the 'Diamond Strip' due to its concentration of high-end bars, Neville Street, the Central Station area and Osborne Road in the Jesmond area of the city. In recent years "The Gate" has opened in the city centre, a new indoor complex consisting of bars, upmarket clubs, restaurants and a 12-screen Empire multiplex cinema. Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, cafés and clubs.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What general options do you have for nightlife in this area?
+generated output:  What area is the main street of Newcastle?
+
+
+question answering task:
+truth output:      pubs, bars and nightclubs
+generated output:  Quayside
+
+-------------------------------data 111------------------------------------
+There are concentrations of pubs, bars and nightclubs around the Bigg Market and the Quayside area of the city centre. <hl> There are many bars on the Bigg Market, and other popular areas for nightlife are Collingwood Street, popularly referred to as the 'Diamond Strip' due to its concentration of high-end bars, Neville Street, the Central Station area and Osborne Road in the Jesmond area of the city. <hl> In recent years "The Gate" has opened in the city centre, a new indoor complex consisting of bars, upmarket clubs, restaurants and a 12-screen Empire multiplex cinema. Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, cafés and clubs.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What area is in the Diamond Strip?
+generated output:  What is the main attraction of the city?
+
+
+question answering task:
+truth output:      Central Station area
+generated output:  high-end bars, Neville Street, the Central Station area and Osborne Road in
+
+-------------------------------data 112------------------------------------
+There are concentrations of pubs, bars and nightclubs around the Bigg Market and the Quayside area of the city centre. There are many bars on the Bigg Market, and other popular areas for nightlife are Collingwood Street, popularly referred to as the 'Diamond Strip' due to its concentration of high-end bars, Neville Street, the Central Station area and Osborne Road in the Jesmond area of the city. <hl> In recent years "The Gate" has opened in the city centre, a new indoor complex consisting of bars, upmarket clubs, restaurants and a 12-screen Empire multiplex cinema. <hl> Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, cafés and clubs.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of facility is The Gate?
+generated output:  What is the main attraction of the gay scene?
+
+
+question answering task:
+truth output:      indoor complex
+generated output:  a range of bars, cafés and clubs
+
+-------------------------------data 113------------------------------------
+There are concentrations of pubs, bars and nightclubs around the Bigg Market and the Quayside area of the city centre. <hl> There are many bars on the Bigg Market, and other popular areas for nightlife are Collingwood Street, popularly referred to as the 'Diamond Strip' due to its concentration of high-end bars, Neville Street, the Central Station area and Osborne Road in the Jesmond area of the city. <hl> In recent years "The Gate" has opened in the city centre, a new indoor complex consisting of bars, upmarket clubs, restaurants and a 12-screen Empire multiplex cinema. Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, cafés and clubs.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the popular name of the street rich people go to have fun?
+generated output:  What is the main attraction of the city?
+
+
+question answering task:
+truth output:      Diamond Strip
+generated output:  high-end bars, Neville Street, the Central Station area and Osborne Road in
+
+-------------------------------data 114------------------------------------
+<hl> "Bairn" and "hyem", meaning "child" and "home", respectively, are examples of Geordie words with origins in Scandinavia; barn and hjem are the corresponding modern Norwegian and Danish words. <hl> Some words used in the Geordie dialect are used elsewhere in the Northern United Kingdom. The words "bonny" (meaning "pretty"), "howay" ("come on"), "stot" ("bounce") and "hadaway" ("go away" or "you're kidding"), all appear to be used in Scots; "aye" ("yes") and "nowt" (IPA://naʊt/, rhymes with out,"nothing") are used elsewhere in Northern England. Many words, however, appear to be used exclusively in Newcastle and the surrounding area, such as "Canny" (a versatile word meaning "good", "nice" or "very"), "hacky" ("dirty"), "netty" ("toilet"), "hoy" ("throw", from the Dutch gooien, via West Frisian), "hockle" ("spit").
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How do you say child in Geordie?
+generated output:  What is the meaning of bonny?
+
+
+question answering task:
+truth output:      Bairn
+generated output:  "bounce"
+
+-------------------------------data 115------------------------------------
+"Bairn" and "hyem", meaning "child" and "home", respectively, are examples of Geordie words with origins in Scandinavia; barn and hjem are the corresponding modern Norwegian and Danish words. Some words used in the Geordie dialect are used elsewhere in the Northern United Kingdom. The words "bonny" (meaning "pretty"), "howay" ("come on"), "stot" ("bounce") and "hadaway" ("go away" or "you're kidding"), all appear to be used in Scots; "aye" ("yes") and "nowt" (IPA://naʊt/, rhymes with out,"nothing") are used elsewhere in Northern England. <hl> Many words, however, appear to be used exclusively in Newcastle and the surrounding area, such as "Canny" (a versatile word meaning "good", "nice" or "very"), "hacky" ("dirty"), "netty" ("toilet"), "hoy" ("throw", from the Dutch gooien, via West Frisian), "hockle" ("spit"). <hl>
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How do you say very in Geordie?
+generated output:  What is the meaning of "bonny" in Northern England?
+
+
+question answering task:
+truth output:      Canny
+generated output:  pretty
+
+-------------------------------data 116------------------------------------
+<hl> "Bairn" and "hyem", meaning "child" and "home", respectively, are examples of Geordie words with origins in Scandinavia; barn and hjem are the corresponding modern Norwegian and Danish words. <hl> Some words used in the Geordie dialect are used elsewhere in the Northern United Kingdom. The words "bonny" (meaning "pretty"), "howay" ("come on"), "stot" ("bounce") and "hadaway" ("go away" or "you're kidding"), all appear to be used in Scots; "aye" ("yes") and "nowt" (IPA://naʊt/, rhymes with out,"nothing") are used elsewhere in Northern England. Many words, however, appear to be used exclusively in Newcastle and the surrounding area, such as "Canny" (a versatile word meaning "good", "nice" or "very"), "hacky" ("dirty"), "netty" ("toilet"), "hoy" ("throw", from the Dutch gooien, via West Frisian), "hockle" ("spit").
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does hyem mean?
+generated output:  What is the meaning of bonny?
+
+
+question answering task:
+truth output:      home
+generated output:  "bounce"
+
+-------------------------------data 117------------------------------------
+<hl> "Bairn" and "hyem", meaning "child" and "home", respectively, are examples of Geordie words with origins in Scandinavia; barn and hjem are the corresponding modern Norwegian and Danish words. <hl> Some words used in the Geordie dialect are used elsewhere in the Northern United Kingdom. The words "bonny" (meaning "pretty"), "howay" ("come on"), "stot" ("bounce") and "hadaway" ("go away" or "you're kidding"), all appear to be used in Scots; "aye" ("yes") and "nowt" (IPA://naʊt/, rhymes with out,"nothing") are used elsewhere in Northern England. Many words, however, appear to be used exclusively in Newcastle and the surrounding area, such as "Canny" (a versatile word meaning "good", "nice" or "very"), "hacky" ("dirty"), "netty" ("toilet"), "hoy" ("throw", from the Dutch gooien, via West Frisian), "hockle" ("spit").
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How do you say home in Geordie?
+generated output:  What is the meaning of bonny?
+
+
+question answering task:
+truth output:      hyem
+generated output:  "bounce"

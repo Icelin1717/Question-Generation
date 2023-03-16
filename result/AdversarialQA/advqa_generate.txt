@@ -1,0 +1,2677 @@
+-------------------data 1---------------------
+context:
+Another green space in Newcastle is the Town Moor, lying immediately north of the city centre. It is larger than London's famous Hyde Park and Hampstead Heath put together and the freemen of the city have the right to graze cattle on it. The right incidentally extends to the pitch of St. James' Park, Newcastle United Football Club's ground, though this is not exercised, although the Freemen do collect rent for the loss of privilege. Honorary freemen include Bob Geldof, King Harald V of Norway, Bobby Robson, Alan Shearer, the late Nelson Mandela and the Royal Shakespeare Company. The Hoppings funfair, said to be the largest travelling funfair in Europe, is held here annually in June.
+
+Q1:    What is the opposite of the city's famous location?
+A1:    the Town Moor
+
+Q2:    What is the opposite of the city's grounds?
+A2:    St. James' Park
+
+Q3:    What is the opposite of the other two places?
+A3:    Town Moor
+
+Q4:    What is the name of the honorary freemen that are held here annually?
+A4:    The Hoppings funfair
+
+Q5:    What is the annual event for the first time?
+A5:    The Hoppings funfair
+
+-------------------data 2---------------------
+context:
+There are 3 main bus companies providing services in the city; Arriva North East, Go North East and Stagecoach North East. There are two major bus stations in the city: Haymarket bus station and Eldon Square bus station. Arriva mainly operates from Haymarket Bus Station providing the majority of services to the north of Newcastle, Northumberland and North Tyneside. Go-Ahead operates from Eldon Square Bus Station, providing the majority of services south of the river in Gateshead, South Tyneside, Sunderland, and County Durham. Stagecoach is the primary operator in the city proper, with cross-city services mainly between both the West and East ends via the city centre with some services extending out to the MetroCentre, Killingworth, Wallsend and Ponteland. Bus Services in Newcastle upon Tyne and the surrounding boroughs part of the Tyne and Wear area are coordinated by Nexus, the Tyne and Wear Passenger Transport Executive.
+
+Q1:    What is the bus company that operates from Haymarket?
+A1:    Stagecoach
+
+Q2:    What is the bus station in?
+A2:    Eldon Square
+
+Q3:    What is the bus station?
+A3:    Eldon Square bus station
+
+Q4:    What is the bus station a part of?
+A4:    the city
+
+Q5:    What is the main purpose of the city?
+A5:    bus companies
+
+Q6:    What is the third mentioned location?
+A6:    Tyne and Wear area
+
+-------------------data 3---------------------
+context:
+Following guidelines set in the National Cycling strategy, Newcastle first developed its cycling strategy in 1998. As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living… The authority also has infrastructure aims and objectives which include: developing on road cycle networks on quieter streets; making safer routes on busier streets; innovating and implementing contraflows on one way streets; developing the existing off road cycle route networks and improve signage; joining up routes that are partially or completely isolated; Increase the number of cycle parking facilities; working with employers to integrate cycling into workplace travel plans; link the local networks to national networks.
+
+Q1:    What is the national network called?
+A1:    national networks
+
+Q2:    What is the key to the objectives?
+A2:    highlighting the usage of cycling to cut city congestion
+
+-------------------data 4---------------------
+context:
+The Pilgrim Street building was refurbished between November 2006 and May 2008; during the refurbishment works, the cinema relocated to the Old Town Hall, Gateshead. In May 2008 the Tyneside Cinema reopened in the restored and refurbished original building. The site currently houses three cinemas, including the restored Classic —the United Kingdom's last surviving news cinema still in full-time operation—alongside two new screens, a roof extension containing the Tyneside Bar, and dedicated education and teaching suites.
+
+Q1:    What was the location of the new school building?
+A1:    Gateshead
+
+Q2:    What was the last cinema in the UK that opened in 2008?
+A2:    Classic
+
+Q3:    What is the second most well known example of the new school system in the UK?
+A3:    Classic
+
+-------------------data 5---------------------
+context:
+There are eleven LEA-funded 11 to 18 schools and seven independent schools with sixth forms in Newcastle. There are a number of successful state schools, including Walker Technology College, Gosforth High School, Heaton Manor School, St Cuthbert's High School, St. Mary's Catholic Comprehensive School, Kenton School, George Stephenson High School, Sacred Heart and Benfield School. The largest co-ed independent school is the Royal Grammar School. The largest girls' independent school is Newcastle High School for Girls. Both schools are located on the same street in Jesmond. Newcastle School for Boys is the only independent boys' only school in the city and is situated in Gosforth. Newcastle College is the largest general further education college in the North East and is a beacon status college; there are two smaller colleges in the Newcastle area. St Cuthbert's High School and Sacred Heart are the two primary state-Catholic run high schools, and are both achieving results on par with the independent schools in Newcastle.
+
+Q1:    What is the highest number of schools in the area?
+A1:    seven
+
+Q2:    What is the second highest school listed?
+A2:    St. Mary's Catholic Comprehensive School
+
+Q3:    What is the second largest independent school in the city?
+A3:    St. Cuthbert's High School
+
+Q4:    What is the highest independent school in the city?
+A4:    Newcastle School for Boys
+
+Q5:    Where is the largest independent school located?
+A5:    the North East
+
+Q6:    Where is the largest independent school?
+A6:    the North East
+
+Q7:    What is the highest achievement college in the North East?
+A7:    Newcastle College
+
+Q8:    What is the primary school that is located in the North East?
+A8:    Newcastle College
+
+-------------------data 6---------------------
+context:
+Newcastle Mela, held on the late August bank holiday weekend, is an annual two-day multicultural event, blending drama, music and food from Punjabi, Pakistani, Bengali and Hindu cultures. NewcastleGateshead also holds an annual International Arts Fair. The 2009 event will be in the Norman Foster designed Sage Gateshead Music and Arts Centre in September. In October, there is the Design Event festival—an annual festival providing the public with an opportunity to see work by regional, national and international designers. The SAMA Festival, an East Asian cultural festival is also held in early October.
+
+Q1:    What is Newcastle Mela?
+A1:    multicultural event
+
+Q2:    What is Newcastle Mela?
+A2:    multicultural event
+
+Q3:    What is the location of the event?
+A3:    in early October
+
+Q4:    What is the SAMA Festival?
+A4:    an East Asian cultural festival
+
+Q5:    What is the second SAMA festival held?
+A5:    East Asian cultural festival
+
+-------------------data 7---------------------
+context:
+In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels. The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents. The report was criticized, however, for attaching too much weight to readings at arbitrarily selected locations, which in Newcastle's case included a motorway underpass without pedestrian access.
+
+Q1:    What was the highest level of noise in the UK?
+A1:    80.4 decibels
+
+Q2:    What was the reason for the report?
+A2:    attaching too much weight to readings at arbitrarily selected locations
+
+Q3:    What was the reason for the report's weight?
+A3:    these noise levels would have a negative long-term impact on the health of the city'
+
+-------------------data 8---------------------
+context:
+Other shopping destinations in Newcastle include Grainger Street and the area around Grey's Monument, the relatively modern Eldon Garden and Monument Mall complexes, the Newgate Centre, Central Arcade and the traditional Grainger Market. Outside the city centre, the largest suburban shopping areas are Gosforth and Byker. The largest Tesco store in the United Kingdom is located in Kingston Park on the edge of Newcastle. Close to Newcastle, the largest indoor shopping centre in Europe, the MetroCentre, is located in Gateshead.
+
+Q1:    What is the main attraction of the city centre?
+A1:    the largest suburban shopping areas are Gosforth and Byker
+
+Q2:    What is the third shopping destination in the city centre?
+A2:    Grainger Street
+
+Q3:    Where is the largest shopping destination in the UK?
+A3:    Kingston Park
+
+Q4:    What is the largest indoor shopping centre in the UK?
+A4:    Tesco store
+
+-------------------data 9---------------------
+context:
+In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families. They were so called because they worked on the keels, boats that were used to transfer coal from the river banks to the waiting colliers, for export to London and elsewhere. In the 1630s about 7,000 out of 20,000 inhabitants of Newcastle died of plague, more than one-third of the population. Specifically within the year 1636, it is roughly estimated with evidence held by the Society of Antiquaries that 47% of the then population of Newcastle died from the epidemic; this may also have been the most devastating loss in any British City in this period.
+
+Q1:    What was the purpose of the keels?
+A1:    export to London and elsewhere
+
+Q2:    What was used to transport coal from the river banks to the waiting colliers?
+A2:    boats
+
+Q3:    What happened to the keelmen?
+A3:    resided
+
+Q4:    What is the population of Newcastle that was affected by the epidemic?
+A4:    keelmen
+
+-------------------data 10---------------------
+context:
+Newcastle International Airport is located approximately 6 miles (9.7 km) from the city centre on the northern outskirts of the city near Ponteland and is the larger of the two main airports serving the North East. It is connected to the city via the Metro Light Rail system and a journey into Newcastle city centre takes approximately 20 minutes. The airport handles over five million passengers per year, and is the tenth largest, and the fastest growing regional airport in the UK, expecting to reach 10 million passengers by 2016, and 15 million by 2030. As of 2007[update], over 90 destinations are available worldwide.
+
+Q1:    What is the distance between the airport and the city centre?
+A1:    9.7 km
+
+Q2:    What is the distance between the airport and the city center?
+A2:    9.7 km
+
+Q3:    What is the largest airport in the UK?
+A3:    Newcastle International Airport
+
+Q4:    What is the current status of the airport?
+A4:    expected to reach 10 million passengers by 2016, and 15 million by 2030
+
+-------------------data 11---------------------
+context:
+In 2014, work was completed on the stations historic entrance. Glazing was placed over the historic arches and the Victorian architecture was enhanced; transforming the 19th century public portico. The station is one of only six Grade One listed railway stations in the UK. Opened in 1850 by Queen Victoria, it was the first covered railway station in the world and was much copied across the UK. It has a neoclassical façade, originally designed by the architect John Dobson, and was constructed in collaboration with Robert Stephenson. The station sightlines towards the Castle Keep, whilst showcasing the curvature of the station’s arched roof. The first services were operated by the North Eastern Railway company. The city's other mainline station, Manors, is to the east of the city centre.
+
+Q1:    What was done on the historic entrance?
+A1:    work
+
+Q2:    What was a major improvement?
+A2:    Glazing was placed over the historic arches
+
+Q3:    What was originally designed by the architect John Dobson?
+A3:    The station sightlines towards the Castle Keep
+
+Q4:    What was originally designed by the architect John Dobson?
+A4:    The station sightlines towards the Castle Keep
+
+Q5:    What was originally designed by the architect John Dobson?
+A5:    The station sightlines towards the Castle Keep
+
+Q6:    What is the main point of the passage?
+A6:    The city's other mainline station, Manors, is to the east of the
+
+Q7:    What is Manors?
+A7:    city's other mainline station
+
+Q8:    What is Manors?
+A8:    city's other mainline station
+
+-------------------data 12---------------------
+context:
+The Grainger Market replaced an earlier market originally built in 1808 called the Butcher Market. The Grainger Market itself, was opened in 1835 and was Newcastle's first indoor market. At the time of its opening in 1835 it was said to be one of the largest and most beautiful markets in Europe. The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art Gallery has a painting of this event. With the exception of the timber roof which was destroyed by a fire in 1901 and replaced by latticed-steel arches the Market is largely in its original condition. The Grainger Market architecture, like most in Grainger Town, which are either grade I or II listed, was listed grade I in 1954 by English Heritage.
+
+Q1:    What was the name of the Grainger Market?
+A1:    The Grainger Market itself
+
+Q2:    What was the name of the area that was originally built in 1835?
+A2:    Grainger Market
+
+Q3:    What was the name of the area that was once a popular place for people to visit?
+A3:    Grainger Town
+
+Q4:    What was the result of the opening of the Grainger Market?
+A4:    The opening was celebrated with a grand dinner attended by 2000 guests, and the Laing Art
+
+Q5:    What happened to the Grainger Market in 1901?
+A5:    the timber roof which was destroyed by a fire
+
+Q6:    What is the name of the area that Grainger Town was originally called?
+A6:    Grainger Market
+
+-------------------data 13---------------------
+context:
+In large parts, Newcastle still retains a medieval street layout. Narrow alleys or 'chares', most of which can only be traversed by foot, still exist in abundance, particularly around the riverside. Stairs from the riverside to higher parts of the city centre and the extant Castle Keep, originally recorded in the 14th century, remain intact in places. Close, Sandhill and Quayside contain modern buildings as well as structures dating from the 15th–18th centuries, including Bessie Surtees House, the Cooperage and Lloyds Quayside Bars, Derwentwater House and "House of Tides", a restaurant situated at a Grade I-listed 16th century merchant's house at 28–30 Close.
+
+Q1:    What is the name of the place that houses a merchant's house in 16th century
+A1:    House of Tides
+
+Q2:    What is the main attraction of the city?
+A2:    a medieval street layout
+
+Q3:    What is the main attraction of the city?
+A3:    a medieval street layout
+
+Q4:    What is the location of the historic building?
+A4:    close, Sandhill and Quayside contain modern buildings as well as structures dating from the
+
+-------------------data 14---------------------
+context:
+The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a "Family Fun Day" and "Carnival Day", is held in late July.
+
+Q1:    What is the name of the city's largest travelling fair?
+A1:    The Hoppings
+
+Q2:    What is the Hoppings event called?
+A2:    The Hoppings
+
+Q3:    What is the Northern Rock Cyclone?
+A3:    cycling festival
+
+Q4:    What is the Northern Rock Cyclone?
+A4:    cycling festival
+
+Q5:    Where is the Northern Pride Festival and Parade held?
+A5:    in the city's Gay Community
+
+Q6:    What is the last year of the Ouseburn Festival?
+A6:    late
+
+-------------------data 15---------------------
+context:
+Throughout the Middle Ages, Newcastle was England's northern fortress. Incorporated first by Henry II, the city had a new charter granted by Elizabeth in 1589. A 25-foot (7.6 m) high stone wall was built around the town in the 13th century, to defend it from invaders during the Border war against Scotland. The Scots king William the Lion was imprisoned in Newcastle in 1174, and Edward I brought the Stone of Scone and William Wallace south through the town. Newcastle was successfully defended against the Scots three times during the 14th century, and was created a county corporate with its own sheriff by Henry IV in 1400.
+
+Q1:    What was the name of the city that was incorporated in 1589?
+A1:    Newcastle
+
+Q2:    What was the name of the city that was incorporated first, Elizabeth or William the Lion
+A2:    William the Lion
+
+Q3:    What was the purpose of the new settlement?
+A3:    defend it from invaders during the Border war against Scotland
+
+Q4:    What happened to the town in the 14th century?
+A4:    A 25-foot (7.6 m) high stone wall was built around the town
+
+Q5:    What happened to the town in the 14th century?
+A5:    A 25-foot (7.6 m) high stone wall was built around the town
+
+-------------------data 16---------------------
+context:
+The earliest known movie featuring some exterior scenes filmed in the city is On the Night of the Fire (1939), though by and large the action is studio-bound. Later came The Clouded Yellow (1951) and Payroll (1961), both of which feature more extensive scenes filmed in the city. The 1971 film Get Carter was shot on location in and around Newcastle and offers an opportunity to see what Newcastle looked like in the 1960s and early 1970s. The city was also backdrop to another gangster film, the 1988 film noir thriller Stormy Monday, directed by Mike Figgis and starring Tommy Lee Jones, Melanie Griffith, Sting and Sean Bean.
+
+Q1:    What is On the Night of the Fire?
+A1:    exterior scenes filmed in the city
+
+Q2:    What happened in the 41st year of the 20th century?
+A2:    The Clouded Yellow
+
+Q3:    What was the film in the 1970s?
+A3:    Stormy Monday
+
+Q4:    What was Stormy Monday?
+A4:    noir thriller
+
+-------------------data 17---------------------
+context:
+From Newcastle International Ferry Terminal, at North Shields, Danish DFDS Seaways run a service to IJmuiden (near Amsterdam). The DFDS ferry service to Gothenburg, Sweden, ceased at the end of October 2006 – the company cited high fuel prices and new competition from low-cost air services as the cause – and their service to Bergen and Stavanger, Norway was terminated late 2008. Since summer 2007, Thomson cruise lines have included Newcastle as a departure port on its Norwegian and Fjords cruise.
+
+Q1:    What is the location of the destination?
+A1:    North Shields
+
+Q2:    What is the name of the destination that the company cited high fuel prices and new competition from
+A2:    DFDS ferry service
+
+Q3:    What is the name of the destination that Thomson has been a departure port for?
+A3:    Norwegian and Fjords cruise
+
+-------------------data 18---------------------
+context:
+The climate in Newcastle is oceanic (Köppen Cfb) and significantly milder than some other locations in the world at a similar latitude, due to the warming influence of the Gulf Stream (via the North Atlantic Drift). Being in the rain shadow of the North Pennines, it is among the driest cities in the UK. Temperature extremes recorded at Newcastle Weather Centre include 32.5 °C (90.5 °F) during August 1990 down to −12.6 °C (9.3 °F) during January 1982. In contrast to other areas influenced by the Gulf Stream, such as inland Scandinavia, Newcastle has milder winters and cooler summers, similar to the remainder of the British Isles.
+
+Q1:    What is the climate in Newcastle?
+A1:    milder than some other locations in the world at a similar latitude
+
+Q2:    What is the climate in Newcastle?
+A2:    milder than some other locations in the world at a similar latitude
+
+Q3:    What was the temperature in Newcastle from 1990 to 1982?
+A3:    9.3 °F
+
+Q4:    What is the weather in Newcastle?
+A4:    milder
+
+-------------------data 19---------------------
+context:
+During the English Civil War, the North declared for the King. In a bid to gain Newcastle and the Tyne, Cromwell's allies, the Scots, captured the town of Newburn. In 1644 the Scots then captured the reinforced fortification on the Lawe in South Shields following a siege. In 1644 the city was then besieged for many months and was eventually stormed ('with roaring drummes') and sacked by Cromwell's allies. The grateful King bestowed the motto "Fortiter Defendit Triumphans" ("Triumphing by a brave defence") upon the town. Charles I was imprisoned in Newcastle by the Scots in 1646–7.
+
+Q1:    What was the name of the country that was captured by the Scots?
+A1:    Newcastle
+
+Q2:    What was the result of the siege?
+A2:    the city was then besieged for many months
+
+Q3:    What happened to the town of Newburn?
+A3:    besieged
+
+Q4:    What happened to the town after the siege?
+A4:    besieged
+
+Q5:    What was the name of the man who was imprisoned for the second time?
+A5:    Charles
+
+Q6:    What happened to Charles I in Newcastle?
+A6:    imprisoned
+
+-------------------data 20---------------------
+context:
+In 2010, Newcastle was positioned ninth in the retail centre expenditure league of the UK. There are several major shopping areas in Newcastle City Centre. The largest of these is the Eldon Square Shopping Centre, one of the largest city centre shopping complexes in the UK. It incorporates a flagship Debenhams store as well as one of the largest John Lewis stores in the UK. John Lewis is still known to many in Newcastle as Bainbridges. Newcastle store Bainbridge's, opened in 1838, is often cited as the world’s first department store. Emerson Bainbridge (1817–1892), a pioneer and the founder of Bainbridges, sold goods via department, a new for merchant custom for that time. The Bainbridge’s official ledgers reported revenue by department, giving birth to the name department store. Eldon Square is currently undergoing a full redevelopment. A new bus station, replacing the old underground bus station, was officially opened in March 2007. The wing of the centre, including the undercover Green Market, near Grainger Street was demolished in 2007 so that the area could be redeveloped. This was completed in February 2010 with the opening of a flagship Debenhams department store as well as other major stores including Apple, Hollister and Guess.
+
+Q1:    What is the largest shopping area in the UK?
+A1:    Eldon Square Shopping Centre
+
+Q2:    What is the largest shopping area in the UK?
+A2:    Eldon Square Shopping Centre
+
+Q3:    What is the largest shopping area in the UK?
+A3:    Eldon Square Shopping Centre
+
+Q4:    What is the name of the store that combines retail with retail in the UK?
+A4:    Eldon Square Shopping Centre
+
+Q5:    What is the name of the store that originated in 1838?
+A5:    Emerson Bainbridge
+
+Q6:    What was the name of the name department store?
+A6:    Emerson Bainbridge
+
+Q7:    What was the name of the name department store?
+A7:    Emerson Bainbridge
+
+Q8:    What did the name department store sell?
+A8:    goods via department
+
+Q9:    What happened in the 2nd year of the 20th century?
+A9:    The wing of the centre, including the undercover Green Market, near Grainger Street
+
+Q10:    What happened in the 3rd year of the 20th century?
+A10:    Emerson Bainbridge's, opened
+
+Q11:    What happened in the 2nd year of the 20th century?
+A11:    The wing of the centre, including the undercover Green Market, near Grainger Street
+
+Q12:    What store was originally intended to be redeveloped?
+A12:    Eldon Square
+
+-------------------data 21---------------------
+context:
+The Tyneside flat was the dominant housing form constructed at the time when the industrial centres on Tyneside were growing most rapidly. They can still be found in areas such as South Heaton in Newcastle but once dominated the streetscape on both sides of the Tyne. Tyneside flats were built as terraces, one of each pair of doors led to an upstairs flat while the other led into the ground-floor flat, each of two or three rooms. A new development in the Ouseburn valley has recreated them; Architects Cany Ash and Robert Sakula were attracted by the possibilities of high density without building high and getting rid of common areas.
+
+Q1:    What was the dominant housing form on Tyneside?
+A1:    The Tyneside flat
+
+Q2:    What is the location of the Tyneside flats?
+A2:    ground-floor flat
+
+Q3:    What was the opposite of a terrace?
+A3:    ground-floor flat
+
+Q4:    What was Ash's first name?
+A4:    Robert Sakula
+
+-------------------data 22---------------------
+context:
+The Parish Church of St Andrew is traditionally recognised as 'the oldest church in this town'. The present building was begun in the 12th Century and the last addition to it, apart from the vestries, was the main porch in 1726. It is quite possible that there was an earlier church here dating from Saxon times. This older church would have been one of several churches along the River Tyne dedicated to St Andrew, including the Priory church at Hexham. The building contains more old stonework than any other church in Newcastle. It is surrounded by the last of the ancient churchyards to retain its original character. Many key names associated with Newcastle's history worshipped and were buried here. The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender. Three of the cannonballs remain on site as testament to the siege.
+
+Q1:    What is the oldest church in the area?
+A1:    St Andrew
+
+Q2:    What was the last addition to the original building?
+A2:    the main porch
+
+Q3:    What was the original name of the church?
+A3:    St Andrew
+
+Q4:    What is the original name of the church?
+A4:    St Andrew
+
+Q5:    What is the original structure of the church?
+A5:    the last of the ancient churchyards
+
+Q6:    What is the original structure of the church?
+A6:    the last of the ancient churchyards
+
+Q7:    Who did not rule the city?
+A7:    Scots
+
+Q8:    Who did not rule over the Town Wall?
+A8:    Scots
+
+Q9:    What happened to the church tower?
+A9:    The church tower received a battering during the Siege of Newcastle by the Scots
+
+-------------------data 23---------------------
+context:
+Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness. CrossCountry trains serve destinations in Yorkshire, the Midlands and the South West. First TransPennine Express operates services to Manchester and Liverpool. Northern Rail provides local and regional services.
+
+Q1:    What is the longest number of trains in the East Coast?
+A1:    half-hourly frequency
+
+Q2:    What is the second mentioned destination?
+A2:    London
+
+Q3:    What is the name of the city that first TransPennine Express serves?
+A3:    London
+
+Q4:    What is the name of the company that operates CrossCountry trains?
+A4:    Virgin Trains East Coast
+
+-------------------data 24---------------------
+context:
+There are concentrations of pubs, bars and nightclubs around the Bigg Market and the Quayside area of the city centre. There are many bars on the Bigg Market, and other popular areas for nightlife are Collingwood Street, popularly referred to as the 'Diamond Strip' due to its concentration of high-end bars, Neville Street, the Central Station area and Osborne Road in the Jesmond area of the city. In recent years "The Gate" has opened in the city centre, a new indoor complex consisting of bars, upmarket clubs, restaurants and a 12-screen Empire multiplex cinema. Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, cafés and clubs.
+
+Q1:    What area is the main street of Newcastle?
+A1:    Quayside
+
+Q2:    What is the main attraction of the city?
+A2:    high-end bars, Neville Street, the Central Station area and Osborne Road in
+
+Q3:    What is the main attraction of the gay scene?
+A3:    a range of bars, cafés and clubs
+
+Q4:    What is the main attraction of the gay scene?
+A4:    a range of bars, cafés and clubs
+
+-------------------data 25---------------------
+context:
+"Bairn" and "hyem", meaning "child" and "home", respectively, are examples of Geordie words with origins in Scandinavia; barn and hjem are the corresponding modern Norwegian and Danish words. Some words used in the Geordie dialect are used elsewhere in the Northern United Kingdom. The words "bonny" (meaning "pretty"), "howay" ("come on"), "stot" ("bounce") and "hadaway" ("go away" or "you're kidding"), all appear to be used in Scots; "aye" ("yes") and "nowt" (IPA://naʊt/, rhymes with out,"nothing") are used elsewhere in Northern England. Many words, however, appear to be used exclusively in Newcastle and the surrounding area, such as "Canny" (a versatile word meaning "good", "nice" or "very"), "hacky" ("dirty"), "netty" ("toilet"), "hoy" ("throw", from the Dutch gooien, via West Frisian), "hockle" ("spit").
+
+Q1:    What is the meaning of bonny?
+A1:    "bounce"
+
+Q2:    What is the meaning of "bonny" in the Danish dialect?
+A2:    "bounce"
+
+Q3:    What is the meaning of "bonny" in the language?
+A3:    "bounce"
+
+Q4:    What is the meaning of "bonny" in Northern England?
+A4:    pretty
+
+-------------------data 26---------------------
+context:
+The city has an extensive neoclassical centre referred to as Tyneside Classical largely developed in the 1830s by Richard Grainger and John Dobson, and recently extensively restored. Broadcaster and writer Stuart Maconie described Newcastle as England's best-looking city and the late German-born British scholar of architecture, Nikolaus Pevsner, describes Grey Street as one of the finest streets in England. The street curves down from Grey's Monument towards the valley of the River Tyne and was voted England's finest street in 2005 in a survey of BBC Radio 4 listeners. In the Google Street View awards of 2010, Grey Street came 3rd in the British picturesque category. Osborne Road came 4th in the foodie street category. A portion of Grainger Town was demolished in the 1960s to make way for the Eldon Square Shopping Centre, including all but one side of the original Eldon Square itself.
+
+Q1:    What was the last development of Tyneside Classical?
+A1:    Osborne Road
+
+Q2:    What was a notable feature of the city?
+A2:    extensive neoclassical centre referred to as Tyneside Classical
+
+Q3:    What was voted the best street in the country?
+A3:    Grey Street
+
+Q4:    What was the second highest ranking street in the foodie category?
+A4:    Osborne Road
+
+Q5:    What was the lowest ranking street in the food category?
+A5:    Osborne Road
+
+Q6:    What was the purpose of the demolition of Grainger Town?
+A6:    make way for the Eldon Square Shopping Centre
+
+-------------------data 27---------------------
+context:
+ITV Tyne Tees was based at City Road for over 40 years after its launch in January 1959. In 2005 it moved to a new facility on The Watermark business park next to the MetroCentre in Gateshead. The entrance to studio 5 at the City Road complex gave its name to the 1980s music television programme, The Tube. BBC North East and Cumbria is located to the north of the city on Barrack Road, Spital Tongues, in a building known, as the result of its colouring, as the Pink Palace. It is from here that the Corporation broadcasts the Look North television regional news programme and local radio station BBC Radio Newcastle.
+
+Q1:    What happened to ITV Tyne Tees in 1959?
+A1:    moved to a new facility on The Watermark business park next to the MetroCentre in
+
+Q2:    What was the original name of the ITV Tyne Tees?
+A2:    The Tube
+
+Q3:    What was the name of the new facility on The Watermark business park?
+A3:    ITV Tyne Tees
+
+Q4:    What is the name of the ITV Tyne Tees?
+A4:    The Tube
+
+Q5:    What is the name of the ITV Tyne Tees?
+A5:    The Tube
+
+-------------------data 28---------------------
+context:
+NE1fm launched on 8 June 2007, the first full-time community radio station in the area. Newcastle Student Radio is run by students from both of the city's universities, broadcasting from Newcastle University's student's union building during term time. Radio Tyneside has been the voluntary hospital radio service for most hospitals across Newcastle and Gateshead since 1951, broadcasting on Hospedia  and online. The city also has a Radio Lollipop station based at the Great North Children's Hospital in the Newcastle Royal Victoria Infirmary.
+
+Q1:    What happened in the 7th year of the 20th century?
+A1:    NE1fm launched
+
+Q2:    What is the first broadcasting station in Newcastle?
+A2:    NE1fm
+
+Q3:    What is the first broadcasting station in Newcastle?
+A3:    NE1fm
+
+Q4:    What is the first station broadcasting?
+A4:    NE1fm
+
+-------------------data 29---------------------
+context:
+The historic heart of Newcastle is the Grainger Town area. Established on classical streets built by Richard Grainger, a builder and developer, between 1835 and 1842, some of Newcastle upon Tyne's finest buildings and streets lie within this area of the city centre including Grainger Market, Theatre Royal, Grey Street, Grainger Street and Clayton Street. These buildings are predominantly four stories high, with vertical dormers, domes, turrets and spikes. Richard Grainger was said to 'have found Newcastle of bricks and timber and left it in stone'. Of Grainger Town's 450 buildings, 244 are listed, of which 29 are grade I and 49 are grade II*.
+
+Q1:    What is the name of the city centre?
+A1:    Grainger Town
+
+Q2:    What is the name of the building Grainger was founded in?
+A2:    Grainger Town
+
+Q3:    What is the opposite of a Grainger street?
+A3:    Grainger Street
+
+Q4:    What was a result of the construction work done by Richard Grainger?
+A4:    some of Newcastle upon Tyne's finest buildings and streets lie within this area of the
+
+Q5:    What is the number of buildings listed in the text
+A5:    244
+
+-------------------data 30---------------------
+context:
+The city is served by the Tyne and Wear Metro, a system of suburban and underground railways covering much of Tyne and Wear. It was opened in five phases between 1980 and 1984, and was Britain's first urban light rail transit system; two extensions were opened in 1991 and 2002. It was developed from a combination of existing and newly built tracks and stations, with deep-level tunnels constructed through Newcastle city centre. A bridge was built across the Tyne, between Newcastle and Gateshead, and opened by Queen Elizabeth II in 1981. The network is operated by DB Regio on behalf of Nexus and carries over 37 million passengers a year, extending as far as Newcastle Airport, Tynemouth, South Shields and South Hylton in Sunderland. In 2004, the company Marconi designed and constructed the mobile radio system to the underground Metro system. The Metro system was the first in the UK to have mobile phone antennae installed in the tunnels.
+
+Q1:    What is the name of the city that has the most rail system?
+A1:    Newcastle
+
+Q2:    What was the first phase of the new rail system?
+A2:    1991 and 2002
+
+Q3:    What was the first major development of the transit system in the UK?
+A3:    deep-level tunnels constructed through Newcastle city centre
+
+Q4:    What was the first location of the new rail system?
+A4:    Newcastle city centre
+
+Q5:    What is the name of the company that owns the Tyne and Wear Metro?
+A5:    Marconi
+
+Q6:    What was the first company to have mobile phone antennae installed in the tunnels?
+A6:    Marconi
+
+Q7:    What was the first system installed in the tunnels?
+A7:    The Metro system
+
+-------------------data 31---------------------
+context:
+The area is also known for its early twentieth century homes, many of which have been restored in recent decades. The area includes many California Bungalow and American Craftsman style homes, Spanish Colonial Revival Style architecture, Mediterranean Revival Style architecture, Mission Revival Style architecture, and many Storybook houses designed by Fresno architects, Hilliard, Taylor & Wheeler. The residential architecture of the Tower District contrasts with the newer areas of tract homes urban sprawl in north and east areas of Fresno.
+
+Q1:    What is the main characteristic of the area?
+A1:    early twentieth century homes
+
+Q2:    What type of houses are designed by Fresno architects?
+A2:    Storybook
+
+Q3:    What is the opposite of newer areas of the tower district?
+A3:    newer areas
+
+-------------------data 32---------------------
+context:
+The neighborhood of Sunnyside is on Fresno's far southeast side, bounded by Chestnut Avenue to the West. Its major thoroughfares are Kings Canyon Avenue and Clovis Avenue. Although parts of Sunnyside are within the City of Fresno, much of the neighborhood is a "county island" within Fresno County. Largely developed in the 1950s through the 1970s, it has recently experienced a surge in new home construction. It is also the home of the Sunnyside Country Club, which maintains a golf course designed by William P. Bell.
+
+Q1:    What is the main point of the passage?
+A1:    southeast side
+
+Q2:    What is the main point of the passage?
+A2:    southeast side
+
+Q3:    What is the location of the neighborhood that is on the southeast side of Fresno?
+A3:    bounded by Chestnut Avenue to the West
+
+Q4:    What is the current status of Sunnyside?
+A4:    a surge in new home construction
+
+Q5:    What is the name of the neighborhood that has grown so far?
+A5:    Sunnyside
+
+-------------------data 33---------------------
+context:
+In the 1970s, the city was the subject of a song, "Walking Into Fresno", written by Hall Of Fame guitarist Bill Aken and recorded by Bob Gallion of the world-famous "WWVA Jamboree" radio and television show in Wheeling, West Virginia. Aken, adopted by Mexican movie actress Lupe Mayorga, grew up in the neighboring town of Madera and his song chronicled the hardships faced by the migrant farm workers he saw as a child. Aken also made his first TV appearance playing guitar on the old country-western show at The Fresno Barn.
+
+Q1:    What was the name of the song drafted by Bill Aken?
+A1:    Walking Into Fresno
+
+Q2:    What was the name of the song he adopted by Mayorga?
+A2:    Walking Into Fresno
+
+Q3:    What was the name of the song he played in the 1970s?
+A3:    Walking Into Fresno
+
+-------------------data 34---------------------
+context:
+The "West Side" of Fresno, also often called "Southwest Fresno", is one of the oldest neighborhoods in the city. The neighborhood lies southwest of the 99 freeway (which divides it from Downtown Fresno), west of the 41 freeway and south of Nielsen Ave (or the newly constructed 180 Freeway), and extends to the city limits to the west and south. The neighborhood is traditionally considered to be the center of Fresno's African-American community. It is culturally diverse and also includes significant Mexican-American and Asian-American (principally Hmong or Laotian) populations.
+
+Q1:    What is the opposite of the main street?
+A1:    Nielsen Ave
+
+Q2:    What is the main point of the passage?
+A2:    The neighborhood is traditionally considered to be the center of Fresno's African-American
+
+Q3:    What is the main topic of the passage?
+A3:    The neighborhood is traditionally considered to be the center of Fresno's African-American
+
+Q4:    What is the main topic of the passage?
+A4:    The neighborhood is traditionally considered to be the center of Fresno's African-American
+
+-------------------data 35---------------------
+context:
+Between the 1880s and World War II, Downtown Fresno flourished, filled with electric Street Cars, and contained some of the San Joaquin Valley's most beautiful architectural buildings. Among them, the original Fresno County Courthouse (demolished), the Fresno Carnegie Public Library (demolished), the Fresno Water Tower, the Bank of Italy Building, the Pacific Southwest Building, the San Joaquin Light & Power Building (currently known as the Grand 1401), and the Hughes Hotel (burned down), to name a few.
+
+Q1:    What was the location of the original Fresno building?
+A1:    Downtown
+
+Q2:    What was the original name of the San Joaquin Light & Power Building?
+A2:    Grand 1401
+
+-------------------data 36---------------------
+context:
+The 2010 United States Census reported that Fresno had a population of 494,665. The population density was 4,404.5 people per square mile (1,700.6/km²). The racial makeup of Fresno was 245,306 (49.6%) White, 40,960 (8.3%) African American, 8,525 (1.7%) Native American, 62,528 (12.6%) Asian (3.6% Hmong, 1.7% Indian, 1.2% Filipino, 1.2% Laotian, 1.0% Thai, 0.8% Cambodian, 0.7% Chinese, 0.5% Japanese, 0.4% Vietnamese, 0.2% Korean), 849 (0.2%) Pacific Islander, 111,984 (22.6%) from other races, and 24,513 (5.0%) from two or more races. Hispanic or Latino of any race were 232,055 persons (46.9%). Among the Hispanic population, 42.7% of the total population are Mexican, 0.4% Salvadoran, and 0.4% Puerto Rican. Non-Hispanic Whites were 30.0% of the population in 2010, down from 72.6% in 1970.
+
+Q1:    What was the population of the population of the United States?
+A1:    494,665.
+
+Q2:    What was the population of the population of the area that is not Hispanic?
+A2:    Puerto Rican
+
+Q3:    What percentage of people were not Hispanic or Latino?
+A3:    42.7%
+
+Q4:    How many people were in the Hispanic population?
+A4:    42.7%
+
+Q5:    What percentage of the population is not Hispanic?
+A5:    42.7%
+
+Q6:    What percentage of the population was not Hispanic?
+A6:    42.7%
+
+-------------------data 37---------------------
+context:
+Fresno is marked by a semi-arid climate (Köppen BSh), with mild, moist winters and hot and dry summers, thus displaying Mediterranean characteristics. December and January are the coldest months, and average around 46.5 °F (8.1 °C), and there are 14 nights with freezing lows annually, with the coldest night of the year typically bottoming out below 30 °F (−1.1 °C). July is the warmest month, averaging 83.0 °F (28.3 °C); normally, there are 32 days of 100 °F (37.8 °C)+ highs and 106 days of 90 °F (32.2 °C)+ highs, and in July and August, there are only three or four days where the high does not reach 90 °F (32.2 °C). Summers provide considerable sunshine, with July peaking at 97 percent of the total possible sunlight hours; conversely, January is the lowest with only 46 percent of the daylight time in sunlight because of thick tule fog. However, the year averages 81% of possible sunshine, for a total of 3550 hours. Average annual precipitation is around 11.5 inches (292.1 mm), which, by definition, would classify the area as a semidesert. Most of the wind rose direction occurrences derive from the northwest, as winds are driven downward along the axis of the California Central Valley; in December, January and February there is an increased presence of southeastern wind directions in the wind rose statistics. Fresno meteorology was selected in a national U.S. Environmental Protection Agency study for analysis of equilibrium temperature for use of ten-year meteorological data to represent a warm, dry western United States locale.
+
+Q1:    What is the coldest month?
+A1:    December
+
+Q2:    What is the coldest month?
+A2:    December
+
+Q3:    What is the coldest month?
+A3:    December
+
+Q4:    What is the coldest month?
+A4:    December
+
+Q5:    What is the coldest month?
+A5:    December
+
+Q6:    What is the temperature of the year that is not cooler than January?
+A6:    83.0 °F
+
+Q7:    What is the weather in Fresno?
+A7:    mild, moist winters and hot and dry summers
+
+Q8:    What is the weather measured in the winter?
+A8:    Mediterranean characteristics
+
+-------------------data 38---------------------
+context:
+This vibrant and culturally diverse area of retail businesses and residences experienced a renewal after a significant decline in the late 1960s and 1970s.[citation needed] After decades of neglect and suburban flight, the neighborhood revival followed the re-opening of the Tower Theatre in the late 1970s, which at that time showed second and third run movies, along with classic films. Roger Rocka's Dinner Theater & Good Company Players also opened nearby in 1978,[citation needed] at Olive and Wishon Avenues. Fresno native Audra McDonald performed in the leading roles of Evita and The Wiz at the theater while she was a high school student. McDonald subsequently became a leading performer on Broadway in New York City and a Tony award winning actress. Also in the Tower District is Good Company Players' 2nd Space Theatre.
+
+Q1:    What happened to the revitalization of the neighborhood after the first and second run movies?
+A1:    decline
+
+Q2:    What was the first name of the second theater opened in 1978?
+A2:    Roger Rocka's Dinner Theater & Good Company Players
+
+Q3:    What was McDonald's first role in the theater?
+A3:    a leading performer
+
+Q4:    What was McDonald's first name in the movie
+A4:    Audra
+
+Q5:    What is the opposite of a Broadway star?
+A5:    Tony
+
+-------------------data 39---------------------
+context:
+In addition to the negative consequences of sleep deprivation, sleep and the intertwined circadian system have been shown to have strong regulatory effects on immunological functions affecting both the innate and the adaptive immunity. First, during the early slow-wave-sleep stage, a sudden drop in blood levels of cortisol, epinephrine, and norepinephrine induce increased blood levels of the hormones leptin, pituitary growth hormone, and prolactin. These signals induce a pro-inflammatory state through the production of the pro-inflammatory cytokines interleukin-1, interleukin-12, TNF-alpha and IFN-gamma. These cytokines then stimulate immune functions such as immune cells activation, proliferation, and differentiation. It is during this time that undifferentiated, or less differentiated, like naïve and central memory T cells, peak (i.e. during a time of a slowly evolving adaptive immune response). In addition to these effects, the milieu of hormones produced at this time (leptin, pituitary growth hormone, and prolactin) support the interactions between APCs and T-cells, a shift of the Th1/Th2 cytokine balance towards one that supports Th1, an increase in overall Th cell proliferation, and naïve T cell migration to lymph nodes. This milieu is also thought to support the formation of long-lasting immune memory through the initiation of Th1 immune responses.
+
+Q1:    What is the opposite of the opposite?
+A1:    sleep deprivation
+
+Q2:    What is the cause of sudden drop in blood levels?
+A2:    sleep deprivation
+
+Q3:    What is the T cells a part of?
+A3:    immune
+
+Q4:    What is the opposite of undifferentiated?
+A4:    less differentiated
+
+Q5:    What is the opposite of normal?
+A5:    sleep deprivation
+
+Q6:    What is the difference between the two types of cells?
+A6:    undifferentiated, or less differentiated, like nave and central memory
+
+Q7:    What is the main idea of the passage?
+A7:    a sudden drop in blood levels of cortisol, epineph
+
+-------------------data 40---------------------
+context:
+The immune system protects organisms from infection with layered defenses of increasing specificity. In simple terms, physical barriers prevent pathogens such as bacteria and viruses from entering the organism. If a pathogen breaches these barriers, the innate immune system provides an immediate, but non-specific response. Innate immune systems are found in all plants and animals. If pathogens successfully evade the innate response, vertebrates possess a second layer of protection, the adaptive immune system, which is activated by the innate response. Here, the immune system adapts its response during an infection to improve its recognition of the pathogen. This improved response is then retained after the pathogen has been eliminated, in the form of an immunological memory, and allows the adaptive immune system to mount faster and stronger attacks each time this pathogen is encountered.
+
+Q1:    What is the opposite of a layered defense?
+A1:    increasing specificity
+
+Q2:    What is the opposite of a virus?
+A2:    viruses
+
+Q3:    What is the opposite of a pathogen?
+A3:    viruses
+
+Q4:    What is the opposite of a human?
+A4:    organisms
+
+Q5:    What is the second layer of protection mentioned?
+A5:    immune system
+
+Q6:    What is the way the immune system adapts to an infection?
+A6:    improve its recognition of the pathogen
+
+Q7:    What is the result of an improved immune system response?
+A7:    increased specificity
+
+-------------------data 41---------------------
+context:
+The main response of the immune system to tumors is to destroy the abnormal cells using killer T cells, sometimes with the assistance of helper T cells. Tumor antigens are presented on MHC class I molecules in a similar way to viral antigens. This allows killer T cells to recognize the tumor cell as abnormal. NK cells also kill tumorous cells in a similar way, especially if the tumor cells have fewer MHC class I molecules on their surface than normal; this is a common phenomenon with tumors. Sometimes antibodies are generated against tumor cells allowing for their destruction by the complement system.
+
+Q1:    What is the main goal of the immune system?
+A1:    destroy the abnormal cells using killer T cells
+
+Q2:    What is used to recognize tumor cells?
+A2:    NK cells
+
+Q3:    What is the main goal?
+A3:    destroy the abnormal cells using killer T cells
+
+Q4:    What is the main idea of the passage?
+A4:    destroy the abnormal cells using killer T cells
+
+Q5:    What is the main idea of the passage?
+A5:    destroy the abnormal cells using killer T cells
+
+-------------------data 42---------------------
+context:
+The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.
+
+Q1:    What is the system that protects against disease?
+A1:    immune system
+
+Q2:    What is the system that protects the brain?
+A2:    immune system
+
+Q3:    What is the immune system called?
+A3:    immune
+
+Q4:    What is the blood-cerebrospinal fluid barrier?
+A4:    the peripheral immune system
+
+-------------------data 43---------------------
+context:
+A B cell identifies pathogens when antibodies on its surface bind to a specific foreign antigen. This antigen/antibody complex is taken up by the B cell and processed by proteolysis into peptides. The B cell then displays these antigenic peptides on its surface MHC class II molecules. This combination of MHC and antigen attracts a matching helper T cell, which releases lymphokines and activates the B cell. As the activated B cell then begins to divide, its offspring (plasma cells) secrete millions of copies of the antibody that recognizes this antigen. These antibodies circulate in blood plasma and lymph, bind to pathogens expressing the antigen and mark them for destruction by complement activation or for uptake and destruction by phagocytes. Antibodies can also neutralize challenges directly, by binding to bacterial toxins or by interfering with the receptors that viruses and bacteria use to infect cells.
+
+Q1:    What is the B cell a part of?
+A1:    antigen/antibody complex
+
+Q2:    What is the B cell a part of?
+A2:    antigen/antibody complex
+
+Q3:    What is the B cell a part of?
+A3:    antigen/antibody complex
+
+Q4:    What is the B cell activated by?
+A4:    peptides
+
+Q5:    What is the B cell activated by?
+A5:    peptides
+
+Q6:    What is the opposite of a B cell?
+A6:    B cell
+
+Q7:    What is a way antibodies work with a bacteria?
+A7:    interfering with the receptors that viruses and bacteria use to infect cells
+
+-------------------data 44---------------------
+context:
+In humans, this response is activated by complement binding to antibodies that have attached to these microbes or the binding of complement proteins to carbohydrates on the surfaces of microbes. This recognition signal triggers a rapid killing response. The speed of the response is a result of signal amplification that occurs following sequential proteolytic activation of complement molecules, which are also proteases. After complement proteins initially bind to the microbe, they activate their protease activity, which in turn activates other complement proteases, and so on. This produces a catalytic cascade that amplifies the initial signal by controlled positive feedback. The cascade results in the production of peptides that attract immune cells, increase vascular permeability, and opsonize (coat) the surface of a pathogen, marking it for destruction. This deposition of complement can also kill cells directly by disrupting their plasma membrane.
+
+Q1:    What is the role of complement binding to proteins?
+A1:    activate
+
+Q2:    What is the result of rapid killing response?
+A2:    This recognition signal triggers a rapid killing response
+
+Q3:    What is the result of rapid killing response?
+A3:    This recognition signal triggers a rapid killing response
+
+Q4:    What is the result of signal mplification?
+A4:    The speed of the response
+
+Q5:    What is controlled?
+A5:    positive feedback
+
+Q6:    What is a benefit of the cascade?
+A6:    This deposition of complement can also kill cells directly by disrupting their plasma membrane
+
+Q7:    What is a benefit of the deposition of complement?
+A7:    destroy
+
+-------------------data 45---------------------
+context:
+It is likely that a multicomponent, adaptive immune system arose with the first vertebrates, as invertebrates do not generate lymphocytes or an antibody-based humoral response. Many species, however, utilize mechanisms that appear to be precursors of these aspects of vertebrate immunity. Immune systems appear even in the structurally most simple forms of life, with bacteria using a unique defense mechanism, called the restriction modification system to protect themselves from viral pathogens, called bacteriophages. Prokaryotes also possess acquired immunity, through a system that uses CRISPR sequences to retain fragments of the genomes of phage that they have come into contact with in the past, which allows them to block virus replication through a form of RNA interference. Offensive elements of the immune systems are also present in unicellular eukaryotes, but studies of their roles in defense are few.
+
+Q1:    What is the opposite of invertebrates?
+A1:    a multicomponent, adaptive immune system arose with the first vertebrates
+
+Q2:    What is the opposite of invertebrates?
+A2:    a multicomponent, adaptive immune system arose with the first vertebrates
+
+Q3:    What is the unique way to protect themselves from viruses?
+A3:    restriction modification system
+
+Q4:    What is the mechanism that protects itself from viruses?
+A4:    restriction modification system
+
+Q5:    What is a common feature of immune systems?
+A5:    Offensive elements
+
+-------------------data 46---------------------
+context:
+Hormones can act as immunomodulators, altering the sensitivity of the immune system. For example, female sex hormones are known immunostimulators of both adaptive and innate immune responses. Some autoimmune diseases such as lupus erythematosus strike women preferentially, and their onset often coincides with puberty. By contrast, male sex hormones such as testosterone seem to be immunosuppressive. Other hormones appear to regulate the immune system as well, most notably prolactin, growth hormone and vitamin D.
+
+Q1:    What is the opposite of a male sex hormone?
+A1:    testosterone
+
+Q2:    What is the opposite of a male hormone?
+A2:    testosterone
+
+Q3:    What is the opposite of male hormones?
+A3:    testosterone
+
+Q4:    What is testosterone?
+A4:    immunomodulators
+
+Q5:    What is the growth hormone mentioned?
+A5:    prolactin
+
+-------------------data 47---------------------
+context:
+It is conjectured that a progressive decline in hormone levels with age is partially responsible for weakened immune responses in aging individuals. Conversely, some hormones are regulated by the immune system, notably thyroid hormone activity. The age-related decline in immune function is also related to decreasing vitamin D levels in the elderly. As people age, two things happen that negatively affect their vitamin D levels. First, they stay indoors more due to decreased activity levels. This means that they get less sun and therefore produce less cholecalciferol via UVB radiation. Second, as a person ages the skin becomes less adept at producing vitamin D.
+
+Q1:    What is a contributing factor to the decline in hormone levels?
+A1:    weakened immune responses in aging individuals
+
+Q2:    What is a contributing factor to the decline in hormone levels in older people?
+A2:    weakened immune responses
+
+Q3:    What is a contributing factor to decline in hormone levels in the elderly?
+A3:    weakened immune responses
+
+Q4:    What affects the health of people?
+A4:    age-related decline in immune function is also related to decreasing vitamin D levels in the elderly
+
+Q5:    What is the reason for the decline in hormone levels?
+A5:    weakened immune responses in aging individuals
+
+Q6:    What does UVB do to help people with skin?
+A6:    produce less cholecalciferol
+
+Q7:    What does the skin produce?
+A7:    vitamin D
+
+-------------------data 48---------------------
+context:
+Neutrophils and macrophages are phagocytes that travel throughout the body in pursuit of invading pathogens. Neutrophils are normally found in the bloodstream and are the most abundant type of phagocyte, normally representing 50% to 60% of the total circulating leukocytes. During the acute phase of inflammation, particularly as a result of bacterial infection, neutrophils migrate toward the site of inflammation in a process called chemotaxis, and are usually the first cells to arrive at the scene of infection. Macrophages are versatile cells that reside within tissues and produce a wide array of chemicals including enzymes, complement proteins, and regulatory factors such as interleukin 1. Macrophages also act as scavengers, ridding the body of worn-out cells and other debris, and as antigen-presenting cells that activate the adaptive immune system.
+
+Q1:    What is the type of phagocyte that travels through the body?
+A1:    macrophages
+
+Q2:    What is the most abundant type of phagocyte?
+A2:    Neutrophils
+
+Q3:    What is the first cell that arrives at the scene of inflammation?
+A3:    neutrophils
+
+Q4:    What is the role of Macrophages?
+A4:    versatile cells
+
+Q5:    What is the role of Macrophages?
+A5:    versatile cells
+
+-------------------data 49---------------------
+context:
+Anti-inflammatory drugs are often used to control the effects of inflammation. Glucocorticoids are the most powerful of these drugs; however, these drugs can have many undesirable side effects, such as central obesity, hyperglycemia, osteoporosis, and their use must be tightly controlled. Lower doses of anti-inflammatory drugs are often used in conjunction with cytotoxic or immunosuppressive drugs such as methotrexate or azathioprine. Cytotoxic drugs inhibit the immune response by killing dividing cells such as activated T cells. However, the killing is indiscriminate and other constantly dividing cells and their organs are affected, which causes toxic side effects. Immunosuppressive drugs such as cyclosporin prevent T cells from responding to signals correctly by inhibiting signal transduction pathways.
+
+Q1:    What is used to control inflammation?
+A1:    Anti-inflammatory drugs
+
+Q2:    What is a side effect that must be controlled?
+A2:    central obesity, hyperglycemia, osteoporosis
+
+Q3:    What is methotrexate used for?
+A3:    anti-inflammatory drugs
+
+Q4:    What is a benefit of anti-inflammatory drugs?
+A4:    central obesity, hyperglycemia, osteoporosis
+
+Q5:    What is a cytotoxic drug that kills dividing cells?
+A5:    azathioprine
+
+Q6:    What does cytotoxic drugs do to help T cells respond to signals?
+A6:    inhibiting signal transduction pathways
+
+-------------------data 50---------------------
+context:
+Natural killer cells, or NK cells, are a component of the innate immune system which does not directly attack invading microbes. Rather, NK cells destroy compromised host cells, such as tumor cells or virus-infected cells, recognizing such cells by a condition known as "missing self." This term describes cells with low levels of a cell-surface marker called MHC I (major histocompatibility complex) – a situation that can arise in viral infections of host cells. They were named "natural killer" because of the initial notion that they do not require activation in order to kill cells that are "missing self." For many years it was unclear how NK cells recognize tumor cells and infected cells. It is now known that the MHC makeup on the surface of those cells is altered and the NK cells become activated through recognition of "missing self". Normal body cells are not recognized and attacked by NK cells because they express intact self MHC antigens. Those MHC antigens are recognized by killer cell immunoglobulin receptors (KIR) which essentially put the brakes on NK cells.
+
+Q1:    What is a NK cell that does not directly attack invading microbes
+A1:    Natural killer cells
+
+Q2:    What is a condition called missing self?
+A2:    NK cells
+
+Q3:    What is a condition called when cells are not recognizable?
+A3:    "missing self"
+
+Q4:    What is a condition called that NK cells destroy?
+A4:    compromised host cells
+
+Q5:    What is the main idea of the passage?
+A5:    Natural killer cells, or NK cells, are a component of the innate immune system
+
+Q6:    What is the MHC on the surface of cells?
+A6:    makeup
+
+Q7:    What is the MHC on the surface of NK cells?
+A7:    makeup
+
+Q8:    What is the name of a killer cell that targets NK cells?
+A8:    NK cells
+
+-------------------data 51---------------------
+context:
+The mechanisms used to evade the adaptive immune system are more complicated. The simplest approach is to rapidly change non-essential epitopes (amino acids and/or sugars) on the surface of the pathogen, while keeping essential epitopes concealed. This is called antigenic variation. An example is HIV, which mutates rapidly, so the proteins on its viral envelope that are essential for entry into its host target cell are constantly changing. These frequent changes in antigens may explain the failures of vaccines directed at this virus. The parasite Trypanosoma brucei uses a similar strategy, constantly switching one type of surface protein for another, allowing it to stay one step ahead of the antibody response. Masking antigens with host molecules is another common strategy for avoiding detection by the immune system. In HIV, the envelope that covers the virion is formed from the outermost membrane of the host cell; such "self-cloaked" viruses make it difficult for the immune system to identify them as "non-self" structures.
+
+Q1:    What is the opposite of a syllable?
+A1:    immune system
+
+Q2:    What is the opposite of a simple approach to avoiding infection?
+A2:    simplest
+
+Q3:    What is a way to avoid detection by the immune system?
+A3:    Masking antigens with host molecules
+
+Q4:    What is the opposite of a virus?
+A4:    immune system
+
+Q5:    What is a common strategy for avoiding detection by the immune system?
+A5:    Masking antigens with host molecules
+
+Q6:    What is the opposite of a strategy?
+A6:    Masking antigens
+
+Q7:    What is a way to avoid detection by the immune system?
+A7:    Masking antigens with host molecules
+
+Q8:    What is the opposite of a virus?
+A8:    immune system
+
+-------------------data 52---------------------
+context:
+Chemical barriers also protect against infection. The skin and respiratory tract secrete antimicrobial peptides such as the β-defensins. Enzymes such as lysozyme and phospholipase A2 in saliva, tears, and breast milk are also antibacterials. Vaginal secretions serve as a chemical barrier following menarche, when they become slightly acidic, while semen contains defensins and zinc to kill pathogens. In the stomach, gastric acid and proteases serve as powerful chemical defenses against ingested pathogens.
+
+Q1:    What is a protective barrier against infection?
+A1:    Chemical barriers
+
+Q2:    What is a protective barrier for the skin?
+A2:    Chemical barriers
+
+Q3:    What is phospholipase A2 in saliva?
+A3:    antibacterials
+
+Q4:    What is the second mentioned chemical barrier to treat menarche?
+A4:    Vaginal secretions
+
+Q5:    What is a protective layer against menarche?
+A5:    peptides
+
+-------------------data 53---------------------
+context:
+Pattern recognition receptors are proteins used by nearly all organisms to identify molecules associated with pathogens. Antimicrobial peptides called defensins are an evolutionarily conserved component of the innate immune response found in all animals and plants, and represent the main form of invertebrate systemic immunity. The complement system and phagocytic cells are also used by most forms of invertebrate life. Ribonucleases and the RNA interference pathway are conserved across all eukaryotes, and are thought to play a role in the immune response to viruses.
+
+Q1:    What is used to identify pathogens?
+A1:    proteins
+
+Q2:    What is used to identify molecules associated with pathogens?
+A2:    Pattern recognition receptors
+
+Q3:    What is the RNA pathway used for?
+A3:    to identify molecules associated with pathogens
+
+Q4:    What role does the ribocleases play in the immune response?
+A4:    RNA interference pathway
+
+-------------------data 54---------------------
+context:
+Both innate and adaptive immunity depend on the ability of the immune system to distinguish between self and non-self molecules. In immunology, self molecules are those components of an organism's body that can be distinguished from foreign substances by the immune system. Conversely, non-self molecules are those recognized as foreign molecules. One class of non-self molecules are called antigens (short for antibody generators) and are defined as substances that bind to specific immune receptors and elicit an immune response.
+
+Q1:    What is the role of the immune system in immunity?
+A1:    depend on the ability of the immune system to distinguish between self and non-self molecules
+
+Q2:    What is the opposite of self molecules?
+A2:    self
+
+Q3:    What is the name of the non-self molecules that are recognized as foreign molecules?
+A3:    self
+
+Q4:    What is the name of the antigens?
+A4:    non-self molecules
+
+-------------------data 55---------------------
+context:
+The adaptive immune system evolved in early vertebrates and allows for a stronger immune response as well as immunological memory, where each pathogen is "remembered" by a signature antigen. The adaptive immune response is antigen-specific and requires the recognition of specific "non-self" antigens during a process called antigen presentation. Antigen specificity allows for the generation of responses that are tailored to specific pathogens or pathogen-infected cells. The ability to mount these tailored responses is maintained in the body by "memory cells". Should a pathogen infect the body more than once, these specific memory cells are used to quickly eliminate it.
+
+Q1:    What is the key to the adaptive immune system's ability to function?
+A1:    stronger immune response as well as immunological memory
+
+Q2:    What is the key to the adaptive immune response?
+A2:    a stronger immune response as well as immunological memory
+
+Q3:    What is the key to the adaptive immune response?
+A3:    a stronger immune response as well as immunological memory
+
+Q4:    What is the ability to mount customized responses?
+A4:    memory cells
+
+Q5:    What is the way that the immune system can function?
+A5:    allows for a stronger immune response as well as immunological memory
+
+-------------------data 56---------------------
+context:
+Larger drugs (>500 Da) can provoke a neutralizing immune response, particularly if the drugs are administered repeatedly, or in larger doses. This limits the effectiveness of drugs based on larger peptides and proteins (which are typically larger than 6000 Da). In some cases, the drug itself is not immunogenic, but may be co-administered with an immunogenic compound, as is sometimes the case for Taxol. Computational methods have been developed to predict the immunogenicity of peptides and proteins, which are particularly useful in designing therapeutic antibodies, assessing likely virulence of mutations in viral coat particles, and validation of proposed peptide-based drug treatments. Early techniques relied mainly on the observation that hydrophilic amino acids are overrepresented in epitope regions than hydrophobic amino acids; however, more recent developments rely on machine learning techniques using databases of existing known epitopes, usually on well-studied virus proteins, as a training set. A publicly accessible database has been established for the cataloguing of epitopes from pathogens known to be recognizable by B cells. The emerging field of bioinformatics-based studies of immunogenicity is referred to as immunoinformatics. Immunoproteomics is the study of large sets of proteins (proteomics) involved in the immune response.
+
+Q1:    What is the difference between a large and non-functional drug and a non-stop
+A1:    if the drugs are administered repeatedly, or in larger doses
+
+Q2:    What is the difference between a small and a larger dose of drugs?
+A2:    if the drugs are administered repeatedly
+
+Q3:    What is tax proof of the method used to determine the immunogenicity of peptides
+A3:    Computational methods
+
+Q4:    What is a compound that is not immunogenic?
+A4:    taxol
+
+Q5:    What is the main topic of the article?
+A5:    Larger drugs (>500 Da) can provoke a neutralizing immune response
+
+Q6:    What is the first step in predicting immunogenicity?
+A6:    Computational methods
+
+Q7:    What is the first step in the field of immunoinformatics?
+A7:    immunoproteomics
+
+Q8:    What is the first step in immunogenicity?
+A8:    a neutralizing immune response
+
+-------------------data 57---------------------
+context:
+Disorders of the immune system can result in autoimmune diseases, inflammatory diseases and cancer. Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. In humans, immunodeficiency can either be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. In contrast, autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. Immunology covers the study of all aspects of the immune system.
+
+Q1:    What is the cause of autoimmune diseases?
+A1:    cancer
+
+Q2:    What is the cause of life-threatening infections?
+A2:    Immunodeficiency occurs when the immune system is less active than normal
+
+Q3:    What is the opposite of a combination immunodeficiency?
+A3:    autoimmunity
+
+Q4:    What is the main topic of the article?
+A4:    Disorders of the immune system
+
+Q5:    What type of disease is the immune system autoimmune?
+A5:    cancer
+
+Q6:    What is the main topic of the article?
+A6:    Disorders of the immune system
+
+-------------------data 58---------------------
+context:
+Gamma delta T cells (γδ T cells) possess an alternative T cell receptor (TCR) as opposed to CD4+ and CD8+ (αβ) T cells and share the characteristics of helper T cells, cytotoxic T cells and NK cells. The conditions that produce responses from γδ T cells are not fully understood. Like other 'unconventional' T cell subsets bearing invariant TCRs, such as CD1d-restricted Natural Killer T cells, γδ T cells straddle the border between innate and adaptive immunity. On one hand, γδ T cells are a component of adaptive immunity as they rearrange TCR genes to produce receptor diversity and can also develop a memory phenotype. On the other hand, the various subsets are also part of the innate immune system, as restricted TCR or NK receptors may be used as pattern recognition receptors. For example, large numbers of human Vγ9/Vδ2 T cells respond within hours to common molecules produced by microbes, and highly restricted Vδ1+ T cells in epithelia respond to stressed epithelial cells.
+
+Q1:    What is the T cells?
+A1:    cytotoxic T cells
+
+Q2:    What is the difference between T cells and T cells?
+A2:    innate and adaptive immunity
+
+Q3:    What is the difference between T cells and T cells?
+A3:    innate and adaptive immunity
+
+Q4:    What is the T cells?
+A4:    cytotoxic T cells
+
+Q5:    What is the T cells?
+A5:    cytotoxic T cells
+
+Q6:    What is the difference between T cells and T cells?
+A6:    innate and adaptive immunity
+
+-------------------data 59---------------------
+context:
+A steam turbine consists of one or more rotors (rotating discs) mounted on a drive shaft, alternating with a series of stators (static discs) fixed to the turbine casing. The rotors have a propeller-like arrangement of blades at the outer edge. Steam acts upon these blades, producing rotary motion. The stator consists of a similar, but fixed, series of blades that serve to redirect the steam flow onto the next rotor stage. A steam turbine often exhausts into a surface condenser that provides a vacuum. The stages of a steam turbine are typically arranged to extract the maximum potential work from a specific velocity and pressure of steam, giving rise to a series of variably sized high- and low-pressure stages. Turbines are only efficient if they rotate at relatively high speed, therefore they are usually connected to reduction gearing to drive lower speed applications, such as a ship's propeller. In the vast majority of large electric generating stations, turbines are directly connected to generators with no reduction gearing. Typical speeds are 3600 revolutions per minute (RPM) in the USA with 60 Hertz power, 3000 RPM in Europe and other countries with 50 Hertz electric power systems. In nuclear power applications the turbines typically run at half these speeds, 1800 RPM and 1500 RPM. A turbine rotor is also only capable of providing power when rotating in one direction. Therefore, a reversing stage or gearbox is usually required where power is required in the opposite direction.[citation needed]
+
+Q1:    What is a steam turbine a part of?
+A1:    nuclear power
+
+Q2:    What is a propeller like a turbine?
+A2:    rotors
+
+Q3:    What is a steam turbine a part of?
+A3:    nuclear power
+
+Q4:    What is a steam turbine a part of?
+A4:    nuclear power
+
+Q5:    What is a steam turbine exhausting process called?
+A5:    a vacuum
+
+Q6:    What is a turbine rotor?
+A6:    rotating discs
+
+Q7:    What is a turbine rotor?
+A7:    rotating discs
+
+Q8:    What is a turbine rotor?
+A8:    rotating discs
+
+Q9:    What is the average speed of a turbine in Europe?
+A9:    3600 revolutions per minute
+
+Q10:    What is a turbine rotor capable of providing power in one direction?
+A10:    a reversing stage or gearbox
+
+Q11:    What is a turbine rotor?
+A11:    rotating discs
+
+Q12:    What is a turbine reversing stage or gearbox required?
+A12:    power is required in the opposite direction
+
+-------------------data 60---------------------
+context:
+The historical measure of a steam engine's energy efficiency was its "duty". The concept of duty was first introduced by Watt in order to illustrate how much more efficient his engines were over the earlier Newcomen designs. Duty is the number of foot-pounds of work delivered by burning one bushel (94 pounds) of coal. The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million. Watt's original low-pressure designs were able to deliver duty as high as 25 million, but averaged about 17. This was a three-fold improvement over the average Newcomen design. Early Watt engines equipped with high-pressure steam improved this to 65 million.
+
+Q1:    What was the purpose of duty?
+A1:    to illustrate how much more efficient his engines were over the earlier Newcomen designs
+
+Q2:    What was the purpose of duty?
+A2:    to illustrate how much more efficient his engines were over the earlier Newcomen designs
+
+Q3:    What is the number of pounds of work done by burning one bushel of coal?
+A3:    94
+
+Q4:    What was the difference in duty?
+A4:    Watt's original low-pressure designs were able to deliver duty as high as 25 million
+
+Q5:    What was the difference between Watt's low-pressure designs and Newcomen designs?
+A5:    a three-fold improvement
+
+Q6:    What was the difference in the number of newcomen engines used?
+A6:    Duty
+
+Q7:    What was the difference in the current Watt engines' capacity?
+A7:    improved this to 65 million
+
+-------------------data 61---------------------
+context:
+Lead fusible plugs may be present in the crown of the boiler's firebox. If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+
+Q1:    What is the cause of the flame?
+A1:    the water level drops
+
+Q2:    What is the cause of the steam escape?
+A2:    the water level drops
+
+Q3:    What is the main issue with the boilers: the volume of steam escaping from the boiler
+A3:    The plugs are also too small in area to lower steam pressure significantly, depressurizing
+
+Q4:    What is the size of the boiler?
+A4:    smallest
+
+Q5:    What is the main issue that the boilers face with the steam?
+A5:    the water level drops
+
+-------------------data 62---------------------
+context:
+Trevithick continued his own experiments using a trio of locomotives, concluding with the Catch Me Who Can in 1808. Only four years later, the successful twin-cylinder locomotive Salamanca by Matthew Murray was used by the edge railed rack and pinion Middleton Railway. In 1825 George Stephenson built the Locomotion for the Stockton and Darlington Railway. This was the first public steam railway in the world and then in 1829, he built The Rocket which was entered in and won the Rainhill Trials. The Liverpool and Manchester Railway opened in 1830 making exclusive use of steam power for both passenger and freight trains.
+
+Q1:    What was the first locomotive mentioned?
+A1:    Salamanca
+
+Q2:    What was Salamanca used by the edge rack and then a train?
+A2:    twin-cylinder locomotive
+
+Q3:    What was the first railway in the world?
+A3:    The Rocket
+
+Q4:    What happened in the 29th year of the 1820s?
+A4:    George Stephenson built the Locomotion for the Stockton and Darlington Railway
+
+Q5:    What is the main purpose of the railway?
+A5:    passenger and freight trains
+
+-------------------data 63---------------------
+context:
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. This arrangement is considerably safer.[citation needed]
+
+Q1:    What is the difference between the two mechanisms?
+A1:    one may be adjusted by the user, the second is typically designed as an ultimate fail-safe
+
+Q2:    What is the main idea of the passage?
+A2:    one may be adjusted by the user, the second is typically designed as an ultimate fail-safe
+
+Q3:    What was the result of the failure of the valve?
+A3:    early valves could be adjusted by engine drivers
+
+Q4:    What is the main benefit of valves?
+A4:    increased steam pressure and more power from the engine
+
+Q5:    What is the main benefit of the valve?
+A5:    increased steam pressure and more power from the engine
+
+Q6:    What is a benefit of the valve?
+A6:    safer
+
+-------------------data 64---------------------
+context:
+Other components are often present; pumps (such as an injector) to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of vaporisation, and superheaters to raise the temperature of the steam above its saturated vapour point, and various mechanisms to increase the draft for fireboxes. When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel from a supply bin (bunker) to the firebox. See: Mechanical stoker
+
+Q1:    What is used to move fuel from the fuel from the fireboxes?
+A1:    a chain or screw stoking mechanism
+
+Q2:    What is the main idea of the passage?
+A2:    Other components are often present; pumps (such as an injector) to supply water to the
+
+Q3:    What is the main topic of the passage?
+A3:    pumps
+
+-------------------data 65---------------------
+context:
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. These engines use a series of cylinders of progressively increasing diameter. These cylinders are designed to divide the work into equal shares for each expansion stage. As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed]
+
+Q1:    What is the difference between the two expansion engines?
+A1:    Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+Q2:    What is the difference between the three and four expansion engines?
+A2:    triple and quadruple expansion engines respectively
+
+Q3:    What is the opposite of triple and quadruple expansion engines?
+A3:    triple
+
+Q4:    What is the difference between cylinders and quadruple expansion engines?
+A4:    These cylinders are designed to divide the work into equal shares for each expansion stage
+
+Q5:    What is the difference between cylinders and cylinders?
+A5:    Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+Q6:    What is the difference between a double expansion engine and a low-pressure stage?
+A6:    space is at a premium
+
+Q7:    What is the difference between cylinders and cylinders?
+A7:    Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+Q8:    What was used in the earliest years of the century?
+A8:    Yarrow-Schlick-Tweedy balancing'system'
+
+Q9:    What is the difference in the low-pressure expansion stages?
+A9:    Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+Q10:    What was the result of the logical extension of the compound engine?
+A10:    The result is the multiple expansion engine
+
+Q11:    What was the result of the triple-expansion engine being popular with large passenger liners
+A11:    this was ultimately replaced by the virtually vibration-free turbine engine
+
+-------------------data 66---------------------
+context:
+The history of the steam engine stretches back as far as the first century AD; the first recorded rudimentary steam engine being the aeolipile described by Greek mathematician Hero of Alexandria. In the following centuries, the few steam-powered "engines" known were, like the aeolipile, essentially experimental devices used by inventors to demonstrate the properties of steam. A rudimentary steam turbine device was described by Taqi al-Din in 1551 and by Giovanni Branca in 1629. Jerónimo de Ayanz y Beaumont received patents in 1606 for fifty steam powered inventions, including a water pump for draining inundated mines. Denis Papin, a Huguenot refugee, did some useful work on the steam digester in 1679, and first used a piston to raise weights in 1690.
+
+Q1:    What was the name of the first steam engine mentioned?
+A1:    aeolipile
+
+Q2:    What was used to test the properties of steam?
+A2:    experimental devices
+
+Q3:    What happened to the first steam engine?
+A3:    stretches back as far as the first century AD
+
+Q4:    What was used to a steam digester?
+A4:    piston
+
+Q5:    What was Papin's first job?
+A5:    a piston
+
+-------------------data 67---------------------
+context:
+It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+
+Q1:    What is the Wankel engine used for?
+A1:    pistonless
+
+Q2:    What is the difference between the two engines?
+A2:    The major problem is the difficulty of sealing the rotors to make them steam-t
+
+Q3:    What is the main issue with such engines?
+A3:    Lack of expansive working, or any means of control of the cutoff
+
+Q4:    What is the main issue with such engines?
+A4:    Lack of expansive working, or any means of control of the cutoff
+
+-------------------data 68---------------------
+context:
+The final major evolution of the steam engine design was the use of steam turbines starting in the late part of the 19th century. Steam turbines are generally more efficient than reciprocating piston type steam engines (for outputs above several hundred horsepower), have fewer moving parts, and provide rotary power directly instead of through a connecting rod system or similar means. Steam turbines virtually replaced reciprocating engines in electricity generating stations early in the 20th century, where their efficiency, higher speed appropriate to generator service, and smooth rotation were advantages. Today most electric power is provided by steam turbines. In the United States 90% of the electric power is produced in this way using a variety of heat sources. Steam turbines were extensively applied for propulsion of large ships throughout most of the 20th century.
+
+Q1:    What is the difference between the late 20th and 20th century steam turbines?
+A1:    The final major evolution of the steam engine design
+
+Q2:    What is the difference between steam turbines and pistons?
+A2:    reciprocating piston type steam engines
+
+Q3:    What is the difference between steam turbines and pistons?
+A3:    reciprocating piston type steam engines
+
+Q4:    What is the main advantage of steam turbines?
+A4:    smooth rotation
+
+Q5:    What is the main advantage of steam turbines?
+A5:    smooth rotation
+
+Q6:    What is used to propulsion of large ships?
+A6:    steam turbines
+
+-------------------data 69---------------------
+context:
+Although the reciprocating steam engine is no longer in widespread commercial use, various companies are exploring or exploiting the potential of the engine as an alternative to internal combustion engines. The company Energiprojekt AB in Sweden has made progress in using modern materials for harnessing the power of steam. The efficiency of Energiprojekt's steam engine reaches some 27-30% on high-pressure engines. It is a single-step, 5-cylinder engine (no compound) with superheated steam and consumes approx. 4 kg (8.8 lb) of steam per kWh.[not in citation given]
+
+Q1:    What is the opposite of a commercial use?
+A1:    steam engine
+
+Q2:    What is the main idea of the passage?
+A2:    The efficiency of Energiprojekt's steam engine reaches some 27-30% on high-
+
+Q3:    What is the difference between the two types of engines?
+A3:    no longer in widespread commercial use, various companies are exploring or exploiting the potential of the engine
+
+Q4:    What is the equivalent weight of a 5-cylinder engine?
+A4:    8.8 lb
+
+Q5:    What is the equivalent weight of a 5 liter steam engine?
+A5:    8.8 lb
+
+-------------------data 70---------------------
+context:
+Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. The Spanish inventor Jerónimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine.
+
+Q1:    What was used to produce mechanical motion back to 2000?
+A1:    boiling water
+
+Q2:    What was the name of the person who invented the steam pump?
+A2:    Thomas Savery
+
+Q3:    What was used to draw water into a chamber?
+A3:    pressurized steam
+
+Q4:    What was used to draw water into a chamber?
+A4:    pressurized steam
+
+Q5:    What was used in the 12th year of the 1600s?
+A5:    a piston
+
+-------------------data 71---------------------
+context:
+Uniflow engines attempt to remedy the difficulties arising from the usual counterflow cycle where, during each stroke, the port and the cylinder walls will be cooled by the passing exhaust steam, whilst the hotter incoming admission steam will waste some of its energy in restoring working temperature. The aim of the uniflow is to remedy this defect and improve efficiency by providing an additional port uncovered by the piston at the end of each stroke making the steam flow only in one direction. By this means, the simple-expansion uniflow engine gives efficiency equivalent to that of classic compound systems with the added advantage of superior part-load performance, and comparable efficiency to turbines for smaller engines below one thousand horsepower. However, the thermal expansion gradient uniflow engines produce along the cylinder wall gives practical difficulties.[citation needed]. The Quasiturbine is a uniflow rotary steam engine where steam intakes in hot areas, while exhausting in cold areas.
+
+Q1:    What is the main goal of the uniflow engines?
+A1:    remedy this defect and improve efficiency
+
+Q2:    What is the advantage of the uniflow engine?
+A2:    superior part-load performance
+
+Q3:    What is the advantage of the simple-expansion uniflow engines?
+A3:    superior part-load performance
+
+Q4:    What is the difference between the uniflow and the thermal expansion?
+A4:    the thermal expansion gradient uniflow engines produce along the cylinder wall gives practical difficulties
+
+Q5:    What is the uniflow engine used for?
+A5:    remedy
+
+-------------------data 72---------------------
+context:
+Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine.
+
+Q1:    What was used to make compound engines popular?
+A1:    steam in successively larger cylinders to accommodate the higher volumes at reduced pressures
+
+Q2:    What was used to increase the volume of steam in a compound engine?
+A2:    double and triple expansion engines
+
+Q3:    What was used to reduce the weight of coal carried?
+A3:    double and triple expansion engines
+
+Q4:    What was the first step compound engines made into widespread use?
+A4:    expansions
+
+-------------------data 73---------------------
+context:
+A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. By staging the expansion in multiple cylinders, torque variability can be reduced. To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.
+
+Q1:    What is the result of Woolf's invention?
+A1:    The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs
+
+Q2:    What is the result of the steam being released from the boiler?
+A2:    less heat is lost by the steam in each
+
+Q3:    What is the difference between the volume of steam and the volume of the engine?
+A3:    greater volume
+
+Q4:    What is the benefit of the engine?
+A4:    increasing the efficiency
+
+Q5:    What is the difference between cylinders and cylinders?
+A5:    The complete expansion of the steam now occurs across multiple cylinders
+
+Q6:    What is the difference between the volume of cylinders and the stroke?
+A6:    the bore, and often the stroke
+
+Q7:    What is the difference between the bore and the stroke?
+A7:    increase
+
+-------------------data 74---------------------
+context:
+The efficiency of a Rankine cycle is usually limited by the working fluid. Without the pressure reaching supercritical levels for the working fluid, the temperature range the cycle can operate over is quite small; in steam turbines, turbine entry temperatures are typically 565 °C (the creep limit of stainless steel) and condenser temperatures are around 30 °C. This gives a theoretical Carnot efficiency of about 63% compared with an actual efficiency of 42% for a modern coal-fired power station. This low turbine entry temperature (compared with a gas turbine) is why the Rankine cycle is often used as a bottoming cycle in combined-cycle gas turbine power stations.[citation needed]
+
+Q1:    What is the opposite of a gas turbine?
+A1:    turbine
+
+Q2:    What is the difference between the working fluid and the Rankine cycle?
+A2:    the pressure reaching supercritical levels
+
+Q3:    What is the difference between the Rankine and Gas turbines?
+A3:    low turbine entry temperature
+
+-------------------data 75---------------------
+context:
+The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an "open loop" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.
+
+Q1:    What is the process of using the closed loop system?
+A1:    recycling continuously
+
+Q2:    What is the characteristic of the fluid?
+A2:    favourable
+
+Q3:    What is the composition of the working fluid in the Rankine cycle?
+A3:    favourable
+
+Q4:    What is the nature of the composition of the working fluid?
+A4:    Rankine
+
+-------------------data 76---------------------
+context:
+The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.
+
+Q1:    What is used to keep water from being used?
+A1:    injector
+
+Q2:    What is used to repurpose boiler water?
+A2:    injector
+
+Q3:    What is used to feed water to the boiler?
+A3:    injector
+
+Q4:    What is used to injectors?
+A4:    steam jet
+
+-------------------data 77---------------------
+context:
+An oscillating cylinder steam engine is a variant of the simple expansion steam engine which does not require valves to direct steam into and out of the cylinder. Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion). These engines are mainly used in toys and models, because of their simplicity, but have also been used in full size working engines, mainly on ships where their compactness is valued.[citation needed]
+
+Q1:    What is the method used for a steam engine?
+A1:    direct steam into and out of the cylinder
+
+Q2:    What is the difference between valves and cylinders?
+A2:    one or more holes in the cylinder line up with holes in a fixed port face or
+
+Q3:    What is a benefit of the models that are used in toys and models?
+A3:    their compactness is valued
+
+-------------------data 78---------------------
+context:
+In 1781 James Watt patented a steam engine that produced continuous rotary motion. Watt's ten-horsepower engines enabled a wide range of manufacturing machinery to be powered. The engines could be sited anywhere that water and coal or wood fuel could be obtained. By 1883, engines that could provide 10,000 hp had become feasible. The stationary steam engine was a key component of the Industrial Revolution, allowing factories to locate where water power was unavailable. The atmospheric engines of Newcomen and Watt were large compared to the amount of power they produced, but high pressure steam engines were light enough to be applied to vehicles such as traction engines and the railway locomotives.
+
+Q1:    What was Watt's first name?
+A1:    James
+
+Q2:    What was the purpose of the engines?
+A2:    to be powered
+
+Q3:    What was the main advantage of steam engines?
+A3:    allowing factories to locate where water power was unavailable
+
+Q4:    What was the purpose of the invention?
+A4:    patented
+
+Q5:    What was the main advantage of the steam engines?
+A5:    allowing factories to locate where water power was unavailable
+
+Q6:    What was the difference between the engines?
+A6:    The atmospheric engines of Newcomen and Watt were large compared to the amount of power they
+
+-------------------data 79---------------------
+context:
+The simplest valve gears give events of fixed length during the engine cycle and often make the engine rotate in only one direction. Most however have a reversing mechanism which additionally can provide means for saving steam as speed and momentum are gained by gradually "shortening the cutoff" or rather, shortening the admission event; this in turn proportionately lengthens the expansion period. However, as one and the same valve usually controls both steam flows, a short cutoff at admission adversely affects the exhaust and compression periods which should ideally always be kept fairly constant; if the exhaust event is too brief, the totality of the exhaust steam cannot evacuate the cylinder, choking it and giving excessive compression ("kick back").[citation needed]
+
+Q1:    What is a valve gear used for?
+A1:    engine
+
+Q2:    What is a benefit of valve gears?
+A2:    a reversing mechanism
+
+Q3:    What is the difference between the two valves?
+A3:    one and the same valve usually controls both steam flows
+
+-------------------data 80---------------------
+context:
+Virtually all nuclear power plants generate electricity by heating water to provide steam that drives a turbine connected to an electrical generator. Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion, with generators providing auxiliary power, or else employ turbo-electric transmission, where the steam drives a turbo generator set with propulsion provided by electric motors. A limited number of steam turbine railroad locomotives were manufactured. Some non-condensing direct-drive locomotives did meet with some success for long haul freight operations in Sweden and for express passenger work in Britain, but were not repeated. Elsewhere, notably in the U.S.A., more advanced designs with electric transmission were built experimentally, but not reproduced. It was found that steam turbines were not ideally suited to the railroad environment and these locomotives failed to oust the classic reciprocating steam unit in the way that modern diesel and electric traction has done.[citation needed]
+
+Q1:    What is the main idea of the passage?
+A1:    Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion,
+
+Q2:    What is the main idea of the passage?
+A2:    Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion,
+
+Q3:    What is the main issue regarding the non-condensing direct-drive locomotives?
+A3:    Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion,
+
+Q4:    Where did the non-condensing locomotives meet with some success?
+A4:    Britain
+
+Q5:    What is the main issue regarding the design of the new steam turbines?
+A5:    Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion,
+
+Q6:    What was used to improve the railway environment?
+A6:    steam turbines
+
+-------------------data 81---------------------
+context:
+The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms. This imagery has been in use since at least the mid-14th century. The oldest existing armed seal of Warsaw is from the year 1390, consisting of a round seal bordered with the Latin inscription Sigilium Civitatis Varsoviensis (Seal of the city of Warsaw). City records as far back as 1609 document the use of a crude form of a sea monster with a female upper body and holding a sword in its claws. In 1653 the poet Zygmunt Laukowski asks the question:
+
+Q1:    What is the name of the symbol used in Warsaw?
+A1:    mermaid
+
+Q2:    What is the name of the city that uses the mermaid?
+A2:    Warsaw
+
+Q3:    What is the name of the city that used swords?
+A3:    Warsaw
+
+Q4:    What happened in the 53rd year of the 1600s?
+A4:    the poet Zygmunt Laukowski asks the question
+
+Q5:    What happened in the 53rd year of the 1600s?
+A5:    the poet Zygmunt Laukowski asks the question
+
+-------------------data 82---------------------
+context:
+The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+
+Q1:    What is the name of the legend?
+A1:    legend
+
+Q2:    Who did the first Triton's daughters set out on a journey through the depth
+A2:    Artur Oppman
+
+Q3:    What is the location of the port of Copenhagen?
+A3:    Denmark
+
+Q4:    What was the place where Triton's daughters set out?
+A4:    Denmark
+
+Q5:    What was the place where Triton's daughters went on a journey through the depth
+A5:    Denmark
+
+Q6:    What did the mermaid hear?
+A6:    her beautiful voice
+
+-------------------data 83---------------------
+context:
+In 1939, c. 1,300,000 people lived in Warsaw, but in 1945 – only 420,000. During the first years after the war, the population growth was c. 6%, so shortly the city started to suffer from the lack of flats and of areas for new houses. The first remedial measure was the Warsaw area enlargement (1951) – but the city authorities were still forced to introduce residency registration limitations: only the spouses and children of the permanent residents as well as some persons of public importance (like renowned specialists) were allowed to get the registration, hence halving the population growth in the following years. It also bolstered some kind of conviction among Poles that Varsovians thought of themselves as better only because they lived in the capital. Unfortunately this belief still lives on in Poland (although not as much as it used to be) – even though since 1990 there are no limitations to residency registration anymore.
+
+Q1:    What happened in the 39th year of the 20th century?
+A1:    the population growth was c. 6%
+
+Q2:    What was the population growth rate in 1945?
+A2:    6%
+
+Q3:    What happened to Warsaw's population growth in 1945?
+A3:    c. 1,300,000 people lived in Warsaw
+
+Q4:    What happened to Warsaw's population growth in 1945?
+A4:    c. 1,300,000 people lived in Warsaw
+
+Q5:    What happened to Warsaw's population growth in 1945?
+A5:    c. 1,300,000 people lived in Warsaw
+
+Q6:    What was the main topic of the passage?
+A6:    population growth was c. 6%
+
+Q7:    What is the main topic of the passage?
+A7:    population growth was c. 6%
+
+-------------------data 84---------------------
+context:
+The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about 1300. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.
+
+Q1:    What was the first settlement on the site of today's Warsaw?
+A1:    Jazdów
+
+Q2:    What was the first settlement established?
+A2:    Jazdów
+
+Q3:    What was the name of the first settlement established?
+A3:    Jazdów
+
+Q4:    What was the first settlement established?
+A4:    Jazdów
+
+Q5:    What happened to the Warsaw economy?
+A5:    Upon the extinction of the local ducal line
+
+Q6:    What happened to the duchy after the war was over?
+A6:    a new similar settlement was established on the site of a small fishing village called Warsz
+
+-------------------data 85---------------------
+context:
+Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. While the Maria Skłodowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.
+
+Q1:    What is the main topic of the passage?
+A1:    Children's Memorial Health Institute (CMHI)
+
+Q2:    What does the first C in "CMHI" stand for?
+A2:    Hospital
+
+Q3:    What is the oldest institution listed?
+A3:    Maria Skodowska-Curie Institute of Oncology
+
+Q4:    What is the main topic of the passage?
+A4:    Children's Memorial Health Institute (CMHI)
+
+Q5:    What has improved in recent years?
+A5:    The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres
+
+-------------------data 86---------------------
+context:
+Gothic architecture is represented in the majestic churches but also at the burgher houses and fortifications. The most significant buildings are St. John's Cathedral (14th century), the temple is a typical example of the so-called Masovian gothic style, St. Mary's Church (1411), a town house of Burbach family (14th century), Gunpowder Tower (after 1379) and the Royal Castle Curia Maior (1407–1410). The most notable examples of Renaissance architecture in the city are the house of Baryczko merchant family (1562), building called "The Negro" (early 17th century) and Salwator tenement (1632). The most interesting examples of mannerist architecture are the Royal Castle (1596–1619) and the Jesuit Church (1609–1626) at Old Town. Among the first structures of the early baroque the most important are St. Hyacinth's Church (1603–1639) and Sigismund's Column (1644).
+
+Q1:    What is the most notable example of Gothic architecture in the city?
+A1:    The Negro
+
+Q2:    What is the most notable example of Gothic architecture in the city?
+A2:    The Negro
+
+Q3:    What was the second most notable building of the Renaissance architecture?
+A3:    the Jesuit Church
+
+Q4:    What is the most notable example of Gothic architecture in Old Town?
+A4:    the Jesuit Church
+
+Q5:    What was the most important structure of St. John's Church?
+A5:    burgher houses and fortifications
+
+-------------------data 87---------------------
+context:
+Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).
+
+Q1:    What happened in the 91st year of the 20th century?
+A1:    Warsaw's first stock exchange was established
+
+Q2:    What happened in the 91st year of the 20th century?
+A2:    Warsaw's first stock exchange was established
+
+Q3:    What is the largest market of stock?
+A3:    the Warsaw Stock Exchange (WSE)
+
+Q4:    What was the location of the stock exchange?
+A4:    in the building previously used as the headquarters of the Polish United Workers' Party (PZPR
+
+-------------------data 88---------------------
+context:
+The city is the seat of a Roman Catholic archdiocese (left bank of the Vistula) and diocese (right bank), and possesses various universities, most notably the Polish Academy of Sciences and the University of Warsaw, two opera houses, theatres, museums, libraries and monuments. The historic city-centre of Warsaw with its picturesque Old Town in 1980 was listed as a UNESCO World Heritage Site. Other main architectural attractions include the Castle Square with the Royal Castle and the iconic King Sigismund's Column, St. John's Cathedral, Market Square, palaces, churches and mansions all displaying a richness of colour and architectural detail. Buildings represent examples of nearly every European architectural style and historical period. Warsaw provides many examples of architecture from the gothic, renaissance, baroque and neoclassical periods, and around a quarter of the city is filled with luxurious parks and royal gardens.
+
+Q1:    What is the main attraction of the city?
+A1:    possesses various universities, most notably the Polish Academy of Sciences and the University of Warsaw
+
+Q2:    What is the historical centre of Warsaw?
+A2:    Old Town
+
+Q3:    What is the historical location of Warsaw?
+A3:    historic city-centre
+
+Q4:    What is the historical significance of Warsaw?
+A4:    listed as a UNESCO World Heritage Site
+
+Q5:    What is the historical location of Warsaw?
+A5:    historic city-centre
+
+-------------------data 89---------------------
+context:
+Warsaw's name in the Polish language is Warszawa, approximately /vɑːrˈʃɑːvə/ (also formerly spelled Warszewa and Warszowa), meaning "belonging to Warsz", Warsz being a shortened form of the masculine name of Slavic origin Warcisław; see also etymology of Wrocław. Folk etymology attributes the city name to a fisherman, Wars, and his wife, Sawa. According to legend, Sawa was a mermaid living in the Vistula River with whom Wars fell in love. In actuality, Warsz was a 12th/13th-century nobleman who owned a village located at the modern-day site of Mariensztat neighbourhood. See also the Vršovci family which had escaped to Poland. The official city name in full is miasto stołeczne Warszawa (English: "The Capital City of Warsaw"). A native or resident of Warsaw is known as a Varsovian – in Polish warszawiak (male), warszawianka (female), warszawiacy (plural).
+
+Q1:    What is the name of the man who lived in Warsaw?
+A1:    mermaid
+
+Q2:    What is the name of the man who lived in the Vistula river?
+A2:    Sawa
+
+Q3:    What is the name of the man who lived in the Vistula river?
+A3:    Sawa
+
+Q4:    What is the name of the man who lived in Warsaw?
+A4:    mermaid
+
+Q5:    What is the name of the family that lived in Warsaw?
+A5:    a mermaid
+
+Q6:    What is the official name of the city?
+A6:    miasto stoeczne Warszawa
+
+Q7:    What is the name of the city?
+A7:    Warsaw
+
+-------------------data 90---------------------
+context:
+Several commemorative events take place every year. Gatherings of thousands of people on the banks of the Vistula on Midsummer’s Night for a festival called Wianki (Polish for Wreaths) have become a tradition and a yearly event in the programme of cultural events in Warsaw. The festival traces its roots to a peaceful pagan ritual where maidens would float their wreaths of herbs on the water to predict when they would be married, and to whom. By the 19th century this tradition had become a festive event, and it continues today. The city council organize concerts and other events. Each Midsummer’s Eve, apart from the official floating of wreaths, jumping over fires, looking for the fern flower, there are musical performances, dignitaries' speeches, fairs and fireworks by the river bank.
+
+Q1:    What is the main topic of the passage?
+A1:    commemorative events take place every year
+
+Q2:    What is the tradition of Wianki?
+A2:    festive
+
+Q3:    What is the tradition of the festival in Warsaw?
+A3:    a tradition and a yearly event in the programme of cultural events
+
+Q4:    What is the main topic of the passage?
+A4:    commemorative events take place every year
+
+Q5:    What is the main topic of the city council's policy?
+A5:    funerals
+
+Q6:    What is the main topic of the passage?
+A6:    commemorative events take place every year
+
+-------------------data 91---------------------
+context:
+Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of "Polish monumental theatre". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department.
+
+Q1:    What was the location of the theatre?
+A1:    Ogród Saski (the Saxon Garden), the Summer Theatre was in operation
+
+Q2:    What is the oldest example of a theatre?
+A2:    The Wojciech Bogusawski Theatre
+
+Q3:    What was the name of the first state run academy of dramatic art?
+A3:    the Great Theatre building
+
+-------------------data 92---------------------
+context:
+Warsaw lies in east-central Poland about 300 km (190 mi) from the Carpathian Mountains and about 260 km (160 mi) from the Baltic Sea, 523 km (325 mi) east of Berlin, Germany. The city straddles the Vistula River. It is located in the heartland of the Masovian Plain, and its average elevation is 100 metres (330 ft) above sea level. The highest point on the left side of the city lies at a height of 115.7 metres (379.6 ft) ("Redutowa" bus depot, district of Wola), on the right side – 122.1 metres (400.6 ft) ("Groszówka" estate, district of Wesoła, by the eastern border). The lowest point lies at a height 75.6 metres (248.0 ft) (at the right bank of the Vistula, by the eastern border of Warsaw). There are some hills (mostly artificial) located within the confines of the city – e.g. Warsaw Uprising Hill (121 metres (397.0 ft)), Szczęśliwice hill (138 metres (452.8 ft) – the highest point of Warsaw in general).
+
+Q1:    What is the distance between Warsaw and Berlin, which is about 300 km?
+A1:    190 mi
+
+Q2:    What is the highest elevation of the city?
+A2:    115.7 metres (379.6 ft)
+
+Q3:    What is the highest elevation of the city?
+A3:    115.7 metres (379.6 ft)
+
+Q4:    What is the highest elevation?
+A4:    Szczliwice hill
+
+Q5:    What is the highest elevation of Warsaw?
+A5:    122.1 metres (400.6 ft)
+
+Q6:    What is the highest elevation of Warsaw in general?
+A6:    Szczliwice hill
+
+-------------------data 93---------------------
+context:
+Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.
+
+Q1:    What is the main topic of the passage?
+A1:    religious worship
+
+Q2:    What percentage of people were not Catholics?
+A2:    56.2%
+
+Q3:    What percentage of people were not Catholics?
+A3:    56.2%
+
+Q4:    What was the result of the construction of hundreds of places of worship?
+A4:    the Warsaw Uprising of 1944
+
+Q5:    What happened to the churches in Poland that were not completely destroyed?
+A5:    the new communist authorities of Poland discouraged church construction
+
+Q6:    What caused the construction of churches in Poland?
+A6:    the Warsaw Uprising of 1944
+
+-------------------data 94---------------------
+context:
+Warsaw (Polish: Warszawa [varˈʂava] ( listen); see also other names) is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland, roughly 260 kilometres (160 mi) from the Baltic Sea and 300 kilometres (190 mi) from the Carpathian Mountains. Its population is estimated at 1.740 million residents within a greater metropolitan area of 2.666 million residents, which makes Warsaw the 9th most-populous capital city in the European Union. The city limits cover 516.9 square kilometres (199.6 sq mi), while the metropolitan area covers 6,100.43 square kilometres (2,355.39 sq mi).
+
+Q1:    What is the main city of Warsaw?
+A1:    Poland
+
+Q2:    What is the distance between the Vistula and Carpathian Mountains?
+A2:    300 kilometres
+
+Q3:    What is the largest city of Poland?
+A3:    Warsaw
+
+Q4:    What is the largest metropolitan area of Warsaw?
+A4:    2,355.39 sq mi
+
+-------------------data 95---------------------
+context:
+John Paul II's visits to his native country in 1979 and 1983 brought support to the budding solidarity movement and encouraged the growing anti-communist fervor there. In 1979, less than a year after becoming pope, John Paul celebrated Mass in Victory Square in Warsaw and ended his sermon with a call to "renew the face" of Poland: Let Thy Spirit descend! Let Thy Spirit descend and renew the face of the land! This land! These words were very meaningful for the Polish citizens who understood them as the incentive for the democratic changes.
+
+Q1:    What did John Paul II's visits bring to Poland?
+A1:    support to the budding solidarity movement
+
+Q2:    What was the purpose of John Paul's visit to Poland?
+A2:    brought support to the budding solidarity movement and encouraged the growing anti-communist fervor
+
+Q3:    What was the name of the land?
+A3:    Poland
+
+Q4:    What was the purpose of the words?
+A4:    to "renew the face" of Poland: Let Thy Spirit descend
+
+Q5:    What did the citizens understand?
+A5:    the incentive for the democratic changes
+
+-------------------data 96---------------------
+context:
+Tamara de Lempicka was a famous artist born in Warsaw. She was born Maria Górska in Warsaw to wealthy parents and in 1916 married a Polish lawyer Tadeusz Łempicki. Better than anyone else she represented the Art Deco style in painting and art. Nathan Alterman, the Israeli poet, was born in Warsaw, as was Moshe Vilenski, the Israeli composer, lyricist, and pianist, who studied music at the Warsaw Conservatory. Warsaw was the beloved city of Isaac Bashevis Singer, which he described in many of his novels: Warsaw has just now been destroyed. No one will ever see the Warsaw I knew. Let me just write about it. Let this Warsaw not disappear forever, he commented.
+
+Q1:    Who was the daughter of the former Israeli poet who was born in Warsaw?
+A1:    Tamara de Lempicka
+
+Q2:    Who was the youngest person in Warsaw?
+A2:    Tamara de Lempicka
+
+Q3:    What was the name of the person who was born in Warsaw?
+A3:    Tamara de Lempicka
+
+Q4:    What was the name of the person who lived in Warsaw?
+A4:    Tamara de Lempicka
+
+Q5:    What was the name of the city I knew?
+A5:    Warsaw
+
+Q6:    What was the name of the name of the person who lived in Warsaw?
+A6:    Tamara de Lempicka
+
+Q7:    What was the name of the person who lived in Warsaw?
+A7:    Tamara de Lempicka
+
+Q8:    What was the name of the person who was born in Warsaw?
+A8:    Tamara de Lempicka
+
+-------------------data 97---------------------
+context:
+Warsaw, especially its city centre (Śródmieście), is home not only to many national institutions and government agencies, but also to many domestic and international companies. In 2006, 304,016 companies were registered in the city. Warsaw's ever-growing business community has been noticed globally, regionally, and nationally. MasterCard Emerging Market Index has noted Warsaw's economic strength and commercial center. Moreover, Warsaw was ranked as the 7th greatest emerging market. Foreign investors' financial participation in the city's development was estimated in 2002 at over 650 million euro. Warsaw produces 12% of Poland's national income, which in 2008 was 305.1% of the Polish average, per capita (or 160% of the European Union average). The GDP per capita in Warsaw amounted to PLN 94 000 in 2008 (c. EUR 23 800, USD 33 000). Total nominal GDP of the city in 2010 amounted to 191.766 billion PLN, 111696 PLN per capita, which was 301,1 % of Polish average. Warsaw leads the region of East-Central Europe in foreign investment and in 2006, GDP growth met expectations with a level of 6.1%. It also has one of the fastest growing economies, with GDP growth at 6.5 percent in 2007 and 6.1 percent in the first quarter of 2008.
+
+Q1:    What is Warsaw known for?
+A1:    economic strength and commercial center
+
+Q2:    What was the first year of the year 2006?
+A2:    2006
+
+Q3:    What is the city's economic strength?
+A3:    ever-growing business community
+
+Q4:    What is the city's economic strength?
+A4:    ever-growing business community
+
+Q5:    What is the city's economic strength?
+A5:    ever-growing business community
+
+Q6:    What is the percentage of the population in Warsaw?
+A6:    301,1 %
+
+Q7:    What percentage of Poland's national income was compared to the European Union average?
+A7:    12%
+
+Q8:    What was the highest percentage of GDP in Warsaw?
+A8:    6.5 percent
+
+Q9:    What was the highest percentage of GDP in Warsaw?
+A9:    6.5 percent
+
+Q10:    What was the highest percentage of GDP in Warsaw?
+A10:    6.5 percent
+
+Q11:    What is the highest percentage of GDP growth in Warsaw?
+A11:    6.5 percent
+
+Q12:    What year did GDP growth reach in Warsaw?
+A12:    2006
+
+-------------------data 98---------------------
+context:
+The mayor of Warsaw is called President. Generally, in Poland, the mayors of bigger cities are called presidents – i.e. such cities, which have over 100,000 people or these, where already was president before 1990. The first Warsaw President was Jan Andrzej Menich (1695–1696). Between 1975 and 1990 the Warsaw Presidents was simultaneously the Warsaw Voivode. Since 1990 the President of Warsaw had been elected by the City council. In the years of 1994–1999 the mayor of the district Centrum automatically was designated as the President of Warsaw: the mayor of Centrum was elected by the district council of Centrum and the council was elected only by the Centrum residents. Since 2002 the President of Warsaw is elected by all of the citizens of Warsaw.
+
+Q1:    What is the name of the president?
+A1:    president
+
+Q2:    What is the name of the bigger cities in Poland?
+A2:    presidents
+
+Q3:    What was the first name of the first president of Warsaw?
+A3:    Jan Andrzej Menich
+
+Q4:    What was the first warsaw president mentioned?
+A4:    Jan Andrzej Menich
+
+Q5:    What happened in the 90th year of the 20th century?
+A5:    the Warsaw Presidents was simultaneously the Warsaw Voivode
+
+Q6:    What happened in the 9th year of the 20th century?
+A6:    the mayor of the district Centrum automatically was designated as the President of Warsaw
+
+Q7:    Who elected the president of Warsaw?
+A7:    City council
+
+-------------------data 99---------------------
+context:
+In 1529, Warsaw for the first time became the seat of the General Sejm, permanent from 1569. In 1573 the city gave its name to the Warsaw Confederation, formally establishing religious freedom in the Polish–Lithuanian Commonwealth. Due to its central location between the Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw in 1596. In the following years the town expanded towards the suburbs. Several private independent districts were established, the property of aristocrats and the gentry, which were ruled by their own laws. Three times between 1655–1658 the city was under siege and three times it was taken and pillaged by the Swedish, Brandenburgian and Transylvanian forces.
+
+Q1:    What happened in the 29th year of the 1600s?
+A1:    the city was under siege and three times it was taken and pillaged by the Swedish,
+
+Q2:    What was the name of the city that established religious freedom in Poland?
+A2:    Vilnius
+
+Q3:    What happened in the 96th year of the 1600s?
+A3:    the city was under siege and three times it was taken and pillaged by the Swedish,
+
+Q4:    What was the result of the move?
+A4:    the city gave its name to the Warsaw Confederation
+
+Q5:    What was the result of the siege?
+A5:    three times it was taken and pillaged by the Swedish, Brandenburgian and Transy
+
+Q6:    What happened three times between 1655 and 1658?
+A6:    the city was under siege
+
+-------------------data 100---------------------
+context:
+A fine tribute to the fall of Warsaw and history of Poland can be found in the Warsaw Uprising Museum and in the Katyń Museum which preserves the memory of the crime. The Warsaw Uprising Museum also operates a rare preserved and operating historic stereoscopic theatre, the Warsaw Fotoplastikon. The Museum of Independence preserves patriotic and political objects connected with Poland's struggles for independence. Dating back to 1936 Warsaw Historical Museum contains 60 rooms which host a permanent exhibition of the history of Warsaw from its origins until today.
+
+Q1:    What is the Warsaw Uprising Museum?
+A1:    museum
+
+Q2:    What is the Warsaw Fotoplastikon?
+A2:    historic stereoscopic theatre
+
+Q3:    What is the Warsaw Historical Museum held?
+A3:    60 rooms
+
+Q4:    What is the Warsaw Historical Museum?
+A4:    Museum
+
+-------------------data 101---------------------
+context:
+Deke Slayton, the grounded Mercury astronaut who became Director of Flight Crew Operations for the Gemini and Apollo programs, selected the first Apollo crew in January 1966, with Grissom as Command Pilot, White as Senior Pilot, and rookie Donn F. Eisele as Pilot. But Eisele dislocated his shoulder twice aboard the KC135 weightlessness training aircraft, and had to undergo surgery on January 27. Slayton replaced him with Chaffee. NASA announced the final crew selection for AS-204 on March 21, 1966, with the backup crew consisting of Gemini veterans James McDivitt and David Scott, with rookie Russell L. "Rusty" Schweickart. Mercury/Gemini veteran Wally Schirra, Eisele, and rookie Walter Cunningham were announced on September 29 as the prime crew for AS-205.
+
+Q1:    Who was the first astronaut to be appointed?
+A1:    Deke Slayton
+
+Q2:    What was the last crew selection for AS-204?
+A2:    Russell L. "Rusty" Schweickart
+
+Q3:    Who replaced Chaffee?
+A3:    Deke Slayton
+
+Q4:    Who was the second backup crew mentioned?
+A4:    White
+
+Q5:    Who was the second crew to be announced?
+A5:    White
+
+Q6:    Who was the second prime crew for AS-205?
+A6:    Deke Slayton
+
+-------------------data 102---------------------
+context:
+The problems with North American were severe enough in late 1965 to cause Manned Space Flight Administrator George Mueller to appoint program director Samuel Phillips to head a "tiger team" to investigate North American's problems and identify corrections. Phillips documented his findings in a December 19 letter to NAA president Lee Atwood, with a strongly worded letter by Mueller, and also gave a presentation of the results to Mueller and Deputy Administrator Robert Seamans. Meanwhile, Grumman was also encountering problems with the Lunar Module, eliminating hopes it would be ready for manned flight in 1967, not long after the first manned CSM flights.
+
+Q1:    What happened to Phillips in the 1965 letter to NAA president?
+A1:    The problems with North American were severe enough
+
+Q2:    Who did Robert Seamans contact?
+A2:    Robert Seamans
+
+Q3:    What was the reason Grumman missed the flight?
+A3:    the first manned CSM flights
+
+-------------------data 103---------------------
+context:
+The Apollo program was conceived during the Eisenhower administration in early 1960, as a follow-up to Project Mercury. While the Mercury capsule could only support one astronaut on a limited Earth orbital mission, Apollo would carry three astronauts. Possible missions included ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings. The program was named after the Greek god of light, music, and the sun by NASA manager Abe Silverstein, who later said that "I was naming the spacecraft like I'd name my baby." Silverstein chose the name at home one evening, early in 1960, because he felt "Apollo riding his chariot across the Sun was appropriate to the grand scale of the proposed program."
+
+Q1:    What was the first Apollo mission mentioned?
+A1:    Project Mercury
+
+Q2:    What was the first mission of Apollo?
+A2:    manned lunar landings
+
+Q3:    What was the first mission mentioned?
+A3:    Apollo
+
+Q4:    What was the name of the Greek god of light, music, and the sun?
+A4:    Apollo
+
+Q5:    What was the name of the person who chose it?
+A5:    Abe Silverstein
+
+-------------------data 104---------------------
+context:
+In early 1961, direct ascent was generally the mission mode in favor at NASA. Many engineers feared that a rendezvous —let alone a docking— neither of which had been attempted even in Earth orbit, would be extremely difficult in lunar orbit. Dissenters including John Houbolt at Langley Research Center emphasized the important weight reductions that were offered by the LOR approach. Throughout 1960 and 1961, Houbolt campaigned for the recognition of LOR as a viable and practical option. Bypassing the NASA hierarchy, he sent a series of memos and reports on the issue to Associate Administrator Robert Seamans; while acknowledging that he spoke "somewhat as a voice in the wilderness," Houbolt pleaded that LOR should not be discounted in studies of the question.
+
+Q1:    What was the reason for the rapid rise of the orbiting of the moon?
+A1:    neither of which had been attempted even in Earth orbit, would be extremely difficult in lunar orbit
+
+Q2:    What was the purpose of LOR?
+A2:    recognition
+
+Q3:    What was the goal of LOR?
+A3:    recognition
+
+Q4:    What was the purpose of LOR?
+A4:    recognition
+
+Q5:    What did the LOR approach do?
+A5:    important weight reductions
+
+-------------------data 105---------------------
+context:
+Maxime Faget's preliminary Apollo design employed a cone-shaped command module, supported by one of several service modules providing propulsion and electrical power, sized appropriately for the space station, cislunar, and lunar landing missions. Once Kennedy's Moon landing goal became official, detailed design began of a Command/Service Module (CSM) in which the crew would spend the entire direct-ascent mission and lift off from the lunar surface for the return trip, after being soft-landed by a larger landing propulsion module. The final choice of lunar orbit rendezvous changed the CSM's role to the translunar ferry used to transport the crew, along with a new spacecraft, the Lunar Excursion Module (LEM, later shortened to Lunar Module, LM) which would take two men to the lunar surface and return them to the CSM.
+
+Q1:    What is the CSM?
+A1:    service
+
+Q2:    What was the result of the design?
+A2:    The final choice of lunar orbit rendezvous changed the CSM's role to the transl
+
+Q3:    What is the first name of the first module used for transporting the crew?
+A3:    Lunar Excursion Module
+
+-------------------data 106---------------------
+context:
+North American Aviation won the contract to build the CSM, and also the second stage of the Saturn V launch vehicle for NASA. Because the CSM design was started early before the selection of lunar orbit rendezvous, the service propulsion engine was sized to lift the CSM off of the Moon, and thus was oversized to about twice the thrust required for translunar flight. Also, there was no provision for docking with the Lunar Module. A 1964 program definition study concluded that the initial design should be continued as Block I which would be used for early testing, while Block II, the actual lunar spacecraft, would incorporate the docking equipment and take advantage of the lessons learned in Block I development.
+
+Q1:    What was the CSM?
+A1:    the second stage of the Saturn V launch vehicle for NASA
+
+Q2:    What was the CSM?
+A2:    the second stage of the Saturn V launch vehicle for NASA
+
+Q3:    What was the CSM?
+A3:    the second stage of the Saturn V launch vehicle for NASA
+
+Q4:    What was the CSM design supposed to be used for?
+A4:    translunar flight
+
+-------------------data 107---------------------
+context:
+Apollo 8 was planned to be the D mission in December 1968, crewed by McDivitt, Scott and Schweickart, launched on a Saturn V instead of two Saturn IBs. In the summer it had become clear that the LM would not be ready in time. Rather than waste the Saturn V on another simple Earth-orbiting mission, ASPO Manager George Low suggested the bold step of sending Apollo 8 to orbit the Moon instead, deferring the D mission to the next mission in March 1969, and eliminating the E mission. This would keep the program on track. The Soviet Union had sent animals around the Moon on September 15, 1968, aboard Zond 5, and it was believed they might soon repeat the feat with human cosmonauts. The decision was not announced publicly until successful completion of Apollo 7. Gemini veterans Frank Borman and James Lovell, and rookie William Anders captured the world's attention by making 10 lunar orbits in 20 hours, transmitting television pictures of the lunar surface on Christmas Eve, and returning safely to Earth.
+
+Q1:    What was the mission that was supposed to be on the D mission?
+A1:    E
+
+Q2:    What was the purpose of the mission?
+A2:    to be the D mission in December 1968
+
+Q3:    What was the purpose of the mission?
+A3:    to be the D mission in December 1968
+
+Q4:    What was the purpose of the mission?
+A4:    to be the D mission in December 1968
+
+Q5:    What was the name of the group that launched the D mission?
+A5:    LM
+
+Q6:    What happened to the final decision?
+A6:    successful completion of Apollo 7. Gemini veterans Frank Borman and James Lovell, and rookie William
+
+Q7:    Who made the lunar orbits that were not visible on Earth?
+A7:    William Anders
+
+-------------------data 108---------------------
+context:
+Before the Apollo program began, Wernher von Braun and his team of rocket engineers had started work on plans for very large launch vehicles, the Saturn series, and the even larger Nova series. In the midst of these plans, von Braun was transferred from the Army to NASA, and made Director of the Marshall Space Flight Center. The initial direct ascent plan to send the three-man Apollo Command/Service Module directly to the lunar surface, on top of a large descent rocket stage, would require a Nova-class launcher, with a lunar payload capability of over 180,000 pounds (82,000 kg). The June 11, 1962, decision to use lunar orbit rendezvous enabled the Saturn V to replace the Nova, and the MSFC proceeded to develop the Saturn rocket family for Apollo.
+
+Q1:    What is the first name of the first rocket company mentioned to have started working on plans for very
+A1:    Wernher von Braun
+
+Q2:    What was Braun's first name?
+A2:    Wernher
+
+Q3:    What is the first rocket launcher mentioned?
+A3:    the Saturn series
+
+Q4:    What was the first name of the first rocket launcher developed by Wernher von Braun?
+A4:    Nova series
+
+-------------------data 109---------------------
+context:
+Apollo ran from 1961 to 1972, and was supported by the two-man Gemini program which ran concurrently with it from 1962 to 1966. Gemini missions developed some of the space travel techniques that were necessary for the success of the Apollo missions. Apollo used Saturn family rockets as launch vehicles. Apollo/Saturn vehicles were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three manned missions in 1973–74, and the Apollo–Soyuz Test Project, a joint Earth orbit mission with the Soviet Union in 1975.
+
+Q1:    What was Apollo funded by?
+A1:    two-man Gemini program
+
+Q2:    What was the first step Apollo took toward the success of the Apollo missions?
+A2:    supported by the two-man Gemini program which ran concurrently with it from 1962 to 1966
+
+Q3:    What was the first vehicle launched by Apollo?
+A3:    Apollo
+
+Q4:    What was the second used space station to run a Saturn family rocket?
+A4:    NASA
+
+-------------------data 110---------------------
+context:
+NASA immediately convened an accident review board, overseen by both houses of Congress. While the determination of responsibility for the accident was complex, the review board concluded that "deficiencies existed in Command Module design, workmanship and quality control." At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager. Webb also reassigned Apollo Spacecraft Program Office (ASPO) Manager Joseph Francis Shea, replacing him with George Low.
+
+Q1:    Who was the first person to oversee the accident?
+A1:    NASA
+
+Q2:    What was the responsibility for the failure?
+A2:    the review board concluded that "deficiencies existed in Command Module design, workmanship and quality
+
+Q3:    Who was the second administrator to replace Harrison Storms?
+A3:    NASA
+
+Q4:    Who replaced Harrison Storms as Command Module manager?
+A4:    NASA Administrator Webb
+
+-------------------data 111---------------------
+context:
+It became clear that managing the Apollo program would exceed the capabilities of Robert R. Gilruth's Space Task Group, which had been directing the nation's manned space program from NASA's Langley Research Center. So Gilruth was given authority to grow his organization into a new NASA center, the Manned Spacecraft Center (MSC). A site was chosen in Houston, Texas, on land donated by Rice University, and Administrator Webb announced the conversion on September 19, 1961. It was also clear NASA would soon outgrow its practice of controlling missions from its Cape Canaveral Air Force Station launch facilities in Florida, so a new Mission Control Center would be included in the MSC.
+
+Q1:    What was Gilrut's first name?
+A1:    Robert
+
+Q2:    What was the first location mentioned?
+A2:    Cape Canaveral Air Force Station launch facilities in Florida
+
+Q3:    What was the result of the decision?
+A3:    A site was chosen in Houston, Texas, on land donated by Rice University, and Administrator Web
+
+Q4:    What was the first facility mentioned to have been used?
+A4:    Cape Canaveral Air Force Station launch facilities in Florida
+
+-------------------data 112---------------------
+context:
+Seamans' establishment of an ad-hoc committee headed by his special technical assistant Nicholas E. Golovin in July 1961, to recommend a launch vehicle to be used in the Apollo program, represented a turning point in NASA's mission mode decision. This committee recognized that the chosen mode was an important part of the launch vehicle choice, and recommended in favor of a hybrid EOR-LOR mode. Its consideration of LOR —as well as Houbolt's ceaseless work— played an important role in publicizing the workability of the approach. In late 1961 and early 1962, members of the Manned Spacecraft Center began to come around to support LOR, including the newly hired deputy director of the Office of Manned Space Flight, Joseph Shea, who became a champion of LOR. The engineers at Marshall Space Flight Center (MSFC) took longer to become convinced of its merits, but their conversion was announced by Wernher von Braun at a briefing in June 1962.
+
+Q1:    What was the first mentioned committee to discuss the launch vehicle choice?
+A1:    the Manned Spacecraft Center
+
+Q2:    What was the purpose of the committee?
+A2:    to recommend a launch vehicle to be used in the Apollo program
+
+Q3:    What was the purpose of the committee's decision?
+A3:    to recommend a launch vehicle to be used in the Apollo program
+
+Q4:    Who was the new director of the Marshall Space Flight Center?
+A4:    Joseph Shea
+
+Q5:    What happened in the 61st year of the 20th century?
+A5:    Seamans' establishment of an ad-hoc committee headed by his special technical assistant
+
+-------------------data 113---------------------
+context:
+On April 12, 1961, Soviet cosmonaut Yuri Gagarin became the first person to fly in space, reinforcing American fears about being left behind in a technological competition with the Soviet Union. At a meeting of the US House Committee on Science and Astronautics one day after Gagarin's flight, many congressmen pledged their support for a crash program aimed at ensuring that America would catch up. Kennedy was circumspect in his response to the news, refusing to make a commitment on America's response to the Soviets.
+
+Q1:    What was Gagarin's first name?
+A1:    Yuri
+
+Q2:    What was Gagarin's response?
+A2:    a crash program
+
+Q3:    What was Kennedy's response to the news?
+A3:    refusing to make a commitment on America's response
+
+-------------------data 114---------------------
+context:
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+
+Q1:    What was the size of the three stage Saturn V?
+A1:    33 feet
+
+Q2:    What was the size of the three stage Saturn V?
+A2:    33 feet
+
+Q3:    What was the largest capacity of the three stage Saturn V?
+A3:    103,600 pounds (47,000 kg)
+
+Q4:    What was the first stage of the S-IC?
+A4:    RP-1/LOX
+
+Q5:    What was the first stage of the Saturn V?
+A5:    CSM and LM
+
+-------------------data 115---------------------
+context:
+Two Block I CSMs were launched from LC-34 on suborbital flights in 1966 with the Saturn IB. The first, AS-201 launched on February 26, reached an altitude of 265.7 nautical miles (492.1 km) and splashed down 4,577 nautical miles (8,477 km) downrange in the Atlantic ocean. The second, AS-202 on August 25, reached 617.1 nautical miles (1,142.9 km) altitude and was recovered 13,900 nautical miles (25,700 km) downrange in the Pacific ocean. These flights validated the Service Module engine and the Command Module heat shield.
+
+Q1:    What was launched on suborbital flights in 1966?
+A1:    Two Block I CSMs
+
+Q2:    What was the distance between the second and second, as-201 and AS-201 in 1966
+A2:    altitude
+
+Q3:    What was the distance between the two blocks I CSMs launched from 1966 to 1966?
+A3:    492.1 km
+
+Q4:    What was the difference between the two blocks I CSMs and the Command Module heat shield?
+A4:    The second, AS-202 on August 25, reached 617.1 nautical miles (1,142.9
+
+-------------------data 116---------------------
+context:
+It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director. Construction began in November 1962. Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy.
+
+Q1:    What is the main idea of the passage?
+A1:    Apollo would outgrow the Canaveral launch facilities in Florida
+
+Q2:    What is the second launch complex mentioned?
+A2:    LC-34
+
+Q3:    What is the first rocket to be built in the area that is not manned by Apollo?
+A3:    LC-34
+
+Q4:    What did Debus do to honor Kennedy?
+A4:    issued an executive order
+
+Q5:    What happened in the 62nd year of the 20th century?
+A5:    land acquisition was started
+
+Q6:    What happened in 1962?
+A6:    Construction began
+
+Q7:    What happened in 1963?
+A7:    land acquisition was started
+
+-------------------data 117---------------------
+context:
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+
+Q1:    What caused the fire?
+A1:    delay in the CSM
+
+Q2:    What happened to the CSM during the first unmanned flight of the Saturn V?
+A2:    caused by the fire
+
+Q3:    What was the result of the failure of the Command Module's heat shield?
+A3:    The capability of the Command Module's heat shield to survive a trans-lunar
+
+Q4:    What was the purpose of the mission?
+A4:    to achieve trans-lunar injection, followed closely by a simulated direct-re
+
+Q5:    What caused the Saturn V to fail?
+A5:    the fire
+
+Q6:    What caused the engine to shut down?
+A6:    the fire
+
+Q7:    What caused the engine to restart?
+A7:    the fire
+
+Q8:    What did the controllers use to perform a second Apollo 6 flight?
+A8:    the Service Module engine
+
+Q9:    What was the reason for the failure of the CSM?
+A9:    the fire
+
+-------------------data 118---------------------
+context:
+In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.
+
+Q1:    What was the first landing on the moon that Gemini veteran Terry Conrad made?
+A1:    Apollo 12
+
+Q2:    What happened to the first EVAs?
+A2:    damaged
+
+Q3:    What was the time frame that the EVAs were made?
+A3:    45 minutes
+
+Q4:    What did the crews take after the landing?
+A4:    some parts
+
+-------------------data 119---------------------
+context:
+The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. An estimated one-quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon. The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.
+
+Q1:    What was the first live televised pictures of?
+A1:    the Earth and the Moon
+
+Q2:    What happened during the 9th orbit of the Moon?
+A2:    An estimated one-quarter of the population of the world saw—either live or delayed—
+
+Q3:    What happened to the end of 1968?
+A3:    The mission and Christmas provided an inspiring end to 1968
+
+-------------------data 120---------------------
+context:
+Looking beyond the manned lunar landings, NASA investigated several post-lunar applications for Apollo hardware. The Apollo Extension Series (Apollo X,) proposed up to 30 flights to Earth orbit, using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop). Astronauts would continue to use the CSM as a ferry to the station. This study was followed by design of a larger orbital workshop to be built in orbit from an empty S-IVB Saturn upper stage, and grew into the Apollo Applications Program (AAP). The workshop was to be supplemented by Apollo Telescope Missions, which would replace the LM's descent stage equipment and engine with a solar telescope observatory. The most ambitious plan called for using an empty S-IVB as an interplanetary spacecraft for a Venus fly-by mission.
+
+Q1:    What was the purpose of the study?
+A1:    exploratory workshop
+
+Q2:    What is the first mentioned location?
+A2:    the Spacecraft Lunar Module Adapter
+
+Q3:    What is the CSM?
+A3:    a ferry
+
+Q4:    What was the purpose of the study?
+A4:    exploratory workshop
+
+Q5:    What was the purpose of the spacecraft?
+A5:    Apollo Extension Series
+
+Q6:    What was the purpose of the plan?
+A6:    using an empty S-IVB as an interplanetary spacecraft for a Venus fly-
+
+-------------------data 121---------------------
+context:
+The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.
+
+Q1:    What were the Apollo astronauts chosen from?
+A1:    two later astronaut groups
+
+Q2:    What was the first mission of Apollo?
+A2:    landing on the Moon
+
+Q3:    What was the first landing on the moon?
+A3:    Dr. Harrison Schmitt, a geologist
+
+Q4:    What was Schmitt's first mission?
+A4:    landing on the Moon
+
+Q5:    What was Schmitt's first job as astronaut?
+A5:    scientist
+
+-------------------data 122---------------------
+context:
+In July 1960, NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at a series of Space Task Group conferences. Preliminary specifications were laid out for a spacecraft with a mission module cabin separate from the command module (piloting and re-entry cabin), and a propulsion and equipment module. On August 30, a feasibility study competition was announced, and on October 25, three study contracts were awarded to General Dynamics/Convair, General Electric, and the Glenn L. Martin Company. Meanwhile, NASA performed its own in-house spacecraft design studies led by Maxime Faget, to serve as a gauge to judge and monitor the three industry designs.
+
+Q1:    What happened in the 60th year of the 20th century?
+A1:    NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at
+
+Q2:    What happened during the 60th year of the 20th century?
+A2:    NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at
+
+Q3:    What happened in the 60th year of the 20th century?
+A3:    NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at
+
+Q4:    What did Faget do to help others with the spacecraft design?
+A4:    performed its own in-house spacecraft design studies
+
+-------------------data 123---------------------
+context:
+Based on his industry experience on Air Force missile projects, Mueller realized some skilled managers could be found among high-ranking officers in the United States Air Force, so he got Webb's permission to recruit General Samuel C. Phillips, who gained a reputation for his effective management of the Minuteman program, as OMSF program controller. Phillips' superior officer Bernard A. Schriever agreed to loan Phillips to NASA, along with a staff of officers under him, on the condition that Phillips be made Apollo Program Director. Mueller agreed, and Phillips managed Apollo from January 1964, until it achieved the first manned landing in July 1969, after which he returned to Air Force duty.
+
+Q1:    What was the purpose of Phillips' recruitment?
+A1:    to loan Phillips to NASA, along with a staff of officers under him
+
+Q2:    What was the first name of the person who helped Phillips succeed?
+A2:    Samuel C. Phillips
+
+Q3:    What happened in the 69th year of the 20th century?
+A3:    the first manned landing
+
+-------------------data 124---------------------
+context:
+The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+
+Q1:    What was the first mission of Apollo 13?
+A1:    the Fra Mauro formation
+
+Q2:    Who was the first person that made the missions successful?
+A2:    Commander
+
+Q3:    What caused the tank to disabling?
+A3:    damage
+
+Q4:    What caused the tank to be exploded?
+A4:    damage
+
+Q5:    What was the result of the replacement of the oxygen tank?
+A5:    an extra one was added
+
+-------------------data 125---------------------
+context:
+The first four Saturn I test flights were launched from LC-34, with only live first stages, carrying dummy upper stages filled with water. The first flight with a live S-IV was launched from LC-37. This was followed by five launches of boilerplate CSMs (designated AS-101 through AS-105) into orbit in 1964 and 1965. The last three of these further supported the Apollo program by also carrying Pegasus satellites, which verified the safety of the translunar environment by measuring the frequency and severity of micrometeorite impacts.
+
+Q1:    What was the first phase of the first test flight?
+A1:    live
+
+Q2:    What is the first flight that was launched with the first live S-IV?
+A2:    LC-37
+
+Q3:    What was the second flight of Saturn I test flights to be launched?
+A3:    S-IV
+
+Q4:    What was the first flight of the Apollo program that further supported the Apollo program?
+A4:    S-IV
+
+-------------------data 126---------------------
+context:
+Wiesner kept up the pressure, even making the disagreement public during a two-day September visit by the President to Marshall Space Flight Center. Wiesner blurted out "No, that's no good" in front of the press, during a presentation by von Braun. Webb jumped in and defended von Braun, until Kennedy ended the squabble by stating that the matter was "still subject to final review". Webb held firm, and issued a request for proposal to candidate Lunar Excursion Module (LEM) contractors. Wiesner finally relented, unwilling to settle the dispute once and for all in Kennedy's office, because of the President's involvement with the October Cuban missile crisis, and fear of Kennedy's support for Webb. NASA announced the selection of Grumman as the LEM contractor in November 1962.
+
+Q1:    What was the reason for the president's support?
+A1:    the October Cuban missile crisis
+
+Q2:    What was the reason for the president's support?
+A2:    the October Cuban missile crisis
+
+Q3:    What was the outcome of the dispute?
+A3:    Kennedy ended the squabble
+
+Q4:    What was Grumman's job in 1962?
+A4:    LEM contractor
+
+Q5:    What was Grumman's job in 1962?
+A5:    LEM contractor
+
+Q6:    What happened in the 1962 interview?
+A6:    NASA announced the selection of Grumman as the LEM contractor
+
+-------------------data 127---------------------
+context:
+The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage increased the thrust to 1,600,000 pounds-force (7,120 kN), and the second stage replaced the S-IV with the S-IVB-200, powered by a single J-2 engine burning liquid hydrogen fuel with LOX, to produce 200,000 lbf (890 kN) of thrust. A restartable version of the S-IVB was used as the third stage of the Saturn V. The Saturn IB could send over 40,000 pounds (18,100 kg) into low Earth orbit, sufficient for a partially fueled CSM or the LM. Saturn IB launch vehicles and flights were designated with an AS-200 series number, "AS" indicating "Apollo Saturn" and the "2" indicating the second member of the Saturn rocket family.
+
+Q1:    What was the first stage of the Saturn V?
+A1:    S-IB
+
+Q2:    What is the first stage of the Saturn V?
+A2:    S-IB
+
+Q3:    What is the second mentioned vehicle to be mentioned?
+A3:    S-IVB-200
+
+-------------------data 128---------------------
+context:
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed]
+
+Q1:    What was Fox paid for?
+A1:    movie trailers
+
+Q2:    What was Fox paid for?
+A2:    movie trailers
+
+-------------------data 129---------------------
+context:
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+
+Q1:    What was the number of pro Bowl selections?
+A1:    six
+
+Q2:    What was the lowest percentage of yards the NFL had?
+A2:    49.4
+
+Q3:    What was the total number of passes that the Panthers offense had?
+A3:    35
+
+Q4:    What was the total number of receptions for 485 yards?
+A4:    39
+
+Q5:    What offense featured the Panthers backfield offensive line?
+A5:    NFL
+
+Q6:    What is the offensive line featured?
+A6:    two Pro Bowl selections
+
+-------------------data 130---------------------
+context:
+Concerns were raised over whether Levi's Stadium's field was of a high enough quality to host a Super Bowl; during the inaugural season, the field had to be re-sodded multiple times due to various issues, and during a week 6 game earlier in the 2015 season, a portion of the turf collapsed under Baltimore Ravens kicker Justin Tucker, causing him to slip and miss a field goal, although the field has not had any major issues since. As is customary for Super Bowl games played at natural grass stadiums, the NFL re-sodded the field with a new playing surface; a hybrid Bermuda 419 turf. NFL and Atlanta Braves field director Ed Mangan stated that the field was in "great shape" for gameday. However, the turf showed problem throughout the game, with a number of players needing to change their cleats during the game and player slipping during plays all throughout the game.
+
+Q1:    What was the cause of the turf collapsing?
+A1:    the field has not had any major issues since
+
+Q2:    What is the difference between the field and the field?
+A2:    the field had to be re-sodded multiple times due to various issues
+
+Q3:    What was the reason for the collapse of the turf?
+A3:    the field has not had any major issues since
+
+Q4:    What was the cause of the turf being resodded?
+A4:    various issues
+
+-------------------data 131---------------------
+context:
+The Broncos took an early lead in Super Bowl 50 and never trailed. Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+
+Q1:    What was the first team in Super Bowl history?
+A1:    Denver
+
+Q2:    What was the reason for the loss?
+A2:    Newton was limited by Denver's defense
+
+Q3:    What was the first offense mentioned?
+A3:    The Broncos
+
+-------------------data 132---------------------
+context:
+On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+
+Q1:    What was the reason for the suspension?
+A1:    difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo
+
+Q2:    What is the name of the person who created the logo?
+A2:    Jaime Weston
+
+Q3:    What is the shape of the logo?
+A3:    colored in gold
+
+-------------------data 133---------------------
+context:
+Manning finished the year with a career-low 67.9 passer rating, throwing for 2,249 yards and nine touchdowns, with 17 interceptions. In contrast, Osweiler threw for 1,967 yards, 10 touchdowns and six interceptions for a rating of 86.4. Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts. Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards. Running back C. J. Anderson was the team's leading rusher 863 yards and seven touchdowns, while also catching 25 passes for 183 yards. Running back Ronnie Hillman also made a big impact with 720 yards, five touchdowns, 24 receptions, and a 4.7 yards per carry average. Overall, the offense ranked 19th in scoring with 355 points and did not have any Pro Bowl selections.
+
+Q1:    How many yards did he get?
+A1:    2,249
+
+Q2:    What percentage of yards did he catch?
+A2:    4.7 yards per carry average
+
+Q3:    What was the second touchdown scored?
+A3:    Emmanuel Sanders
+
+Q4:    How many receptions did he get?
+A4:    105
+
+Q5:    What was the second offense listed to win a game against the team?
+A5:    J. Anderson
+
+Q6:    What percentage of yards did Hillman throw?
+A6:    4.7 yards per carry average
+
+Q7:    What was the offense's average rating?
+A7:    67.9
+
+-------------------data 134---------------------
+context:
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+
+Q1:    What was the first game of the season?
+A1:    Super Bowl XLIX champion New England Patriots
+
+Q2:    What was the first game of the season?
+A2:    Super Bowl XLIX champion New England Patriots
+
+Q3:    What was the problem with Manning?
+A3:    didn't throw any in their two playoff games
+
+-------------------data 135---------------------
+context:
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+
+Q1:    What was the first show mentioned?
+A1:    the Super Bowl XLVIII
+
+Q2:    What happened on December 3rd, the Associated Press or the British rock group Coldplay
+A2:    the league confirmed that the show would be headlined
+
+Q3:    What happened on December 3rd, the Associated Press or the Associated Press?
+A3:    the Associated Press
+
+Q4:    What was the name of the person who headlined the Super Bowl vs. Coldplay
+A4:    Beyoncé
+
+-------------------data 136---------------------
+context:
+Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24–10 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the "golden anniversary" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as "Super Bowl L"), so that the logo could prominently feature the Arabic numerals 50.
+
+Q1:    What was the title of the champions of the National Football League?
+A1:    Carolina Panthers
+
+Q2:    What was the final game of the Super Bowl?
+A2:    Carolina Panthers
+
+Q3:    What was the location of the stadium?
+A3:    San Francisco Bay Area
+
+Q4:    What was the name of the Super Bowl game?
+A4:    American football game
+
+-------------------data 137---------------------
+context:
+There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.
+
+Q1:    What was the goal for the fourth quarter?
+A1:    50-yard line
+
+Q2:    What was the goal for the Panthers?
+A2:    a pass
+
+Q3:    What was the first score of the game?
+A3:    49-yard line
+
+Q4:    What was the final score of the game?
+A4:    16–10.

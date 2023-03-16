@@ -1,0 +1,1919 @@
+-------------------------------data 1------------------------------------
+Larger drugs (>500 Da) can provoke a neutralizing immune response, particularly if the drugs are administered repeatedly, or in larger doses. This limits the effectiveness of drugs based on larger peptides and proteins (which are typically larger than 6000 Da). In some cases, the drug itself is not immunogenic, but may be co-administered with an immunogenic compound, as is sometimes the case for Taxol. <hl> Computational methods have been developed to predict the immunogenicity of peptides and proteins, which are particularly useful in designing therapeutic antibodies, assessing likely virulence of mutations in viral coat particles, and validation of proposed peptide-based drug treatments. <hl> Early techniques relied mainly on the observation that hydrophilic amino acids are overrepresented in epitope regions than hydrophobic amino acids; however, more recent developments rely on machine learning techniques using databases of existing known epitopes, usually on well-studied virus proteins, as a training set. A publicly accessible database has been established for the cataloguing of epitopes from pathogens known to be recognizable by B cells. The emerging field of bioinformatics-based studies of immunogenicity is referred to as immunoinformatics. Immunoproteomics is the study of large sets of proteins (proteomics) involved in the immune response.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What helps design therapeutic antibodies?
+generated output:  What is a compound that is not immunogenic?
+
+
+question answering task:
+truth output:      predict the immunogenicity of peptides and proteins
+generated output:  taxol
+
+-------------------------------data 2------------------------------------
+Disorders of the immune system can result in autoimmune diseases, inflammatory diseases and cancer. <hl> Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. <hl> In humans, immunodeficiency can either be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. In contrast, autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. Immunology covers the study of all aspects of the immune system.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What can happen when the human body's germ-resistant system is weakened?
+generated output:  What is the cause of life-threatening infections?
+
+
+question answering task:
+truth output:      recurring and life-threatening infections
+generated output:  Immunodeficiency occurs when the immune system is less active than normal
+
+-------------------------------data 3------------------------------------
+Disorders of the immune system can result in autoimmune diseases, inflammatory diseases and cancer. Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. <hl> In humans, immunodeficiency can either be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. <hl> In contrast, autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. Immunology covers the study of all aspects of the immune system.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of substances can cause immunodeficiency?
+generated output:  What is the opposite of a combination immunodeficiency?
+
+
+question answering task:
+truth output:      immunosuppressive medication
+generated output:  autoimmunity
+
+-------------------------------data 4------------------------------------
+Disorders of the immune system can result in autoimmune diseases, inflammatory diseases and cancer. Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. In humans, immunodeficiency can either be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. In contrast, autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. <hl> Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. <hl> Immunology covers the study of all aspects of the immune system.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of insulin-related disease is caused by autoimmune disease?
+generated output:  What type of disease is the immune system autoimmune?
+
+
+question answering task:
+truth output:      diabetes mellitus type 1
+generated output:  cancer
+
+-------------------------------data 5------------------------------------
+Gamma delta T cells (γδ T cells) possess an alternative T cell receptor (TCR) as opposed to CD4+ and CD8+ (αβ) T cells and share the characteristics of helper T cells, cytotoxic T cells and NK cells. The conditions that produce responses from γδ T cells are not fully understood. Like other 'unconventional' T cell subsets bearing invariant TCRs, such as CD1d-restricted Natural Killer T cells, γδ T cells straddle the border between innate and adaptive immunity. <hl> On one hand, γδ T cells are a component of adaptive immunity as they rearrange TCR genes to produce receptor diversity and can also develop a memory phenotype. <hl> On the other hand, the various subsets are also part of the innate immune system, as restricted TCR or NK receptors may be used as pattern recognition receptors. For example, large numbers of human Vγ9/Vδ2 T cells respond within hours to common molecules produced by microbes, and highly restricted Vδ1+ T cells in epithelia respond to stressed epithelial cells.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What produced receptor diversity?
+generated output:  What is the T cells?
+
+
+question answering task:
+truth output:      γδ T cells
+generated output:  cytotoxic T cells
+
+-------------------------------data 6------------------------------------
+A steam turbine consists of one or more rotors (rotating discs) mounted on a drive shaft, alternating with a series of stators (static discs) fixed to the turbine casing. The rotors have a propeller-like arrangement of blades at the outer edge. Steam acts upon these blades, producing rotary motion. The stator consists of a similar, but fixed, series of blades that serve to redirect the steam flow onto the next rotor stage. <hl> A steam turbine often exhausts into a surface condenser that provides a vacuum. <hl> The stages of a steam turbine are typically arranged to extract the maximum potential work from a specific velocity and pressure of steam, giving rise to a series of variably sized high- and low-pressure stages. Turbines are only efficient if they rotate at relatively high speed, therefore they are usually connected to reduction gearing to drive lower speed applications, such as a ship's propeller. In the vast majority of large electric generating stations, turbines are directly connected to generators with no reduction gearing. Typical speeds are 3600 revolutions per minute (RPM) in the USA with 60 Hertz power, 3000 RPM in Europe and other countries with 50 Hertz electric power systems. In nuclear power applications the turbines typically run at half these speeds, 1800 RPM and 1500 RPM. A turbine rotor is also only capable of providing power when rotating in one direction. Therefore, a reversing stage or gearbox is usually required where power is required in the opposite direction.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happens to the used steam after it has passed the turbine discs?
+generated output:  What is a steam turbine exhausting process called?
+
+
+question answering task:
+truth output:      exhausts into a surface condenser that provides a vacuum
+generated output:  a vacuum
+
+-------------------------------data 7------------------------------------
+A steam turbine consists of one or more rotors (rotating discs) mounted on a drive shaft, alternating with a series of stators (static discs) fixed to the turbine casing. <hl> The rotors have a propeller-like arrangement of blades at the outer edge. <hl> Steam acts upon these blades, producing rotary motion. The stator consists of a similar, but fixed, series of blades that serve to redirect the steam flow onto the next rotor stage. A steam turbine often exhausts into a surface condenser that provides a vacuum. The stages of a steam turbine are typically arranged to extract the maximum potential work from a specific velocity and pressure of steam, giving rise to a series of variably sized high- and low-pressure stages. Turbines are only efficient if they rotate at relatively high speed, therefore they are usually connected to reduction gearing to drive lower speed applications, such as a ship's propeller. In the vast majority of large electric generating stations, turbines are directly connected to generators with no reduction gearing. Typical speeds are 3600 revolutions per minute (RPM) in the USA with 60 Hertz power, 3000 RPM in Europe and other countries with 50 Hertz electric power systems. In nuclear power applications the turbines typically run at half these speeds, 1800 RPM and 1500 RPM. A turbine rotor is also only capable of providing power when rotating in one direction. Therefore, a reversing stage or gearbox is usually required where power is required in the opposite direction.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What causes the spinning motion?
+generated output:  What is a propeller like a turbine?
+
+
+question answering task:
+truth output:      Steam
+generated output:  rotors
+
+-------------------------------data 8------------------------------------
+A steam turbine consists of one or more rotors (rotating discs) mounted on a drive shaft, alternating with a series of stators (static discs) fixed to the turbine casing. The rotors have a propeller-like arrangement of blades at the outer edge. Steam acts upon these blades, producing rotary motion. The stator consists of a similar, but fixed, series of blades that serve to redirect the steam flow onto the next rotor stage. A steam turbine often exhausts into a surface condenser that provides a vacuum. The stages of a steam turbine are typically arranged to extract the maximum potential work from a specific velocity and pressure of steam, giving rise to a series of variably sized high- and low-pressure stages. Turbines are only efficient if they rotate at relatively high speed, therefore they are usually connected to reduction gearing to drive lower speed applications, such as a ship's propeller. In the vast majority of large electric generating stations, turbines are directly connected to generators with no reduction gearing. <hl> Typical speeds are 3600 revolutions per minute (RPM) in the USA with 60 Hertz power, 3000 RPM in Europe and other countries with 50 Hertz electric power systems. <hl> In nuclear power applications the turbines typically run at half these speeds, 1800 RPM and 1500 RPM. A turbine rotor is also only capable of providing power when rotating in one direction. Therefore, a reversing stage or gearbox is usually required where power is required in the opposite direction.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What turbines run double the speed of nuclear power?
+generated output:  What is the average speed of a turbine in Europe?
+
+
+question answering task:
+truth output:      electric
+generated output:  3600 revolutions per minute
+
+-------------------------------data 9------------------------------------
+A steam turbine consists of one or more rotors (rotating discs) mounted on a drive shaft, alternating with a series of stators (static discs) fixed to the turbine casing. The rotors have a propeller-like arrangement of blades at the outer edge. Steam acts upon these blades, producing rotary motion. The stator consists of a similar, but fixed, series of blades that serve to redirect the steam flow onto the next rotor stage. A steam turbine often exhausts into a surface condenser that provides a vacuum. The stages of a steam turbine are typically arranged to extract the maximum potential work from a specific velocity and pressure of steam, giving rise to a series of variably sized high- and low-pressure stages. <hl> Turbines are only efficient if they rotate at relatively high speed, therefore they are usually connected to reduction gearing to drive lower speed applications, such as a ship's propeller. <hl> In the vast majority of large electric generating stations, turbines are directly connected to generators with no reduction gearing. Typical speeds are 3600 revolutions per minute (RPM) in the USA with 60 Hertz power, 3000 RPM in Europe and other countries with 50 Hertz electric power systems. In nuclear power applications the turbines typically run at half these speeds, 1800 RPM and 1500 RPM. A turbine rotor is also only capable of providing power when rotating in one direction. Therefore, a reversing stage or gearbox is usually required where power is required in the opposite direction.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What will increase how well the turbines run?
+generated output:  What is a turbine rotor?
+
+
+question answering task:
+truth output:      high speed
+generated output:  rotating discs
+
+-------------------------------data 10------------------------------------
+The historical measure of a steam engine's energy efficiency was its "duty". The concept of duty was first introduced by Watt in order to illustrate how much more efficient his engines were over the earlier Newcomen designs. Duty is the number of foot-pounds of work delivered by burning one bushel (94 pounds) of coal. The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million. Watt's original low-pressure designs were able to deliver duty as high as 25 million, but averaged about 17. This was a three-fold improvement over the average Newcomen design. <hl> Early Watt engines equipped with high-pressure steam improved this to 65 million. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the secret to producing the best results?
+generated output:  What was the difference in the current Watt engines' capacity?
+
+
+question answering task:
+truth output:      high-pressure steam
+generated output:  improved this to 65 million
+
+-------------------------------data 11------------------------------------
+<hl> The historical measure of a steam engine's energy efficiency was its "duty". <hl> The concept of duty was first introduced by Watt in order to illustrate how much more efficient his engines were over the earlier Newcomen designs. Duty is the number of foot-pounds of work delivered by burning one bushel (94 pounds) of coal. The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million. Watt's original low-pressure designs were able to deliver duty as high as 25 million, but averaged about 17. This was a three-fold improvement over the average Newcomen design. Early Watt engines equipped with high-pressure steam improved this to 65 million.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was used to figure out how well an engine was performing?
+generated output:  What was the purpose of duty?
+
+
+question answering task:
+truth output:      its "duty"
+generated output:  to illustrate how much more efficient his engines were over the earlier Newcomen designs
+
+-------------------------------data 12------------------------------------
+The historical measure of a steam engine's energy efficiency was its "duty". <hl> The concept of duty was first introduced by Watt in order to illustrate how much more efficient his engines were over the earlier Newcomen designs. <hl> Duty is the number of foot-pounds of work delivered by burning one bushel (94 pounds) of coal. The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million. Watt's original low-pressure designs were able to deliver duty as high as 25 million, but averaged about 17. This was a three-fold improvement over the average Newcomen design. Early Watt engines equipped with high-pressure steam improved this to 65 million.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the expected outcome of using duty?
+generated output:  What was the purpose of duty?
+
+
+question answering task:
+truth output:      to illustrate how much more efficient his engines were over the earlier Newcomen designs
+generated output:  to illustrate how much more efficient his engines were over the earlier Newcomen designs
+
+-------------------------------data 13------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. <hl> The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is for safety?
+generated output:  What is the main issue with the boilers: the volume of steam escaping from the boiler
+
+
+question answering task:
+truth output:      The plugs are also too small in area
+generated output:  The plugs are also too small in area to lower steam pressure significantly, depressurizing
+
+-------------------------------data 14------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. <hl> If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What acts as an alarm?
+generated output:  What is the cause of the steam escape?
+
+
+question answering task:
+truth output:      steam
+generated output:  the water level drops
+
+-------------------------------data 15------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. <hl> If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How does the fire get suppressed?
+generated output:  What is the cause of the steam escape?
+
+
+question answering task:
+truth output:      manually
+generated output:  the water level drops
+
+-------------------------------data 16------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. <hl> If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who has to make changes when the lead melts and steam escapes?
+generated output:  What is the cause of the steam escape?
+
+
+question answering task:
+truth output:      operators
+generated output:  the water level drops
+
+-------------------------------data 17------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. <hl> If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What needs to happen first to trigger a warning?
+generated output:  What is the cause of the steam escape?
+
+
+question answering task:
+truth output:      water level drops
+generated output:  the water level drops
+
+-------------------------------data 18------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. <hl> The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why doesn't steam escape dampen fires?
+generated output:  What is the main issue with the boilers: the volume of steam escaping from the boiler
+
+
+question answering task:
+truth output:      The plugs are also too small in area
+generated output:  The plugs are also too small in area to lower steam pressure significantly, depressurizing
+
+-------------------------------data 19------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. <hl> If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would be in danger if the plugs were bigger?
+generated output:  What is the main issue that the boilers face with the steam?
+
+
+question answering task:
+truth output:      crew
+generated output:  the water level drops
+
+-------------------------------data 20------------------------------------
+Lead fusible plugs may be present in the crown of the boiler's firebox. <hl> If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. <hl> Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much does the temperature increase when water level drops?
+generated output:  What is the cause of the steam escape?
+
+
+question answering task:
+truth output:      significantly
+generated output:  the water level drops
+
+-------------------------------data 21------------------------------------
+Trevithick continued his own experiments using a trio of locomotives, concluding with the Catch Me Who Can in 1808. <hl> Only four years later, the successful twin-cylinder locomotive Salamanca by Matthew Murray was used by the edge railed rack and pinion Middleton Railway. <hl> In 1825 George Stephenson built the Locomotion for the Stockton and Darlington Railway. This was the first public steam railway in the world and then in 1829, he built The Rocket which was entered in and won the Rainhill Trials. The Liverpool and Manchester Railway opened in 1830 making exclusive use of steam power for both passenger and freight trains.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the Catch Me Who Can?
+generated output:  What was Salamanca used by the edge rack and then a train?
+
+
+question answering task:
+truth output:      locomotive
+generated output:  twin-cylinder locomotive
+
+-------------------------------data 22------------------------------------
+Trevithick continued his own experiments using a trio of locomotives, concluding with the Catch Me Who Can in 1808. Only four years later, the successful twin-cylinder locomotive Salamanca by Matthew Murray was used by the edge railed rack and pinion Middleton Railway. In 1825 George Stephenson built the Locomotion for the Stockton and Darlington Railway. This was the first public steam railway in the world and then in 1829, he built The Rocket which was entered in and won the Rainhill Trials. <hl> The Liverpool and Manchester Railway opened in 1830 making exclusive use of steam power for both passenger and freight trains. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What made its debut twenty-two years after tests run by Trevithick?
+generated output:  What is the main purpose of the railway?
+
+
+question answering task:
+truth output:      Liverpool and Manchester Railway
+generated output:  passenger and freight trains
+
+-------------------------------data 23------------------------------------
+Trevithick continued his own experiments using a trio of locomotives, concluding with the Catch Me Who Can in 1808. <hl> Only four years later, the successful twin-cylinder locomotive Salamanca by Matthew Murray was used by the edge railed rack and pinion Middleton Railway. <hl> In 1825 George Stephenson built the Locomotion for the Stockton and Darlington Railway. This was the first public steam railway in the world and then in 1829, he built The Rocket which was entered in and won the Rainhill Trials. The Liverpool and Manchester Railway opened in 1830 making exclusive use of steam power for both passenger and freight trains.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was special of Middleton Railway?
+generated output:  What was Salamanca used by the edge rack and then a train?
+
+
+question answering task:
+truth output:      edge railed rack and pinion
+generated output:  twin-cylinder locomotive
+
+-------------------------------data 24------------------------------------
+Trevithick continued his own experiments using a trio of locomotives, concluding with the Catch Me Who Can in 1808. <hl> Only four years later, the successful twin-cylinder locomotive Salamanca by Matthew Murray was used by the edge railed rack and pinion Middleton Railway. In 1825 George Stephenson built the Locomotion for the Stockton and Darlington Railway. This was the first public steam railway in the world and then in 1829, he built The Rocket which was entered in and won the Rainhill Trials. <hl> The Liverpool and Manchester Railway opened in 1830 making exclusive use of steam power for both passenger and freight trains.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who created the locomotive developed four years before the Salamanca?
+generated output:  What happened first, Murray or Murray?
+
+
+question answering task:
+truth output:      Trevithick
+generated output:  Trevithick
+
+-------------------------------data 25------------------------------------
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. <hl> Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. <hl> One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What part of the boiler can't be adjusted by the user?
+generated output:  What is the main idea of the passage?
+
+
+question answering task:
+truth output:      safety valves
+generated output:  one may be adjusted by the user, the second is typically designed as an ultimate fail-safe
+
+-------------------------------data 26------------------------------------
+<hl> Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. <hl> Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the valve prevent?
+generated output:  What is the difference between the two mechanisms?
+
+
+question answering task:
+truth output:      the pressure in the boiler does not go too high
+generated output:  one may be adjusted by the user, the second is typically designed as an ultimate fail-safe
+
+-------------------------------data 27------------------------------------
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. <hl> Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. <hl> One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What mechanism were older valves?
+generated output:  What is the main idea of the passage?
+
+
+question answering task:
+truth output:      a simple lever
+generated output:  one may be adjusted by the user, the second is typically designed as an ultimate fail-safe
+
+-------------------------------data 28------------------------------------
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. One end of the lever carried a weight or spring that restrained the valve against steam pressure. <hl> Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. <hl> The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why would an engine driver close the valve and allow more steam pressure to build up?
+generated output:  What is the main benefit of valves?
+
+
+question answering task:
+truth output:      more power from the engine
+generated output:  increased steam pressure and more power from the engine
+
+-------------------------------data 29------------------------------------
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. <hl> The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. <hl> This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What part of the more modern safety valves is adjustable?
+generated output:  What is the main benefit of the valve?
+
+
+question answering task:
+truth output:      spring
+generated output:  increased steam pressure and more power from the engine
+
+-------------------------------data 30------------------------------------
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. <hl> The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. <hl> This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why are the modern safety valves safer than the old style?
+generated output:  What is the main benefit of the valve?
+
+
+question answering task:
+truth output:      operators may not tamper
+generated output:  increased steam pressure and more power from the engine
+
+-------------------------------data 31------------------------------------
+Steam engines frequently possess two independent mechanisms for ensuring that the pressure in the boiler does not go too high; one may be adjusted by the user, the second is typically designed as an ultimate fail-safe. Such safety valves traditionally used a simple lever to restrain a plug valve in the top of a boiler. One end of the lever carried a weight or spring that restrained the valve against steam pressure. Early valves could be adjusted by engine drivers, leading to many accidents when a driver fastened the valve down to allow greater steam pressure and more power from the engine. <hl> The more recent type of safety valve uses an adjustable spring-loaded valve, which is locked such that operators may not tamper with its adjustment unless a seal illegally is broken. <hl> This arrangement is considerably safer.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would an engine driver have to do to adjust the more modern type of valve?
+generated output:  What is the main benefit of the valve?
+
+
+question answering task:
+truth output:      seal illegally is broken
+generated output:  increased steam pressure and more power from the engine
+
+-------------------------------data 32------------------------------------
+<hl> Other components are often present; pumps (such as an injector) to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of vaporisation, and superheaters to raise the temperature of the steam above its saturated vapour point, and various mechanisms to increase the draft for fireboxes. <hl> When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel from a supply bin (bunker) to the firebox. See: Mechanical stoker
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What kind of pump brings water to the boiler
+generated output:  What is used to move fuel from the fuel from the fireboxes?
+
+
+question answering task:
+truth output:      injector
+generated output:  a chain or screw stoking mechanism
+
+-------------------------------data 33------------------------------------
+<hl> Other components are often present; pumps (such as an injector) to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of vaporisation, and superheaters to raise the temperature of the steam above its saturated vapour point, and various mechanisms to increase the draft for fireboxes. <hl> When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel from a supply bin (bunker) to the firebox. See: Mechanical stoker
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What else do condensers do besides circulation of the water
+generated output:  What is used to move fuel from the fuel from the fireboxes?
+
+
+question answering task:
+truth output:      recover the latent heat
+generated output:  a chain or screw stoking mechanism
+
+-------------------------------data 34------------------------------------
+<hl> Other components are often present; pumps (such as an injector) to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of vaporisation, and superheaters to raise the temperature of the steam above its saturated vapour point, and various mechanisms to increase the draft for fireboxes. <hl> When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel from a supply bin (bunker) to the firebox. See: Mechanical stoker
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name for a tool that condenses vapor?
+generated output:  What is used to move fuel from the fuel from the fireboxes?
+
+
+question answering task:
+truth output:      condensers
+generated output:  a chain or screw stoking mechanism
+
+-------------------------------data 35------------------------------------
+Other components are often present; pumps (such as an injector) to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of vaporisation, and superheaters to raise the temperature of the steam above its saturated vapour point, and various mechanisms to increase the draft for fireboxes. <hl> When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel from a supply bin (bunker) to the firebox. <hl> See: Mechanical stoker
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What fossil fuel is mentioned in this process
+generated output:  What is the main idea of the passage?
+
+
+question answering task:
+truth output:      coal
+generated output:  Other components are often present; pumps (such as an injector) to supply water to the
+
+-------------------------------data 36------------------------------------
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. These engines use a series of cylinders of progressively increasing diameter. <hl> These cylinders are designed to divide the work into equal shares for each expansion stage. <hl> As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed]
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How do you increase efficiency with cylinders?
+generated output:  What is the difference between cylinders and cylinders?
+
+
+question answering task:
+truth output:      divide the work into equal shares for each expansion stage
+generated output:  Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+-------------------------------data 37------------------------------------
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. These engines use a series of cylinders of progressively increasing diameter. These cylinders are designed to divide the work into equal shares for each expansion stage. As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. <hl> This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What came after multiple expansion engines?
+generated output:  What was the result of the triple-expansion engine being popular with large passenger liners
+
+
+question answering task:
+truth output:      vibration-free turbine engine
+generated output:  this was ultimately replaced by the virtually vibration-free turbine engine
+
+-------------------------------data 38------------------------------------
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. These engines use a series of cylinders of progressively increasing diameter. <hl> These cylinders are designed to divide the work into equal shares for each expansion stage. <hl> As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does adding multiple expansions to an engine do to the overall workload of the engine?
+generated output:  What is the difference between cylinders and cylinders?
+
+
+question answering task:
+truth output:      divide the work into equal shares
+generated output:  Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+-------------------------------data 39------------------------------------
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. <hl> These engines use a series of cylinders of progressively increasing diameter. <hl> These cylinders are designed to divide the work into equal shares for each expansion stage. As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What geometric solid is commonly found in engines?
+generated output:  What is the difference between cylinders and quadruple expansion engines?
+
+
+question answering task:
+truth output:      cylinders
+generated output:  These cylinders are designed to divide the work into equal shares for each expansion stage
+
+-------------------------------data 40------------------------------------
+<hl> It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. <hl> The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. These engines use a series of cylinders of progressively increasing diameter. These cylinders are designed to divide the work into equal shares for each expansion stage. As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the logical extension of a compound engine?
+generated output:  What is the difference between the two expansion engines?
+
+
+question answering task:
+truth output:      split the expansion into yet more stages to increase efficiency
+generated output:  Y-S-T engines divided the low-pressure expansion stages between two cylinders
+
+-------------------------------data 41------------------------------------
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the multiple expansion engine. Such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively. These engines use a series of cylinders of progressively increasing diameter. These cylinders are designed to divide the work into equal shares for each expansion stage. As with the double expansion engine, if space is at a premium, then two smaller cylinders may be used for the low-pressure stage. Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used. <hl> In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines. <hl> Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the Olympic class), but this was ultimately replaced by the virtually vibration-free turbine engine.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was one of the first multiple expansion engines that became popular?
+generated output:  What was used in the earliest years of the century?
+
+
+question answering task:
+truth output:      Y-S-T engines
+generated output:  Yarrow-Schlick-Tweedy balancing'system'
+
+-------------------------------data 42------------------------------------
+The history of the steam engine stretches back as far as the first century AD; the first recorded rudimentary steam engine being the aeolipile described by Greek mathematician Hero of Alexandria. In the following centuries, the few steam-powered "engines" known were, like the aeolipile, essentially experimental devices used by inventors to demonstrate the properties of steam. A rudimentary steam turbine device was described by Taqi al-Din in 1551 and by Giovanni Branca in 1629. <hl> Jerónimo de Ayanz y Beaumont received patents in 1606 for fifty steam powered inventions, including a water pump for draining inundated mines. <hl> Denis Papin, a Huguenot refugee, did some useful work on the steam digester in 1679, and first used a piston to raise weights in 1690.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was invented in the Seventeenth Century to helped in the retrieving of resources from the earth?
+generated output:  What was used to a steam digester?
+
+
+question answering task:
+truth output:      water pump for draining inundated mines
+generated output:  piston
+
+-------------------------------data 43------------------------------------
+The history of the steam engine stretches back as far as the first century AD; the first recorded rudimentary steam engine being the aeolipile described by Greek mathematician Hero of Alexandria. In the following centuries, the few steam-powered "engines" known were, like the aeolipile, essentially experimental devices used by inventors to demonstrate the properties of steam. A rudimentary steam turbine device was described by Taqi al-Din in 1551 and by Giovanni Branca in 1629. Jerónimo de Ayanz y Beaumont received patents in 1606 for fifty steam powered inventions, including a water pump for draining inundated mines. <hl> Denis Papin, a Huguenot refugee, did some useful work on the steam digester in 1679, and first used a piston to raise weights in 1690. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the purpose of a device invented in the seventeenth century that used water vapor to raise and lower a piece of metal?
+generated output:  What was Papin's first job?
+
+
+question answering task:
+truth output:      to raise weights
+generated output:  a piston
+
+-------------------------------data 44------------------------------------
+The history of the steam engine stretches back as far as the first century AD; the first recorded rudimentary steam engine being the aeolipile described by Greek mathematician Hero of Alexandria. In the following centuries, the few steam-powered "engines" known were, like the aeolipile, essentially experimental devices used by inventors to demonstrate the properties of steam. <hl> A rudimentary steam turbine device was described by Taqi al-Din in 1551 and by Giovanni Branca in 1629. <hl> Jerónimo de Ayanz y Beaumont received patents in 1606 for fifty steam powered inventions, including a water pump for draining inundated mines. Denis Papin, a Huguenot refugee, did some useful work on the steam digester in 1679, and first used a piston to raise weights in 1690.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What recorders from the early Modern period gave us expositions about a steam powered invention of that time?
+generated output:  What happened to the first steam engine?
+
+
+question answering task:
+truth output:      Taqi al-Din in 1551 and by Giovanni Branca in 1629
+generated output:  stretches back as far as the first century AD
+
+-------------------------------data 45------------------------------------
+It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. <hl> The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. <hl> Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What problem causes leakage?
+generated output:  What is the main issue with such engines?
+
+
+question answering task:
+truth output:      sealing the rotors
+generated output:  Lack of expansive working, or any means of control of the cutoff
+
+-------------------------------data 46------------------------------------
+<hl> It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. <hl> Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of engine is cited other than the pistonless rotary engine?
+generated output:  What is the Wankel engine used for?
+
+
+question answering task:
+truth output:      conventional reciprocating steam engine
+generated output:  pistonless
+
+-------------------------------data 47------------------------------------
+<hl> It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. <hl> Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many designs were made from Watts' time to today?
+generated output:  What is the Wankel engine used for?
+
+
+question answering task:
+truth output:      Many
+generated output:  pistonless
+
+-------------------------------data 48------------------------------------
+<hl> It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. <hl> Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the difference between a Wankel engine and a conventional reciprocating steam engine?
+generated output:  What is the Wankel engine used for?
+
+
+question answering task:
+truth output:      a pistonless rotary engine
+generated output:  pistonless
+
+-------------------------------data 49------------------------------------
+<hl> It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. <hl> Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of engine is the Wankel?
+generated output:  What is the Wankel engine used for?
+
+
+question answering task:
+truth output:      pistonless rotary engine
+generated output:  pistonless
+
+-------------------------------data 50------------------------------------
+It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. <hl> The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. <hl> Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the level of difficulty in sealing the rotors?
+generated output:  What is the main issue with such engines?
+
+
+question answering task:
+truth output:      major
+generated output:  Lack of expansive working, or any means of control of the cutoff
+
+-------------------------------data 51------------------------------------
+It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine. <hl> Many such engines have been designed, from the time of James Watt to the present day, but relatively few were actually built and even fewer went into quantity production; see link at bottom of article for more details. <hl> The major problem is the difficulty of sealing the rotors to make them steam-tight in the face of wear and thermal expansion; the resulting leakage made them very inefficient. Lack of expansive working, or any means of control of the cutoff is also a serious problem with many such designs.[citation needed]
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How popular were the engines?
+generated output:  What is the difference between the two engines?
+
+
+question answering task:
+truth output:      relatively few were actually built
+generated output:  The major problem is the difficulty of sealing the rotors to make them steam-t
+
+-------------------------------data 52------------------------------------
+The final major evolution of the steam engine design was the use of steam turbines starting in the late part of the 19th century. Steam turbines are generally more efficient than reciprocating piston type steam engines (for outputs above several hundred horsepower), have fewer moving parts, and provide rotary power directly instead of through a connecting rod system or similar means. Steam turbines virtually replaced reciprocating engines in electricity generating stations early in the 20th century, where their efficiency, higher speed appropriate to generator service, and smooth rotation were advantages. Today most electric power is provided by steam turbines. In the United States 90% of the electric power is produced in this way using a variety of heat sources. <hl> Steam turbines were extensively applied for propulsion of large ships throughout most of the 20th century. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What used the things more efficient than reciprocating piston type steam engines?
+generated output:  What is used to propulsion of large ships?
+
+
+question answering task:
+truth output:      ships
+generated output:  steam turbines
+
+-------------------------------data 53------------------------------------
+<hl> Although the reciprocating steam engine is no longer in widespread commercial use, various companies are exploring or exploiting the potential of the engine as an alternative to internal combustion engines. <hl> The company Energiprojekt AB in Sweden has made progress in using modern materials for harnessing the power of steam. The efficiency of Energiprojekt's steam engine reaches some 27-30% on high-pressure engines. It is a single-step, 5-cylinder engine (no compound) with superheated steam and consumes approx. 4 kg (8.8 lb) of steam per kWh.[not in citation given]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What style of steam engine is discussed in the article primarily?
+generated output:  What is the opposite of a commercial use?
+
+
+question answering task:
+truth output:      reciprocating
+generated output:  steam engine
+
+-------------------------------data 54------------------------------------
+Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. The Spanish inventor Jerónimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. <hl> In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. <hl> Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of invention was patented after the first patent?
+generated output:  What was used to draw water into a chamber?
+
+
+question answering task:
+truth output:      pump
+generated output:  pressurized steam
+
+-------------------------------data 55------------------------------------
+Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. <hl> The Spanish inventor Jerónimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. <hl> Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the basic goal of a steam engine?
+generated output:  What was used to produce mechanical motion?
+
+
+question answering task:
+truth output:      Using boiling water to produce mechanical motion
+generated output:  boiling water
+
+-------------------------------data 56------------------------------------
+Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. The Spanish inventor Jerónimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. <hl> In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. <hl> Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the man who got a patent near the end of the 17th century?
+generated output:  What was used to draw water into a chamber?
+
+
+question answering task:
+truth output:      Thomas Savery
+generated output:  pressurized steam
+
+-------------------------------data 57------------------------------------
+Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. The Spanish inventor Jerónimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. <hl> Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of machine was used in a mine?
+generated output:  What was used in the 12th year of the 1600s?
+
+
+question answering task:
+truth output:      first commercial true steam engine using a piston
+generated output:  a piston
+
+-------------------------------data 58------------------------------------
+Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. The Spanish inventor Jerónimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. <hl> Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. <hl> Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the man who had an engine in the 18th century?
+generated output:  What was used to draw water into a chamber?
+
+
+question answering task:
+truth output:      Thomas Newcomen
+generated output:  pressurized steam
+
+-------------------------------data 59------------------------------------
+<hl> Uniflow engines attempt to remedy the difficulties arising from the usual counterflow cycle where, during each stroke, the port and the cylinder walls will be cooled by the passing exhaust steam, whilst the hotter incoming admission steam will waste some of its energy in restoring working temperature. <hl> The aim of the uniflow is to remedy this defect and improve efficiency by providing an additional port uncovered by the piston at the end of each stroke making the steam flow only in one direction. By this means, the simple-expansion uniflow engine gives efficiency equivalent to that of classic compound systems with the added advantage of superior part-load performance, and comparable efficiency to turbines for smaller engines below one thousand horsepower. However, the thermal expansion gradient uniflow engines produce along the cylinder wall gives practical difficulties.[citation needed]. The Quasiturbine is a uniflow rotary steam engine where steam intakes in hot areas, while exhausting in cold areas.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What causes the energy waste in the counterflow cycle?
+generated output:  What is the main goal of the uniflow engines?
+
+
+question answering task:
+truth output:      hotter incoming admission steam
+generated output:  remedy this defect and improve efficiency
+
+-------------------------------data 60------------------------------------
+<hl> Uniflow engines attempt to remedy the difficulties arising from the usual counterflow cycle where, during each stroke, the port and the cylinder walls will be cooled by the passing exhaust steam, whilst the hotter incoming admission steam will waste some of its energy in restoring working temperature. <hl> The aim of the uniflow is to remedy this defect and improve efficiency by providing an additional port uncovered by the piston at the end of each stroke making the steam flow only in one direction. By this means, the simple-expansion uniflow engine gives efficiency equivalent to that of classic compound systems with the added advantage of superior part-load performance, and comparable efficiency to turbines for smaller engines below one thousand horsepower. However, the thermal expansion gradient uniflow engines produce along the cylinder wall gives practical difficulties.[citation needed]. The Quasiturbine is a uniflow rotary steam engine where steam intakes in hot areas, while exhausting in cold areas.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the exhaust steam cool?
+generated output:  What is the main goal of the uniflow engines?
+
+
+question answering task:
+truth output:      port and the cylinder walls
+generated output:  remedy this defect and improve efficiency
+
+-------------------------------data 61------------------------------------
+Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. <hl> Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was a newer idea?
+generated output:  What was the first step compound engines made into widespread use?
+
+
+question answering task:
+truth output:      electric motors
+generated output:  expansions
+
+-------------------------------data 62------------------------------------
+Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. <hl> These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. <hl> Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the lower number of expansions?
+generated output:  What was used to reduce the weight of coal carried?
+
+
+question answering task:
+truth output:      double
+generated output:  double and triple expansion engines
+
+-------------------------------data 63------------------------------------
+<hl> Near the end of the 19th century compound engines came into widespread use. <hl> Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much influence did compound engines have in the 19th century?
+generated output:  What was used to make compound engines popular?
+
+
+question answering task:
+truth output:      widespread
+generated output:  steam in successively larger cylinders to accommodate the higher volumes at reduced pressures
+
+-------------------------------data 64------------------------------------
+Near the end of the 19th century compound engines came into widespread use. <hl> Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. <hl> These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the goes into bigger cylinders?
+generated output:  What was used to increase the volume of steam in a compound engine?
+
+
+question answering task:
+truth output:      exhausted steam
+generated output:  double and triple expansion engines
+
+-------------------------------data 65------------------------------------
+Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. <hl> These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. <hl> Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is another name for expansions?
+generated output:  What was used to reduce the weight of coal carried?
+
+
+question answering task:
+truth output:      stages
+generated output:  double and triple expansion engines
+
+-------------------------------data 66------------------------------------
+Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. <hl> These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. <hl> Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What became obsolete?
+generated output:  What was used to reduce the weight of coal carried?
+
+
+question answering task:
+truth output:      Steam engines
+generated output:  double and triple expansion engines
+
+-------------------------------data 67------------------------------------
+Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. <hl> Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine. <hl>
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why did steam engines become obsolete?
+generated output:  What was the first step compound engines made into widespread use?
+
+
+question answering task:
+truth output:      advances in the design of electric motors and internal combustion engines
+generated output:  expansions
+
+-------------------------------data 68------------------------------------
+A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. <hl> In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. By staging the expansion in multiple cylinders, torque variability can be reduced. To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. <hl> Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened in the fifth year of the 19th century?
+generated output:  What is the result of the increase in the volume of the boiler?
+
+
+question answering task:
+truth output:      A method to lessen the magnitude of this heating and cooling was invented
+generated output:  the bore, and often the stroke, are increased in low-pressure cylinders resulting
+
+-------------------------------data 69------------------------------------
+<hl> A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. <hl> In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. By staging the expansion in multiple cylinders, torque variability can be reduced. To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened in the 6th year of the 19th century?
+generated output:  What is the result of Woolf's invention?
+
+
+question answering task:
+truth output:      patented his Woolf high-pressure compound engine
+generated output:  The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs
+
+-------------------------------data 70------------------------------------
+A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. <hl> By staging the expansion in multiple cylinders, torque variability can be reduced. <hl> To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why is the bore and stroke increased?
+generated output:  What is the difference between cylinders and cylinders?
+
+
+question answering task:
+truth output:      To derive equal work
+generated output:  The complete expansion of the steam now occurs across multiple cylinders
+
+-------------------------------data 71------------------------------------
+A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. <hl> In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. <hl> The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. By staging the expansion in multiple cylinders, torque variability can be reduced. To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the "L" in "LP" represent?
+generated output:  What is the result of the steam being released from the boiler?
+
+
+question answering task:
+truth output:      lower
+generated output:  less heat is lost by the steam in each
+
+-------------------------------data 72------------------------------------
+The efficiency of a Rankine cycle is usually limited by the working fluid. Without the pressure reaching supercritical levels for the working fluid, the temperature range the cycle can operate over is quite small; in steam turbines, turbine entry temperatures are typically 565 °C (the creep limit of stainless steel) and condenser temperatures are around 30 °C. This gives a theoretical Carnot efficiency of about 63% compared with an actual efficiency of 42% for a modern coal-fired power station. <hl> This low turbine entry temperature (compared with a gas turbine) is why the Rankine cycle is often used as a bottoming cycle in combined-cycle gas turbine power stations.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is an example of a turbine with a higher entry temperature, as compared to the Rankine cycle?
+generated output:  What is the difference between the Rankine and Gas turbines?
+
+
+question answering task:
+truth output:      gas turbine
+generated output:  low turbine entry temperature
+
+-------------------------------data 73------------------------------------
+The efficiency of a Rankine cycle is usually limited by the working fluid. Without the pressure reaching supercritical levels for the working fluid, the temperature range the cycle can operate over is quite small; in steam turbines, turbine entry temperatures are typically 565 °C (the creep limit of stainless steel) and condenser temperatures are around 30 °C. This gives a theoretical Carnot efficiency of about 63% compared with an actual efficiency of 42% for a modern coal-fired power station. <hl> This low turbine entry temperature (compared with a gas turbine) is why the Rankine cycle is often used as a bottoming cycle in combined-cycle gas turbine power stations.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What underlies the utility of the Rankine cycle in power stations?
+generated output:  What is the difference between the Rankine and Gas turbines?
+
+
+question answering task:
+truth output:      low turbine entry temperature
+generated output:  low turbine entry temperature
+
+-------------------------------data 74------------------------------------
+The efficiency of a Rankine cycle is usually limited by the working fluid. <hl> Without the pressure reaching supercritical levels for the working fluid, the temperature range the cycle can operate over is quite small; in steam turbines, turbine entry temperatures are typically 565 °C (the creep limit of stainless steel) and condenser temperatures are around 30 °C. This gives a theoretical Carnot efficiency of about 63% compared with an actual efficiency of 42% for a modern coal-fired power station. <hl> This low turbine entry temperature (compared with a gas turbine) is why the Rankine cycle is often used as a bottoming cycle in combined-cycle gas turbine power stations.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What might stem from the supercritical levels of the fluid?
+generated output:  What is the difference between the working fluid and the Rankine cycle?
+
+
+question answering task:
+truth output:      the temperature range the cycle can operate over is quite small
+generated output:  the pressure reaching supercritical levels
+
+-------------------------------data 75------------------------------------
+The efficiency of a Rankine cycle is usually limited by the working fluid. <hl> Without the pressure reaching supercritical levels for the working fluid, the temperature range the cycle can operate over is quite small; in steam turbines, turbine entry temperatures are typically 565 °C (the creep limit of stainless steel) and condenser temperatures are around 30 °C. This gives a theoretical Carnot efficiency of about 63% compared with an actual efficiency of 42% for a modern coal-fired power station. <hl> This low turbine entry temperature (compared with a gas turbine) is why the Rankine cycle is often used as a bottoming cycle in combined-cycle gas turbine power stations.[citation needed]
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why might underlie the upper limit of the turbine temperature?
+generated output:  What is the difference between the working fluid and the Rankine cycle?
+
+
+question answering task:
+truth output:      the creep limit of stainless steel
+generated output:  the pressure reaching supercritical levels
+
+-------------------------------data 76------------------------------------
+<hl> The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an "open loop" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. <hl> Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the open loop system used in?
+generated output:  What is the process of using the closed loop system?
+
+
+question answering task:
+truth output:      Rankine cycle
+generated output:  recycling continuously
+
+-------------------------------data 77------------------------------------
+<hl> The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an "open loop" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. <hl> Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What other type of loop is there other than an open loop?
+generated output:  What is the process of using the closed loop system?
+
+
+question answering task:
+truth output:      closed loop
+generated output:  recycling continuously
+
+-------------------------------data 78------------------------------------
+The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an "open loop" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. <hl> Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. <hl> Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is advantageous about water?
+generated output:  What is the characteristic of the fluid?
+
+
+question answering task:
+truth output:      non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties
+generated output:  favourable
+
+-------------------------------data 79------------------------------------
+The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an "open loop" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. <hl> Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. <hl> Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the most popular type of fluid?
+generated output:  What is the characteristic of the fluid?
+
+
+question answering task:
+truth output:      water
+generated output:  favourable
+
+-------------------------------data 80------------------------------------
+The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an "open loop" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. <hl> Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. <hl> Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How available is water to use in the system?
+generated output:  What is the characteristic of the fluid?
+
+
+question answering task:
+truth output:      abundance
+generated output:  favourable
+
+-------------------------------data 81------------------------------------
+The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. <hl> Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What vehicle could you have that you would need lower pressure boiler feed water?
+generated output:  What is used to injectors?
+
+
+question answering task:
+truth output:      steam locomotives
+generated output:  steam jet
+
+-------------------------------data 82------------------------------------
+The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. <hl> Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. <hl> Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many phases do centrifugal pumps have?
+generated output:  What is used to repurpose boiler water?
+
+
+question answering task:
+truth output:      multi
+generated output:  injector
+
+-------------------------------data 83------------------------------------
+The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. <hl> Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. <hl> Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What substance goes through an injector?
+generated output:  What is used to feed water to the boiler?
+
+
+question answering task:
+truth output:      water
+generated output:  injector
+
+-------------------------------data 84------------------------------------
+The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. <hl> Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. <hl> Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What vapor produced from heated water is mentioned here?
+generated output:  What is used to feed water to the boiler?
+
+
+question answering task:
+truth output:      steam
+generated output:  injector
+
+-------------------------------data 85------------------------------------
+<hl> The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. <hl> Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What substance is pumped by the pumps?
+generated output:  What is used to keep water from being used?
+
+
+question answering task:
+truth output:      water
+generated output:  injector
+
+-------------------------------data 86------------------------------------
+<hl> An oscillating cylinder steam engine is a variant of the simple expansion steam engine which does not require valves to direct steam into and out of the cylinder. <hl> Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion). These engines are mainly used in toys and models, because of their simplicity, but have also been used in full size working engines, mainly on ships where their compactness is valued.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What powers the device?
+generated output:  What is the method used for a steam engine?
+
+
+question answering task:
+truth output:      steam
+generated output:  direct steam into and out of the cylinder
+
+-------------------------------data 87------------------------------------
+An oscillating cylinder steam engine is a variant of the simple expansion steam engine which does not require valves to direct steam into and out of the cylinder. Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion). <hl> These engines are mainly used in toys and models, because of their simplicity, but have also been used in full size working engines, mainly on ships where their compactness is valued.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What feature makes this type of engine valuable for use in small mechanized items?
+generated output:  What is a benefit of the models that are used in toys and models?
+
+
+question answering task:
+truth output:      simplicity
+generated output:  their compactness is valued
+
+-------------------------------data 88------------------------------------
+An oscillating cylinder steam engine is a variant of the simple expansion steam engine which does not require valves to direct steam into and out of the cylinder. Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion). <hl> These engines are mainly used in toys and models, because of their simplicity, but have also been used in full size working engines, mainly on ships where their compactness is valued.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What aspect of an oscillating steam engine would be considered very beneficial for use in small spaces?
+generated output:  What is a benefit of the models that are used in toys and models?
+
+
+question answering task:
+truth output:      compactness
+generated output:  their compactness is valued
+
+-------------------------------data 89------------------------------------
+An oscillating cylinder steam engine is a variant of the simple expansion steam engine which does not require valves to direct steam into and out of the cylinder. <hl> Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion). <hl> These engines are mainly used in toys and models, because of their simplicity, but have also been used in full size working engines, mainly on ships where their compactness is valued.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is another term for oscillates?
+generated output:  What is the difference between valves and cylinders?
+
+
+question answering task:
+truth output:      rocks
+generated output:  one or more holes in the cylinder line up with holes in a fixed port face or
+
+-------------------------------data 90------------------------------------
+In 1781 James Watt patented a steam engine that produced continuous rotary motion. Watt's ten-horsepower engines enabled a wide range of manufacturing machinery to be powered. The engines could be sited anywhere that water and coal or wood fuel could be obtained. By 1883, engines that could provide 10,000 hp had become feasible. The stationary steam engine was a key component of the Industrial Revolution, allowing factories to locate where water power was unavailable. <hl> The atmospheric engines of Newcomen and Watt were large compared to the amount of power they produced, but high pressure steam engines were light enough to be applied to vehicles such as traction engines and the railway locomotives. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who created an engine, other than Watt?
+generated output:  What was the difference between the engines?
+
+
+question answering task:
+truth output:      Newcomen
+generated output:  The atmospheric engines of Newcomen and Watt were large compared to the amount of power they
+
+-------------------------------data 91------------------------------------
+In 1781 James Watt patented a steam engine that produced continuous rotary motion. Watt's ten-horsepower engines enabled a wide range of manufacturing machinery to be powered. The engines could be sited anywhere that water and coal or wood fuel could be obtained. By 1883, engines that could provide 10,000 hp had become feasible. The stationary steam engine was a key component of the Industrial Revolution, allowing factories to locate where water power was unavailable. <hl> The atmospheric engines of Newcomen and Watt were large compared to the amount of power they produced, but high pressure steam engines were light enough to be applied to vehicles such as traction engines and the railway locomotives. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was a drawback of Watt's engine?
+generated output:  What was the difference between the engines?
+
+
+question answering task:
+truth output:      large compared to the amount of power they produced
+generated output:  The atmospheric engines of Newcomen and Watt were large compared to the amount of power they
+
+-------------------------------data 92------------------------------------
+The simplest valve gears give events of fixed length during the engine cycle and often make the engine rotate in only one direction. <hl> Most however have a reversing mechanism which additionally can provide means for saving steam as speed and momentum are gained by gradually "shortening the cutoff" or rather, shortening the admission event; this in turn proportionately lengthens the expansion period. <hl> However, as one and the same valve usually controls both steam flows, a short cutoff at admission adversely affects the exhaust and compression periods which should ideally always be kept fairly constant; if the exhaust event is too brief, the totality of the exhaust steam cannot evacuate the cylinder, choking it and giving excessive compression ("kick back").[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What needs to be saved?
+generated output:  What is a benefit of valve gears?
+
+
+question answering task:
+truth output:      steam
+generated output:  a reversing mechanism
+
+-------------------------------data 93------------------------------------
+The simplest valve gears give events of fixed length during the engine cycle and often make the engine rotate in only one direction. Most however have a reversing mechanism which additionally can provide means for saving steam as speed and momentum are gained by gradually "shortening the cutoff" or rather, shortening the admission event; this in turn proportionately lengthens the expansion period. <hl> However, as one and the same valve usually controls both steam flows, a short cutoff at admission adversely affects the exhaust and compression periods which should ideally always be kept fairly constant; if the exhaust event is too brief, the totality of the exhaust steam cannot evacuate the cylinder, choking it and giving excessive compression ("kick back").[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What needs consistency?
+generated output:  What is the difference between the two valves?
+
+
+question answering task:
+truth output:      exhaust and compression periods
+generated output:  one and the same valve usually controls both steam flows
+
+-------------------------------data 94------------------------------------
+<hl> Virtually all nuclear power plants generate electricity by heating water to provide steam that drives a turbine connected to an electrical generator. <hl> Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion, with generators providing auxiliary power, or else employ turbo-electric transmission, where the steam drives a turbo generator set with propulsion provided by electric motors. A limited number of steam turbine railroad locomotives were manufactured. Some non-condensing direct-drive locomotives did meet with some success for long haul freight operations in Sweden and for express passenger work in Britain, but were not repeated. Elsewhere, notably in the U.S.A., more advanced designs with electric transmission were built experimentally, but not reproduced. It was found that steam turbines were not ideally suited to the railroad environment and these locomotives failed to oust the classic reciprocating steam unit in the way that modern diesel and electric traction has done.[citation needed]
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What are nuclear power plants connected to?
+generated output:  What is the main idea of the passage?
+
+
+question answering task:
+truth output:      turbine
+generated output:  Nuclear-powered ships and submarines either use a steam turbine directly for main propulsion,
+
+-------------------------------data 95------------------------------------
+<hl> The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms. <hl> This imagery has been in use since at least the mid-14th century. The oldest existing armed seal of Warsaw is from the year 1390, consisting of a round seal bordered with the Latin inscription Sigilium Civitatis Varsoviensis (Seal of the city of Warsaw). City records as far back as 1609 document the use of a crude form of a sea monster with a female upper body and holding a sword in its claws. In 1653 the poet Zygmunt Laukowski asks the question:
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why can one find mermaids throughout Warsaw?
+generated output:  What is the name of the symbol used in Warsaw?
+
+
+question answering task:
+truth output:      Warsaw's symbol
+generated output:  mermaid
+
+-------------------------------data 96------------------------------------
+<hl> The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms. <hl> This imagery has been in use since at least the mid-14th century. The oldest existing armed seal of Warsaw is from the year 1390, consisting of a round seal bordered with the Latin inscription Sigilium Civitatis Varsoviensis (Seal of the city of Warsaw). City records as far back as 1609 document the use of a crude form of a sea monster with a female upper body and holding a sword in its claws. In 1653 the poet Zygmunt Laukowski asks the question:
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How did Warsaw display the sea monster in the region
+generated output:  What is the name of the symbol used in Warsaw?
+
+
+question answering task:
+truth output:      on statues throughout the city and on the city's coat of arms
+generated output:  mermaid
+
+-------------------------------data 97------------------------------------
+<hl> The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms. <hl> This imagery has been in use since at least the mid-14th century. The oldest existing armed seal of Warsaw is from the year 1390, consisting of a round seal bordered with the Latin inscription Sigilium Civitatis Varsoviensis (Seal of the city of Warsaw). City records as far back as 1609 document the use of a crude form of a sea monster with a female upper body and holding a sword in its claws. In 1653 the poet Zygmunt Laukowski asks the question:
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is a sea monster also referred to commonly in the text
+generated output:  What is the name of the symbol used in Warsaw?
+
+
+question answering task:
+truth output:      mermaid (syrenka)
+generated output:  mermaid
+
+-------------------------------data 98------------------------------------
+The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms. This imagery has been in use since at least the mid-14th century. <hl> The oldest existing armed seal of Warsaw is from the year 1390, consisting of a round seal bordered with the Latin inscription Sigilium Civitatis Varsoviensis (Seal of the city of Warsaw). <hl> City records as far back as 1609 document the use of a crude form of a sea monster with a female upper body and holding a sword in its claws. In 1653 the poet Zygmunt Laukowski asks the question:
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When was the sea monster shown on the Coat of Arms seal
+generated output:  What is the name of the city that used swords?
+
+
+question answering task:
+truth output:      1390
+generated output:  Warsaw
+
+-------------------------------data 99------------------------------------
+The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms. This imagery has been in use since at least the mid-14th century. The oldest existing armed seal of Warsaw is from the year 1390, consisting of a round seal bordered with the Latin inscription Sigilium Civitatis Varsoviensis (Seal of the city of Warsaw). <hl> City records as far back as 1609 document the use of a crude form of a sea monster with a female upper body and holding a sword in its claws. <hl> In 1653 the poet Zygmunt Laukowski asks the question:
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was distinct about the sea monster holding the sword on the 1609 document?
+generated output:  What happened in the 53rd year of the 1600s?
+
+
+question answering task:
+truth output:      a female upper body
+generated output:  the poet Zygmunt Laukowski asks the question
+
+-------------------------------data 100------------------------------------
+The origin of the legendary figure is not fully known. <hl> The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. <hl> One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+question type classification task:
+truth output:      When
+generated output:  Who
+
+
+QG task:
+truth output:      When Triton's daughters went on their adventures, where did they go?
+generated output:  Who did the first Triton's daughters set out on a journey through the depth
+
+
+question answering task:
+truth output:      through the depths of the oceans and seas
+generated output:  Artur Oppman
+
+-------------------------------data 101------------------------------------
+The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. <hl> The second mermaid reached the mouth of the Vistula River and plunged into its waters. <hl> She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What were Triton's daughters?
+generated output:  What was the place where Triton's daughters set out?
+
+
+question answering task:
+truth output:      mermaid
+generated output:  Denmark
+
+-------------------------------data 102------------------------------------
+The origin of the legendary figure is not fully known. <hl> The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. <hl> One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who was the father of the mermaids?
+generated output:  Who did the first Triton's daughters set out on a journey through the depth
+
+
+question answering task:
+truth output:      Triton
+generated output:  Artur Oppman
+
+-------------------------------data 103------------------------------------
+The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. <hl> A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did the covetous businessman do?
+generated output:  What did the mermaid hear?
+
+
+question answering task:
+truth output:      followed the fishermen and captured the mermaid
+generated output:  her beautiful voice
+
+-------------------------------data 104------------------------------------
+The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. <hl> One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. <hl> The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the first mermaid retire?
+generated output:  What is the location of the port of Copenhagen?
+
+
+question answering task:
+truth output:      coast of Denmark
+generated output:  Denmark
+
+-------------------------------data 105------------------------------------
+The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. <hl> A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What unsavory character also listened to the mermaid sing?
+generated output:  What did the mermaid hear?
+
+
+question answering task:
+truth output:      greedy merchant
+generated output:  her beautiful voice
+
+-------------------------------data 106------------------------------------
+The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. <hl> The second mermaid reached the mouth of the Vistula River and plunged into its waters. <hl> She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the 2nd daughter arrive to go into the body of water?
+generated output:  What was the place where Triton's daughters set out?
+
+
+question answering task:
+truth output:      Vistula River
+generated output:  Denmark
+
+-------------------------------data 107------------------------------------
+The origin of the legendary figure is not fully known. <hl> The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. <hl> One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who were the mermaids related to?
+generated output:  Who did the first Triton's daughters set out on a journey through the depth
+
+
+question answering task:
+truth output:      Triton
+generated output:  Artur Oppman
+
+-------------------------------data 108------------------------------------
+In 1939, c. 1,300,000 people lived in Warsaw, but in 1945 – only 420,000. During the first years after the war, the population growth was c. 6%, so shortly the city started to suffer from the lack of flats and of areas for new houses. <hl> The first remedial measure was the Warsaw area enlargement (1951) – but the city authorities were still forced to introduce residency registration limitations: only the spouses and children of the permanent residents as well as some persons of public importance (like renowned specialists) were allowed to get the registration, hence halving the population growth in the following years. <hl> It also bolstered some kind of conviction among Poles that Varsovians thought of themselves as better only because they lived in the capital. Unfortunately this belief still lives on in Poland (although not as much as it used to be) – even though since 1990 there are no limitations to residency registration anymore.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where was residency registration implemented?
+generated output:  What happened to Warsaw's population growth in 1945?
+
+
+question answering task:
+truth output:      Warsaw
+generated output:  c. 1,300,000 people lived in Warsaw
+
+-------------------------------data 109------------------------------------
+In 1939, c. 1,300,000 people lived in Warsaw, but in 1945 – only 420,000. During the first years after the war, the population growth was c. <hl> 6%, so shortly the city started to suffer from the lack of flats and of areas for new houses. <hl> The first remedial measure was the Warsaw area enlargement (1951) – but the city authorities were still forced to introduce residency registration limitations: only the spouses and children of the permanent residents as well as some persons of public importance (like renowned specialists) were allowed to get the registration, hence halving the population growth in the following years. It also bolstered some kind of conviction among Poles that Varsovians thought of themselves as better only because they lived in the capital. Unfortunately this belief still lives on in Poland (although not as much as it used to be) – even though since 1990 there are no limitations to residency registration anymore.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did the population growth rate in Warsaw after the war cause?
+generated output:  What happened to Warsaw's population growth in 1945?
+
+
+question answering task:
+truth output:      lack of flats and of areas for new houses
+generated output:  c. 1,300,000 people lived in Warsaw
+
+-------------------------------data 110------------------------------------
+<hl> In 1939, c. <hl> 1,300,000 people lived in Warsaw, but in 1945 – only 420,000. During the first years after the war, the population growth was c. 6%, so shortly the city started to suffer from the lack of flats and of areas for new houses. The first remedial measure was the Warsaw area enlargement (1951) – but the city authorities were still forced to introduce residency registration limitations: only the spouses and children of the permanent residents as well as some persons of public importance (like renowned specialists) were allowed to get the registration, hence halving the population growth in the following years. It also bolstered some kind of conviction among Poles that Varsovians thought of themselves as better only because they lived in the capital. Unfortunately this belief still lives on in Poland (although not as much as it used to be) – even though since 1990 there are no limitations to residency registration anymore.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was Warsaw's population in 1939?
+generated output:  What happened in the 39th year of the 20th century?
+
+
+question answering task:
+truth output:      c. 1,300,000
+generated output:  the population growth was c. 6%
+
+-------------------------------data 111------------------------------------
+<hl> The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). <hl> After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about 1300. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the latest century in which settlements could have been established at Jazdow?
+generated output:  What was the first settlement on the site of today's Warsaw?
+
+
+question answering task:
+truth output:      13th
+generated output:  Jazdów
+
+-------------------------------data 112------------------------------------
+<hl> The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). <hl> After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about 1300. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the earliest century in which Brodno could have been built?
+generated output:  What was the first settlement on the site of today's Warsaw?
+
+
+question answering task:
+truth output:      9th
+generated output:  Jazdów
+
+-------------------------------data 113------------------------------------
+The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). <hl> After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. <hl> The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about 1300. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the third fortified settlement?
+generated output:  What was the first settlement established?
+
+
+question answering task:
+truth output:      Warszowa
+generated output:  Jazdów
+
+-------------------------------data 114------------------------------------
+<hl> The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). <hl> After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about 1300. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When was the second settlement founded that would be in the same area as Warsaw later on?
+generated output:  What was the first settlement on the site of today's Warsaw?
+
+
+question answering task:
+truth output:      12th/13th century
+generated output:  Jazdów
+
+-------------------------------data 115------------------------------------
+Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. <hl> The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. <hl> While the Maria Skłodowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the "I" in "CMHI" stand for?
+generated output:  What does the first C in "CMHI" stand for?
+
+
+question answering task:
+truth output:      Institute
+generated output:  Hospital
+
+-------------------------------data 116------------------------------------
+Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. <hl> The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. <hl> While the Maria Skłodowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the "H" in "CMHI" stand for?
+generated output:  What does the first C in "CMHI" stand for?
+
+
+question answering task:
+truth output:      Health
+generated output:  Hospital
+
+-------------------------------data 117------------------------------------
+Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. <hl> The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. <hl> While the Maria Skłodowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the M in CMHI stand for?
+generated output:  What does the first C in "CMHI" stand for?
+
+
+question answering task:
+truth output:      Memorial
+generated output:  Hospital
+
+-------------------------------data 118------------------------------------
+Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. <hl> The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. <hl> While the Maria Skłodowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the "M" in "CMHI" stand for?
+generated output:  What does the first C in "CMHI" stand for?
+
+
+question answering task:
+truth output:      Memorial
+generated output:  Hospital
+
+-------------------------------data 119------------------------------------
+Gothic architecture is represented in the majestic churches but also at the burgher houses and fortifications. The most significant buildings are St. John's Cathedral (14th century), the temple is a typical example of the so-called Masovian gothic style, St. Mary's Church (1411), a town house of Burbach family (14th century), Gunpowder Tower (after 1379) and the Royal Castle Curia Maior (1407–1410). The most notable examples of Renaissance architecture in the city are the house of Baryczko merchant family (1562), building called "The Negro" (early 17th century) and Salwator tenement (1632). <hl> The most interesting examples of mannerist architecture are the Royal Castle (1596–1619) and the Jesuit Church (1609–1626) at Old Town. <hl> Among the first structures of the early baroque the most important are St. Hyacinth's Church (1603–1639) and Sigismund's Column (1644).
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What style follows the Renaissance?
+generated output:  What is the most notable example of Gothic architecture in Old Town?
+
+
+question answering task:
+truth output:      mannerist
+generated output:  the Jesuit Church
+
+-------------------------------data 120------------------------------------
+Gothic architecture is represented in the majestic churches but also at the burgher houses and fortifications. The most significant buildings are St. John's Cathedral (14th century), the temple is a typical example of the so-called Masovian gothic style, St. Mary's Church (1411), a town house of Burbach family (14th century), Gunpowder Tower (after 1379) and the Royal Castle Curia Maior (1407–1410). The most notable examples of Renaissance architecture in the city are the house of Baryczko merchant family (1562), building called "The Negro" (early 17th century) and Salwator tenement (1632). The most interesting examples of mannerist architecture are the Royal Castle (1596–1619) and the Jesuit Church (1609–1626) at Old Town. <hl> Among the first structures of the early baroque the most important are St. Hyacinth's Church (1603–1639) and Sigismund's Column (1644). <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the newer important baroque structure?
+generated output:  What was the most important structure of St. John's Church?
+
+
+question answering task:
+truth output:      Sigismund's Column
+generated output:  burgher houses and fortifications

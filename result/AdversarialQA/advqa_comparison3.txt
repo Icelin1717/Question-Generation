@@ -1,0 +1,2015 @@
+-------------------------------data 1------------------------------------
+On April 12, 1961, Soviet cosmonaut Yuri Gagarin became the first person to fly in space, reinforcing American fears about being left behind in a technological competition with the Soviet Union. <hl> At a meeting of the US House Committee on Science and Astronautics one day after Gagarin's flight, many congressmen pledged their support for a crash program aimed at ensuring that America would catch up. <hl> Kennedy was circumspect in his response to the news, refusing to make a commitment on America's response to the Soviets.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What group did Kennedy not fall in line with?
+generated output:  What was Gagarin's response?
+
+
+question answering task:
+truth output:      many congressmen
+generated output:  a crash program
+
+-------------------------------data 2------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). <hl> The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What kind of fuel was used to return the module from the moon?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      liquid hydrogen
+generated output:  CSM and LM
+
+-------------------------------data 3------------------------------------
+<hl> The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. <hl> It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What stood 363 feet tall?
+generated output:  What was the size of the three stage Saturn V?
+
+
+question answering task:
+truth output:      Saturn V
+generated output:  33 feet
+
+-------------------------------data 4------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). <hl> The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the rated thrust in the final stage?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      230,000 lbf
+generated output:  CSM and LM
+
+-------------------------------data 5------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. <hl> It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. <hl> Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much was the lander capable of handling in it's first iteration?
+generated output:  What was the size of the three stage Saturn V?
+
+
+question answering task:
+truth output:      96,800-pound (43,900 kg)
+generated output:  33 feet
+
+-------------------------------data 6------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. <hl> It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. <hl> Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the weight of Saturn V's payload in pounds at first?
+generated output:  What was the size of the three stage Saturn V?
+
+
+question answering task:
+truth output:      96,800
+generated output:  33 feet
+
+-------------------------------data 7------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. <hl> Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. <hl> The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When was the most force needed?
+generated output:  What was the largest capacity of the three stage Saturn V?
+
+
+question answering task:
+truth output:      The S-IC first stage
+generated output:  103,600 pounds (47,000 kg)
+
+-------------------------------data 8------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. <hl> Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. <hl> The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the heaviest payload the module could carry?
+generated output:  What was the largest capacity of the three stage Saturn V?
+
+
+question answering task:
+truth output:      103,600 pounds (47,000 kg)
+generated output:  103,600 pounds (47,000 kg)
+
+-------------------------------data 9------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). <hl> The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What kind of fuel was used after the initial launch?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      liquid hydrogen
+generated output:  CSM and LM
+
+-------------------------------data 10------------------------------------
+<hl> The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. <hl> It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was 33 feet in diameter?
+generated output:  What was the size of the three stage Saturn V?
+
+
+question answering task:
+truth output:      Saturn V
+generated output:  33 feet
+
+-------------------------------data 11------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. <hl> It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. <hl> Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the height of Saturn V in meters?
+generated output:  What was the size of the three stage Saturn V?
+
+
+question answering task:
+truth output:      110.6
+generated output:  33 feet
+
+-------------------------------data 12------------------------------------
+The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. <hl> It was 33 feet (10.1 m) in diameter and stood 363 feet (110.6 m) tall with its 96,800-pound (43,900 kg) lunar payload. <hl> Its capability grew to 103,600 pounds (47,000 kg) for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of 7,500,000 pounds-force (33,400 kN), which was upgraded to 7,610,000 pounds-force (33,900 kN). The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to 230,000 lbf (1,020 kN) and capability to restart the engine for translunar injection after reaching a parking orbit.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the diameter of Saturn V in meters?
+generated output:  What was the size of the three stage Saturn V?
+
+
+question answering task:
+truth output:      10.1
+generated output:  33 feet
+
+-------------------------------data 13------------------------------------
+It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. <hl> Debus was named the LOC's first Director. <hl> Construction began in November 1962. Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What began late in the 63rd year of the previous century?
+generated output:  What happened in the 62nd year of the 20th century?
+
+
+question answering task:
+truth output:      Construction began
+generated output:  land acquisition was started
+
+-------------------------------data 14------------------------------------
+<hl> It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. <hl> The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director. Construction began in November 1962. Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where doesn't Apollo fit?
+generated output:  What is the main idea of the passage?
+
+
+question answering task:
+truth output:      Canaveral launch facilities in Florida
+generated output:  Apollo would outgrow the Canaveral launch facilities in Florida
+
+-------------------------------data 15------------------------------------
+It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director. Construction began in November 1962. <hl> Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the place north of Canaveral at Merritt Island eventually called?
+generated output:  What happened in 1963?
+
+
+question answering task:
+truth output:      Kennedy
+generated output:  land acquisition was started
+
+-------------------------------data 16------------------------------------
+It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. <hl> But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. <hl> The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director. Construction began in November 1962. Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What began in middle of the 62nd year of the previous century?
+generated output:  What is the first rocket to be built in the area that is not manned by Apollo?
+
+
+question answering task:
+truth output:      land acquisition was started
+generated output:  LC-34
+
+-------------------------------data 17------------------------------------
+It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director. Construction began in November 1962. <hl> Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What, besides Kennedy's death, is mentioned to have happened in the 64th year of the previous century?
+generated output:  What happened in 1963?
+
+
+question answering task:
+truth output:      President Johnson issued an executive order
+generated output:  land acquisition was started
+
+-------------------------------data 18------------------------------------
+<hl> The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. <hl> The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was positive about the delay in the CSM?
+generated output:  What caused the fire?
+
+
+question answering task:
+truth output:      enabled NASA to catch up on man-rating the LM and Saturn V
+generated output:  delay in the CSM
+
+-------------------------------data 19------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. <hl> The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. <hl> Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the main problem with the Apollo 6 mission?
+generated output:  What caused the engine to restart?
+
+
+question answering task:
+truth output:      damage to the third stage engine
+generated output:  the fire
+
+-------------------------------data 20------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. <hl> The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. <hl> Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the end result of Saturn V's problem?
+generated output:  What caused the Saturn V to fail?
+
+
+question answering task:
+truth output:      damaged fuel lines in the second and third stages
+generated output:  the fire
+
+-------------------------------data 21------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. <hl> Two S-II engines shut down prematurely, but the remaining engines were able to compensate. <hl> The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What kept the Saturn V flying after it experienced engine problems?
+generated output:  What caused the engine to shut down?
+
+
+question answering task:
+truth output:      the remaining engines were able to compensate
+generated output:  the fire
+
+-------------------------------data 22------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. <hl> This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. <hl> The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What Apollo flight followed the one in 1967?
+generated output:  What was the result of the failure of the Command Module's heat shield?
+
+
+question answering task:
+truth output:      6
+generated output:  The capability of the Command Module's heat shield to survive a trans-lunar
+
+-------------------------------data 23------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. <hl> The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. <hl> Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many unmanned missions did the Saturn V fly?
+generated output:  What caused the Saturn V to fail?
+
+
+question answering task:
+truth output:      Two
+generated output:  the fire
+
+-------------------------------data 24------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. <hl> Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test. <hl>
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why did NASA cancel a third unmanned test?
+generated output:  What was the reason for the failure of the CSM?
+
+
+question answering task:
+truth output:      Saturn V ready to fly men
+generated output:  the fire
+
+-------------------------------data 25------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. <hl> The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. <hl> This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the final test of the Command Module's heat shield?
+generated output:  What happened to the CSM during the first unmanned flight of the Saturn V?
+
+
+question answering task:
+truth output:      using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed
+generated output:  caused by the fire
+
+-------------------------------data 26------------------------------------
+The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. <hl> The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. <hl> Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why did remaining engines have to compensate?
+generated output:  What caused the Saturn V to fail?
+
+
+question answering task:
+truth output:      Two S-II engines shut down prematurely
+generated output:  the fire
+
+-------------------------------data 27------------------------------------
+In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. <hl> On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did they do at the Surveyor?
+generated output:  What did the crews take after the landing?
+
+
+question answering task:
+truth output:      photographed it
+generated output:  some parts
+
+-------------------------------data 28------------------------------------
+<hl> In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. <hl> The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Apollo 12 land that was noteworthy?
+generated output:  What was the first landing on the moon that Gemini veteran Terry Conrad made?
+
+
+question answering task:
+truth output:      within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967
+generated output:  Apollo 12
+
+-------------------------------data 29------------------------------------
+In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. <hl> The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. <hl> They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened to the camera?
+generated output:  What happened to the first EVAs?
+
+
+question answering task:
+truth output:      it was damaged
+generated output:  damaged
+
+-------------------------------data 30------------------------------------
+<hl> In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. <hl> The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who had been in service longer between Conrad and Bean?
+generated output:  What was the first landing on the moon that Gemini veteran Terry Conrad made?
+
+
+question answering task:
+truth output:      veteran Charles "Pete" Conrad
+generated output:  Apollo 12
+
+-------------------------------data 31------------------------------------
+<hl> In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. <hl> The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What had been on the moon for two years and 8 months?
+generated output:  What was the first landing on the moon that Gemini veteran Terry Conrad made?
+
+
+question answering task:
+truth output:      Surveyor 3 unmanned lunar probe
+generated output:  Apollo 12
+
+-------------------------------data 32------------------------------------
+In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. <hl> The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. <hl> They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who broke the television camera?
+generated output:  What happened to the first EVAs?
+
+
+question answering task:
+truth output:      Conrad and Bean
+generated output:  damaged
+
+-------------------------------data 33------------------------------------
+The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. <hl> An estimated one-quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon. <hl> The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How was the transmission able to be seen on TV?
+generated output:  What happened during the 9th orbit of the Moon?
+
+
+question answering task:
+truth output:      either live or delayed
+generated output:  An estimated one-quarter of the population of the world saw—either live or delayed—
+
+-------------------------------data 34------------------------------------
+<hl> The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. <hl> An estimated one-quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon. The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What tells us the story of Adam and Eve?
+generated output:  What was the first live televised pictures of?
+
+
+question answering task:
+truth output:      creation story
+generated output:  the Earth and the Moon
+
+-------------------------------data 35------------------------------------
+<hl> The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. <hl> An estimated one-quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon. The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where were the televised pictures broadcast from?
+generated output:  What was the first live televised pictures of?
+
+
+question answering task:
+truth output:      Moon
+generated output:  the Earth and the Moon
+
+-------------------------------data 36------------------------------------
+<hl> The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. <hl> An estimated one-quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon. The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What planet was seen by one-quarter of the population?
+generated output:  What was the first live televised pictures of?
+
+
+question answering task:
+truth output:      Earth
+generated output:  the Earth and the Moon
+
+-------------------------------data 37------------------------------------
+<hl> The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. <hl> An estimated one-quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon. The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What mission was the creation story read from?
+generated output:  What was the first live televised pictures of?
+
+
+question answering task:
+truth output:      Apollo 8
+generated output:  the Earth and the Moon
+
+-------------------------------data 38------------------------------------
+Looking beyond the manned lunar landings, NASA investigated several post-lunar applications for Apollo hardware. The Apollo Extension Series (Apollo X,) proposed up to 30 flights to Earth orbit, using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop). Astronauts would continue to use the CSM as a ferry to the station. This study was followed by design of a larger orbital workshop to be built in orbit from an empty S-IVB Saturn upper stage, and grew into the Apollo Applications Program (AAP). <hl> The workshop was to be supplemented by Apollo Telescope Missions, which would replace the LM's descent stage equipment and engine with a solar telescope observatory. <hl> The most ambitious plan called for using an empty S-IVB as an interplanetary spacecraft for a Venus fly-by mission.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What program helps the Apollo Applications Program?
+generated output:  What was the purpose of the spacecraft?
+
+
+question answering task:
+truth output:      Apollo Telescope Missions
+generated output:  Apollo Extension Series
+
+-------------------------------data 39------------------------------------
+Looking beyond the manned lunar landings, NASA investigated several post-lunar applications for Apollo hardware. <hl> The Apollo Extension Series (Apollo X,) proposed up to 30 flights to Earth orbit, using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop). <hl> Astronauts would continue to use the CSM as a ferry to the station. This study was followed by design of a larger orbital workshop to be built in orbit from an empty S-IVB Saturn upper stage, and grew into the Apollo Applications Program (AAP). The workshop was to be supplemented by Apollo Telescope Missions, which would replace the LM's descent stage equipment and engine with a solar telescope observatory. The most ambitious plan called for using an empty S-IVB as an interplanetary spacecraft for a Venus fly-by mission.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What would Apollo X do with 30 flights?
+generated output:  What is the first mentioned location?
+
+
+question answering task:
+truth output:      using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop
+generated output:  the Spacecraft Lunar Module Adapter
+
+-------------------------------data 40------------------------------------
+Looking beyond the manned lunar landings, NASA investigated several post-lunar applications for Apollo hardware. The Apollo Extension Series (Apollo X,) proposed up to 30 flights to Earth orbit, using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop). Astronauts would continue to use the CSM as a ferry to the station. This study was followed by design of a larger orbital workshop to be built in orbit from an empty S-IVB Saturn upper stage, and grew into the Apollo Applications Program (AAP). The workshop was to be supplemented by Apollo Telescope Missions, which would replace the LM's descent stage equipment and engine with a solar telescope observatory. <hl> The most ambitious plan called for using an empty S-IVB as an interplanetary spacecraft for a Venus fly-by mission. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What may have been used to study the planet that is second furthest from the sun?
+generated output:  What was the purpose of the plan?
+
+
+question answering task:
+truth output:      empty S-IVB
+generated output:  using an empty S-IVB as an interplanetary spacecraft for a Venus fly-
+
+-------------------------------data 41------------------------------------
+Looking beyond the manned lunar landings, NASA investigated several post-lunar applications for Apollo hardware. The Apollo Extension Series (Apollo X,) proposed up to 30 flights to Earth orbit, using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop). Astronauts would continue to use the CSM as a ferry to the station. This study was followed by design of a larger orbital workshop to be built in orbit from an empty S-IVB Saturn upper stage, and grew into the Apollo Applications Program (AAP). <hl> The workshop was to be supplemented by Apollo Telescope Missions, which would replace the LM's descent stage equipment and engine with a solar telescope observatory. <hl> The most ambitious plan called for using an empty S-IVB as an interplanetary spacecraft for a Venus fly-by mission.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How did the Apollo Telescop missions help the AAP?
+generated output:  What was the purpose of the spacecraft?
+
+
+question answering task:
+truth output:      replace the LM's descent stage equipment and engine with a solar telescope observatory
+generated output:  Apollo Extension Series
+
+-------------------------------data 42------------------------------------
+Looking beyond the manned lunar landings, NASA investigated several post-lunar applications for Apollo hardware. The Apollo Extension Series (Apollo X,) proposed up to 30 flights to Earth orbit, using the space in the Spacecraft Lunar Module Adapter (SLA) to house a small orbital laboratory (workshop). Astronauts would continue to use the CSM as a ferry to the station. This study was followed by design of a larger orbital workshop to be built in orbit from an empty S-IVB Saturn upper stage, and grew into the Apollo Applications Program (AAP). The workshop was to be supplemented by Apollo Telescope Missions, which would replace the LM's descent stage equipment and engine with a solar telescope observatory. <hl> The most ambitious plan called for using an empty S-IVB as an interplanetary spacecraft for a Venus fly-by mission. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What spacecraft would be used to go by Venus?
+generated output:  What was the purpose of the plan?
+
+
+question answering task:
+truth output:      S-IVB
+generated output:  using an empty S-IVB as an interplanetary spacecraft for a Venus fly-
+
+-------------------------------data 43------------------------------------
+The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. <hl> Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. <hl> Schmitt participated in the lunar geology training of all of the Apollo landing crews.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the main job for one of the individuals who was one of the final Apollo astronauts to go to the moon?
+generated output:  What was Schmitt's first mission?
+
+
+question answering task:
+truth output:      geologist
+generated output:  landing on the Moon
+
+-------------------------------data 44------------------------------------
+The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. <hl> Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. <hl> Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who most likely trained astronaut groups on the moonscape if they were part of the Apollo missions?
+generated output:  What was the first landing on the moon?
+
+
+question answering task:
+truth output:      Dr. Harrison Schmitt
+generated output:  Dr. Harrison Schmitt, a geologist
+
+-------------------------------data 45------------------------------------
+The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. <hl> Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. <hl> Schmitt participated in the lunar geology training of all of the Apollo landing crews.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who helped prepare?
+generated output:  What was Schmitt's first mission?
+
+
+question answering task:
+truth output:      Schmitt
+generated output:  landing on the Moon
+
+-------------------------------data 46------------------------------------
+<hl> In July 1960, NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at a series of Space Task Group conferences. <hl> Preliminary specifications were laid out for a spacecraft with a mission module cabin separate from the command module (piloting and re-entry cabin), and a propulsion and equipment module. On August 30, a feasibility study competition was announced, and on October 25, three study contracts were awarded to General Dynamics/Convair, General Electric, and the Glenn L. Martin Company. Meanwhile, NASA performed its own in-house spacecraft design studies led by Maxime Faget, to serve as a gauge to judge and monitor the three industry designs.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was explained during the Space Task Group conferences?
+generated output:  What happened in the 60th year of the 20th century?
+
+
+question answering task:
+truth output:      Preliminary specifications
+generated output:  NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at
+
+-------------------------------data 47------------------------------------
+In July 1960, NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at a series of Space Task Group conferences. Preliminary specifications were laid out for a spacecraft with a mission module cabin separate from the command module (piloting and re-entry cabin), and a propulsion and equipment module. <hl> On August 30, a feasibility study competition was announced, and on October 25, three study contracts were awarded to General Dynamics/Convair, General Electric, and the Glenn L. Martin Company. <hl> Meanwhile, NASA performed its own in-house spacecraft design studies led by Maxime Faget, to serve as a gauge to judge and monitor the three industry designs.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the first mentioned recipient of a prize?
+generated output:  What happened in the 60th year of the 20th century?
+
+
+question answering task:
+truth output:      General Dynamics/Convair
+generated output:  NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at
+
+-------------------------------data 48------------------------------------
+<hl> Based on his industry experience on Air Force missile projects, Mueller realized some skilled managers could be found among high-ranking officers in the United States Air Force, so he got Webb's permission to recruit General Samuel C. Phillips, who gained a reputation for his effective management of the Minuteman program, as OMSF program controller. <hl> Phillips' superior officer Bernard A. Schriever agreed to loan Phillips to NASA, along with a staff of officers under him, on the condition that Phillips be made Apollo Program Director. Mueller agreed, and Phillips managed Apollo from January 1964, until it achieved the first manned landing in July 1969, after which he returned to Air Force duty.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the first name of the person who worked at NASA for five years?
+generated output:  What was the purpose of Phillips' recruitment?
+
+
+question answering task:
+truth output:      Samuel
+generated output:  to loan Phillips to NASA, along with a staff of officers under him
+
+-------------------------------data 49------------------------------------
+Based on his industry experience on Air Force missile projects, Mueller realized some skilled managers could be found among high-ranking officers in the United States Air Force, so he got Webb's permission to recruit General Samuel C. Phillips, who gained a reputation for his effective management of the Minuteman program, as OMSF program controller. <hl> Phillips' superior officer Bernard A. Schriever agreed to loan Phillips to NASA, along with a staff of officers under him, on the condition that Phillips be made Apollo Program Director. <hl> Mueller agreed, and Phillips managed Apollo from January 1964, until it achieved the first manned landing in July 1969, after which he returned to Air Force duty.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What organization did Mueller work for?
+generated output:  What was the first name of the person who helped Phillips succeed?
+
+
+question answering task:
+truth output:      NASA
+generated output:  Samuel C. Phillips
+
+-------------------------------data 50------------------------------------
+Based on his industry experience on Air Force missile projects, Mueller realized some skilled managers could be found among high-ranking officers in the United States Air Force, so he got Webb's permission to recruit General Samuel C. Phillips, who gained a reputation for his effective management of the Minuteman program, as OMSF program controller. Phillips' superior officer Bernard A. Schriever agreed to loan Phillips to NASA, along with a staff of officers under him, on the condition that Phillips be made Apollo Program Director. <hl> Mueller agreed, and Phillips managed Apollo from January 1964, until it achieved the first manned landing in July 1969, after which he returned to Air Force duty. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened five years after the General first took a hiatus from the Air Force?
+generated output:  What happened in the 69th year of the 20th century?
+
+
+question answering task:
+truth output:      the first manned landing
+generated output:  the first manned landing
+
+-------------------------------data 51------------------------------------
+<hl> The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. <hl> Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why were there only three crew members when Apollo 13 launched?
+generated output:  What was the first mission of Apollo 13?
+
+
+question answering task:
+truth output:      success of the first two landings
+generated output:  the Fra Mauro formation
+
+-------------------------------data 52------------------------------------
+The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. <hl> Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. <hl> Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was delayed?
+generated output:  What caused the tank to be exploded?
+
+
+question answering task:
+truth output:      Apollo
+generated output:  damage
+
+-------------------------------data 53------------------------------------
+The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. <hl> Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. <hl> Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What caused the liquid oxygen tank to explode?
+generated output:  What caused the tank to be exploded?
+
+
+question answering task:
+truth output:      combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications
+generated output:  damage
+
+-------------------------------data 54------------------------------------
+The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. <hl> Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. <hl> But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who was the commander for Apollo 13?
+generated output:  Who was the first person that made the missions successful?
+
+
+question answering task:
+truth output:      Lovell
+generated output:  Commander
+
+-------------------------------data 55------------------------------------
+<hl> The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. <hl> Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many crew members were on the third mission and those going forward?
+generated output:  What was the first mission of Apollo 13?
+
+
+question answering task:
+truth output:      single veteran as Commander, with two rookies
+generated output:  the Fra Mauro formation
+
+-------------------------------data 56------------------------------------
+The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a "life boat" to return to Earth. <hl> Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. <hl> Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened to the Apollo program after the disaster?
+generated output:  What caused the tank to be exploded?
+
+
+question answering task:
+truth output:      Apollo was grounded again
+generated output:  damage
+
+-------------------------------data 57------------------------------------
+<hl> Wiesner kept up the pressure, even making the disagreement public during a two-day September visit by the President to Marshall Space Flight Center. <hl> Wiesner blurted out "No, that's no good" in front of the press, during a presentation by von Braun. Webb jumped in and defended von Braun, until Kennedy ended the squabble by stating that the matter was "still subject to final review". Webb held firm, and issued a request for proposal to candidate Lunar Excursion Module (LEM) contractors. Wiesner finally relented, unwilling to settle the dispute once and for all in Kennedy's office, because of the President's involvement with the October Cuban missile crisis, and fear of Kennedy's support for Webb. NASA announced the selection of Grumman as the LEM contractor in November 1962.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was John F Kennedy?
+generated output:  What was the reason for the president's support?
+
+
+question answering task:
+truth output:      the President
+generated output:  the October Cuban missile crisis
+
+-------------------------------data 58------------------------------------
+Wiesner kept up the pressure, even making the disagreement public during a two-day September visit by the President to Marshall Space Flight Center. <hl> Wiesner blurted out "No, that's no good" in front of the press, during a presentation by von Braun. <hl> Webb jumped in and defended von Braun, until Kennedy ended the squabble by stating that the matter was "still subject to final review". Webb held firm, and issued a request for proposal to candidate Lunar Excursion Module (LEM) contractors. Wiesner finally relented, unwilling to settle the dispute once and for all in Kennedy's office, because of the President's involvement with the October Cuban missile crisis, and fear of Kennedy's support for Webb. NASA announced the selection of Grumman as the LEM contractor in November 1962.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who did Wiesener make his disagreement public to?
+generated output:  What was the reason for the president's support?
+
+
+question answering task:
+truth output:      the press
+generated output:  the October Cuban missile crisis
+
+-------------------------------data 59------------------------------------
+Wiesner kept up the pressure, even making the disagreement public during a two-day September visit by the President to Marshall Space Flight Center. Wiesner blurted out "No, that's no good" in front of the press, during a presentation by von Braun. Webb jumped in and defended von Braun, until Kennedy ended the squabble by stating that the matter was "still subject to final review". <hl> Webb held firm, and issued a request for proposal to candidate Lunar Excursion Module (LEM) contractors. <hl> Wiesner finally relented, unwilling to settle the dispute once and for all in Kennedy's office, because of the President's involvement with the October Cuban missile crisis, and fear of Kennedy's support for Webb. NASA announced the selection of Grumman as the LEM contractor in November 1962.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the moon lander?
+generated output:  What was Grumman's job in 1962?
+
+
+question answering task:
+truth output:      Lunar Excursion Module (LEM)
+generated output:  LEM contractor
+
+-------------------------------data 60------------------------------------
+Wiesner kept up the pressure, even making the disagreement public during a two-day September visit by the President to Marshall Space Flight Center. Wiesner blurted out "No, that's no good" in front of the press, during a presentation by von Braun. Webb jumped in and defended von Braun, until Kennedy ended the squabble by stating that the matter was "still subject to final review". Webb held firm, and issued a request for proposal to candidate Lunar Excursion Module (LEM) contractors. <hl> Wiesner finally relented, unwilling to settle the dispute once and for all in Kennedy's office, because of the President's involvement with the October Cuban missile crisis, and fear of Kennedy's support for Webb. <hl> NASA announced the selection of Grumman as the LEM contractor in November 1962.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was Grumman contracted by?
+generated output:  What was Grumman's job in 1962?
+
+
+question answering task:
+truth output:      NASA
+generated output:  LEM contractor
+
+-------------------------------data 61------------------------------------
+Wiesner kept up the pressure, even making the disagreement public during a two-day September visit by the President to Marshall Space Flight Center. Wiesner blurted out "No, that's no good" in front of the press, during a presentation by von Braun. Webb jumped in and defended von Braun, until Kennedy ended the squabble by stating that the matter was "still subject to final review". Webb held firm, and issued a request for proposal to candidate Lunar Excursion Module (LEM) contractors. Wiesner finally relented, unwilling to settle the dispute once and for all in Kennedy's office, because of the President's involvement with the October Cuban missile crisis, and fear of Kennedy's support for Webb. <hl> NASA announced the selection of Grumman as the LEM contractor in November 1962. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the contractor of the Lunar Excursion Module?
+generated output:  What happened in the 1962 interview?
+
+
+question answering task:
+truth output:      Grumman
+generated output:  NASA announced the selection of Grumman as the LEM contractor
+
+-------------------------------data 62------------------------------------
+<hl> The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage increased the thrust to 1,600,000 pounds-force (7,120 kN), and the second stage replaced the S-IV with the S-IVB-200, powered by a single J-2 engine burning liquid hydrogen fuel with LOX, to produce 200,000 lbf (890 kN) of thrust. <hl> A restartable version of the S-IVB was used as the third stage of the Saturn V. The Saturn IB could send over 40,000 pounds (18,100 kg) into low Earth orbit, sufficient for a partially fueled CSM or the LM. Saturn IB launch vehicles and flights were designated with an AS-200 series number, "AS" indicating "Apollo Saturn" and the "2" indicating the second member of the Saturn rocket family.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the third stage vehicle?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      A restartable version of the S-IVB
+generated output:  S-IB
+
+-------------------------------data 63------------------------------------
+<hl> The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage increased the thrust to 1,600,000 pounds-force (7,120 kN), and the second stage replaced the S-IV with the S-IVB-200, powered by a single J-2 engine burning liquid hydrogen fuel with LOX, to produce 200,000 lbf (890 kN) of thrust. <hl> A restartable version of the S-IVB was used as the third stage of the Saturn V. The Saturn IB could send over 40,000 pounds (18,100 kg) into low Earth orbit, sufficient for a partially fueled CSM or the LM. Saturn IB launch vehicles and flights were designated with an AS-200 series number, "AS" indicating "Apollo Saturn" and the "2" indicating the second member of the Saturn rocket family.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was improved to form the Saturn IB?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      Saturn I
+generated output:  S-IB
+
+-------------------------------data 64------------------------------------
+<hl> The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage increased the thrust to 1,600,000 pounds-force (7,120 kN), and the second stage replaced the S-IV with the S-IVB-200, powered by a single J-2 engine burning liquid hydrogen fuel with LOX, to produce 200,000 lbf (890 kN) of thrust. <hl> A restartable version of the S-IVB was used as the third stage of the Saturn V. The Saturn IB could send over 40,000 pounds (18,100 kg) into low Earth orbit, sufficient for a partially fueled CSM or the LM. Saturn IB launch vehicles and flights were designated with an AS-200 series number, "AS" indicating "Apollo Saturn" and the "2" indicating the second member of the Saturn rocket family.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened to the first model to become the Saturn IB? It was?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      upgraded
+generated output:  S-IB
+
+-------------------------------data 65------------------------------------
+<hl> The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage increased the thrust to 1,600,000 pounds-force (7,120 kN), and the second stage replaced the S-IV with the S-IVB-200, powered by a single J-2 engine burning liquid hydrogen fuel with LOX, to produce 200,000 lbf (890 kN) of thrust. <hl> A restartable version of the S-IVB was used as the third stage of the Saturn V. The Saturn IB could send over 40,000 pounds (18,100 kg) into low Earth orbit, sufficient for a partially fueled CSM or the LM. Saturn IB launch vehicles and flights were designated with an AS-200 series number, "AS" indicating "Apollo Saturn" and the "2" indicating the second member of the Saturn rocket family.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What powered the engine?
+generated output:  What was the first stage of the Saturn V?
+
+
+question answering task:
+truth output:      liquid hydrogen fuel
+generated output:  S-IB
+
+-------------------------------data 66------------------------------------
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. <hl> Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed] <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What company advertised the movie about reptiles?
+generated output:  What was Fox paid for?
+
+
+question answering task:
+truth output:      Paramount
+generated output:  movie trailers
+
+-------------------------------data 67------------------------------------
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. <hl> Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed] <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who paid for fewer movie trailers to be aired, Lionsgate or Walt Disney Studios?
+generated output:  What was Fox paid for?
+
+
+question answering task:
+truth output:      Lionsgate
+generated output:  movie trailers
+
+-------------------------------data 68------------------------------------
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. <hl> Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed] <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who did not pay for the 10 Cloverfield Lane movie trailer, Lionsgate or Paramount?
+generated output:  What was Fox paid for?
+
+
+question answering task:
+truth output:      Lionsgate
+generated output:  movie trailers
+
+-------------------------------data 69------------------------------------
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. <hl> Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed] <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who did not pay for the Gods of Egypt movie trailer, Lionsgate or Paramount?
+generated output:  What was Fox paid for?
+
+
+question answering task:
+truth output:      Paramount
+generated output:  movie trailers
+
+-------------------------------data 70------------------------------------
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. <hl> Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed] <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who paid for fewer movie trailers to be aired, Lionsgate or Paramount?
+generated output:  What was Fox paid for?
+
+
+question answering task:
+truth output:      Lionsgate
+generated output:  movie trailers
+
+-------------------------------data 71------------------------------------
+20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. <hl> Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed] <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who paid for only one movie trailer to be aired, 20th Century Fox or Lionsgate?
+generated output:  What was Fox paid for?
+
+
+question answering task:
+truth output:      Lionsgate
+generated output:  movie trailers
+
+-------------------------------data 72------------------------------------
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. <hl> Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. <hl> Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who caught the second most passes?
+generated output:  What was the total number of passes that the Panthers offense had?
+
+
+question answering task:
+truth output:      Ted Ginn, Jr
+generated output:  35
+
+-------------------------------data 73------------------------------------
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. <hl> Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. <hl> Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much of Cam Newton's yardage was for passing?
+generated output:  What was the lowest percentage of yards the NFL had?
+
+
+question answering task:
+truth output:      3,837 yards
+generated output:  49.4
+
+-------------------------------data 74------------------------------------
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. <hl> Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. <hl> Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much of Cam Newtons yardage was for running?
+generated output:  What was the lowest percentage of yards the NFL had?
+
+
+question answering task:
+truth output:      636
+generated output:  49.4
+
+-------------------------------data 75------------------------------------
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. <hl> Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. <hl> Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who had fewer touchdowns, Greg Olsen or Tedd Ginn, Jr?
+generated output:  What was the total number of passes that the Panthers offense had?
+
+
+question answering task:
+truth output:      Greg Olsen
+generated output:  35
+
+-------------------------------data 76------------------------------------
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. <hl> Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. <hl> Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many passing touchdowns did Cam Newton get?
+generated output:  What was the lowest percentage of yards the NFL had?
+
+
+question answering task:
+truth output:      35
+generated output:  49.4
+
+-------------------------------data 77------------------------------------
+<hl> The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. <hl> Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What side of the team does Cam Newton play for?
+generated output:  What was the number of pro Bowl selections?
+
+
+question answering task:
+truth output:      offense
+generated output:  six
+
+-------------------------------data 78------------------------------------
+The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. <hl> Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. <hl> Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many rushing touchdowns did Newton get?
+generated output:  What was the lowest percentage of yards the NFL had?
+
+
+question answering task:
+truth output:      10
+generated output:  49.4
+
+-------------------------------data 79------------------------------------
+<hl> Concerns were raised over whether Levi's Stadium's field was of a high enough quality to host a Super Bowl; during the inaugural season, the field had to be re-sodded multiple times due to various issues, and during a week 6 game earlier in the 2015 season, a portion of the turf collapsed under Baltimore Ravens kicker Justin Tucker, causing him to slip and miss a field goal, although the field has not had any major issues since. <hl> As is customary for Super Bowl games played at natural grass stadiums, the NFL re-sodded the field with a new playing surface; a hybrid Bermuda 419 turf. NFL and Atlanta Braves field director Ed Mangan stated that the field was in "great shape" for gameday. However, the turf showed problem throughout the game, with a number of players needing to change their cleats during the game and player slipping during plays all throughout the game.
+question type classification task:
+truth output:      Why
+generated output:  What
+
+
+QG task:
+truth output:      Why did Justin Tucker miss a field goal?
+generated output:  What was the cause of the turf collapsing?
+
+
+question answering task:
+truth output:      a portion of the turf collapsed
+generated output:  the field has not had any major issues since
+
+-------------------------------data 80------------------------------------
+<hl> The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the football game described in this passage?
+generated output:  What was the first team in Super Bowl history?
+
+
+question answering task:
+truth output:      Super Bowl 50
+generated output:  Denver
+
+-------------------------------data 81------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What region was in the early lead in Super Bowl 50?
+generated output:  What was the reason for the loss?
+
+
+question answering task:
+truth output:      Denver
+generated output:  Newton was limited by Denver's defense
+
+-------------------------------data 82------------------------------------
+<hl> The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the player who fumbled leading to a Broncos' score?
+generated output:  What was the first team in Super Bowl history?
+
+
+question answering task:
+truth output:      Newton
+generated output:  Denver
+
+-------------------------------data 83------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What city are the Broncos from?
+generated output:  What was the reason for the loss?
+
+
+question answering task:
+truth output:      Denver
+generated output:  Newton was limited by Denver's defense
+
+-------------------------------data 84------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What great thing happened to Vaughn Miller?
+generated output:  What was the first offense mentioned?
+
+
+question answering task:
+truth output:      Super Bowl MVP
+generated output:  The Broncos
+
+-------------------------------data 85------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did the Denver defense do to Newton along with seven sacks and three forced turnovers?
+generated output:  What was the reason for the loss?
+
+
+question answering task:
+truth output:      a fumble which they recovered for a touchdown
+generated output:  Newton was limited by Denver's defense
+
+-------------------------------data 86------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many sacks did the Broncos defense get?
+generated output:  What was the reason for the loss?
+
+
+question answering task:
+truth output:      seven
+generated output:  Newton was limited by Denver's defense
+
+-------------------------------data 87------------------------------------
+<hl> The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How often did the Denver Broncos give up the lead to Newton's Panthers?
+generated output:  What was the first team in Super Bowl history?
+
+
+question answering task:
+truth output:      never trailed
+generated output:  Denver
+
+-------------------------------data 88------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many times did Newton give up the ball to the Denver defense?
+generated output:  What was the reason for the loss?
+
+
+question answering task:
+truth output:      three
+generated output:  Newton was limited by Denver's defense
+
+-------------------------------data 89------------------------------------
+The Broncos took an early lead in Super Bowl 50 and never trailed. <hl> Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. <hl> Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many times did Newton give the football to the other team?
+generated output:  What was the reason for the loss?
+
+
+question answering task:
+truth output:      three
+generated output:  Newton was limited by Denver's defense
+
+-------------------------------data 90------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What numeral standard was used in the Super Bowl 3 logo?
+generated output:  What was the reason for the suspension?
+
+
+question answering task:
+truth output:      Arabic
+generated output:  difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo
+
+-------------------------------data 91------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What numeral standard was used in the Super Bowl 4 logo?
+generated output:  What was the reason for the suspension?
+
+
+question answering task:
+truth output:      Arabic
+generated output:  difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo
+
+-------------------------------data 92------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What numeral standard was used in the Super Bowl 1 logo?
+generated output:  What was the reason for the suspension?
+
+
+question answering task:
+truth output:      Arabic
+generated output:  difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo
+
+-------------------------------data 93------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What numeral standard was used in the Super Bowl 2 logo?
+generated output:  What was the reason for the suspension?
+
+
+question answering task:
+truth output:      Arabic
+generated output:  difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo
+
+-------------------------------data 94------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the abreviation of the National Football League?
+generated output:  What was the reason for the suspension?
+
+
+question answering task:
+truth output:      NFL
+generated output:  difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo
+
+-------------------------------data 95------------------------------------
+On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. <hl> The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What does the logo do?
+generated output:  What is the shape of the logo?
+
+
+question answering task:
+truth output:      deviates
+generated output:  colored in gold
+
+-------------------------------data 96------------------------------------
+On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. <hl> The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How is the name league abreviated?
+generated output:  What is the name of the person who created the logo?
+
+
+question answering task:
+truth output:      L
+generated output:  Jaime Weston
+
+-------------------------------data 97------------------------------------
+Manning finished the year with a career-low 67.9 passer rating, throwing for 2,249 yards and nine touchdowns, with 17 interceptions. <hl> In contrast, Osweiler threw for 1,967 yards, 10 touchdowns and six interceptions for a rating of 86.4. Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts. Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards. Running back C. J. Anderson was the team's leading rusher 863 yards and seven touchdowns, while also catching 25 passes for 183 yards. Running back Ronnie Hillman also made a big impact with 720 yards, five touchdowns, 24 receptions, and a 4.7 yards per carry average. <hl> Overall, the offense ranked 19th in scoring with 355 points and did not have any Pro Bowl selections.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who threw for more yards, Manning or Osweiler?
+generated output:  What percentage of yards did Manning throw?
+
+
+question answering task:
+truth output:      Manning
+generated output:  2,249
+
+-------------------------------data 98------------------------------------
+Manning finished the year with a career-low 67.9 passer rating, throwing for 2,249 yards and nine touchdowns, with 17 interceptions. <hl> In contrast, Osweiler threw for 1,967 yards, 10 touchdowns and six interceptions for a rating of 86.4. <hl> Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts. Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards. Running back C. J. Anderson was the team's leading rusher 863 yards and seven touchdowns, while also catching 25 passes for 183 yards. Running back Ronnie Hillman also made a big impact with 720 yards, five touchdowns, 24 receptions, and a 4.7 yards per carry average. Overall, the offense ranked 19th in scoring with 355 points and did not have any Pro Bowl selections.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who had a higher passer rating, Manning or Osweiler?
+generated output:  What percentage of yards did he catch?
+
+
+question answering task:
+truth output:      Osweiler
+generated output:  4.7 yards per carry average
+
+-------------------------------data 99------------------------------------
+Manning finished the year with a career-low 67.9 passer rating, throwing for 2,249 yards and nine touchdowns, with 17 interceptions. <hl> In contrast, Osweiler threw for 1,967 yards, 10 touchdowns and six interceptions for a rating of 86.4. Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts. Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards. Running back C. J. Anderson was the team's leading rusher 863 yards and seven touchdowns, while also catching 25 passes for 183 yards. Running back Ronnie Hillman also made a big impact with 720 yards, five touchdowns, 24 receptions, and a 4.7 yards per carry average. <hl> Overall, the offense ranked 19th in scoring with 355 points and did not have any Pro Bowl selections.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who had fewer touchdowns, Manning or Osweiler?
+generated output:  What percentage of yards did Manning throw?
+
+
+question answering task:
+truth output:      Manning
+generated output:  2,249
+
+-------------------------------data 100------------------------------------
+Manning finished the year with a career-low 67.9 passer rating, throwing for 2,249 yards and nine touchdowns, with 17 interceptions. <hl> In contrast, Osweiler threw for 1,967 yards, 10 touchdowns and six interceptions for a rating of 86.4. Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts. Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards. Running back C. J. Anderson was the team's leading rusher 863 yards and seven touchdowns, while also catching 25 passes for 183 yards. Running back Ronnie Hillman also made a big impact with 720 yards, five touchdowns, 24 receptions, and a 4.7 yards per carry average. <hl> Overall, the offense ranked 19th in scoring with 355 points and did not have any Pro Bowl selections.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who had more interceptions, Manning or Osweiler?
+generated output:  What percentage of yards did Manning throw?
+
+
+question answering task:
+truth output:      Manning
+generated output:  2,249
+
+-------------------------------data 101------------------------------------
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. <hl> Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points did the team from Denver score in the game that comes right before the Super Bowl?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      20
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 102------------------------------------
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. <hl> Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points were the Patriots going for when the turnover happened?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      2
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 103------------------------------------
+<hl> The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points did the Broncos have in the divisional round?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      23
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 104------------------------------------
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. <hl> Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points did the Patriots have in the AFC Championship?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      18
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 105------------------------------------
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. <hl> Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points would the Patriots have scored if they completed their play in the final seconds of the game?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      2
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 106------------------------------------
+<hl> The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points did the team from Pennsylvania score in their playoff loss?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      16
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 107------------------------------------
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. <hl> Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points did the Broncos have in the AFC championship?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      20
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 108------------------------------------
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. <hl> Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who won the 49th Super Bowl?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      New England Patriots
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 109------------------------------------
+<hl> The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. <hl> They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many points did the Steelers have in the divisional round?
+generated output:  What was the first game of the season?
+
+
+question answering task:
+truth output:      16
+generated output:  Super Bowl XLIX champion New England Patriots
+
+-------------------------------data 110------------------------------------
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. <hl> On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. <hl> Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who wrote a song with Coldplay?
+generated output:  What happened on December 3rd, the Associated Press or the Associated Press?
+
+
+question answering task:
+truth output:      Beyoncé
+generated output:  the Associated Press
+
+-------------------------------data 111------------------------------------
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. <hl> On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. <hl> Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What happened after December 2015 regarding Super Bowl 47?
+generated output:  What happened on December 3rd, the Associated Press or the Associated Press?
+
+
+question answering task:
+truth output:      Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance
+generated output:  the Associated Press
+
+-------------------------------data 112------------------------------------
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. <hl> On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. <hl> Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What company released a statement to the AP?
+generated output:  What happened on December 3rd, the Associated Press or the Associated Press?
+
+
+question answering task:
+truth output:      Pepsi
+generated output:  the Associated Press
+
+-------------------------------data 113------------------------------------
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. <hl> Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the second performer during the halftime show at Super Bowl 48?
+generated output:  What was the name of the person who headlined the Super Bowl vs. Coldplay
+
+
+question answering task:
+truth output:      Mark Ronson
+generated output:  Beyoncé
+
+-------------------------------data 114------------------------------------
+<hl> In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. <hl> On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many performances where planned for the halftime show?
+generated output:  What was the first show mentioned?
+
+
+question answering task:
+truth output:      multiple acts
+generated output:  the Super Bowl XLVIII
+
+-------------------------------data 115------------------------------------
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. <hl> On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. <hl> Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was the headliner after Coldplay?
+generated output:  What happened on December 3rd, the Associated Press or the Associated Press?
+
+
+question answering task:
+truth output:      Bruno Mars
+generated output:  the Associated Press
+
+-------------------------------data 116------------------------------------
+In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. <hl> On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. <hl> Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who headlined Super Bowl 48?
+generated output:  What happened on December 3rd, the Associated Press or the Associated Press?
+
+
+question answering task:
+truth output:      Bruno Mars
+generated output:  the Associated Press
+
+-------------------------------data 117------------------------------------
+<hl> In late November 2015, reports surfaced stating that "multiple acts" would perform during the halftime show. <hl> On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. On January 7, 2016, Pepsi confirmed to the Associated Press that Beyoncé, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single "Hymn for the Weekend", would be making an appearance. Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What were they all going to do?
+generated output:  What was the first show mentioned?
+
+
+question answering task:
+truth output:      perform during the halftime show
+generated output:  the Super Bowl XLVIII
+
+-------------------------------data 118------------------------------------
+Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24–10 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. <hl> As this was the 50th Super Bowl, the league emphasized the "golden anniversary" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as "Super Bowl L"), so that the logo could prominently feature the Arabic numerals 50. <hl>
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How did the league celebrate the 50th Super Bowl?
+generated output:  What was the name of the Super Bowl game?
+
+
+question answering task:
+truth output:      the league emphasized the "golden anniversary" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as "Super Bowl L"), so that the logo could prominently feature the Arabic numerals 50
+generated output:  American football game
+
+-------------------------------data 119------------------------------------
+Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. <hl> The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24–10 to earn their third Super Bowl title. <hl> The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the "golden anniversary" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as "Super Bowl L"), so that the logo could prominently feature the Arabic numerals 50.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the outcome of the game between the Broncos and the Panthers?
+generated output:  What was the final game of the Super Bowl?
+
+
+question answering task:
+truth output:      Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24–10
+generated output:  Carolina Panthers
+
+-------------------------------data 120------------------------------------
+There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. <hl> A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. <hl> The next three drives of the game would end in punts.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who gained more yards, Devin Funchess or Stewart?
+generated output:  What was the first score of the game?
+
+
+question answering task:
+truth output:      Devin Funchess
+generated output:  49-yard line
+
+-------------------------------data 121------------------------------------
+There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. <hl> A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. <hl> The next three drives of the game would end in punts.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of score did Gano have?
+generated output:  What was the first score of the game?
+
+
+question answering task:
+truth output:      field goal
+generated output:  49-yard line
+
+-------------------------------data 122------------------------------------
+There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. <hl> A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. <hl> The next three drives of the game would end in punts.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who kicked the field goal?
+generated output:  What was the first score of the game?
+
+
+question answering task:
+truth output:      Gano
+generated output:  49-yard line
+
+-------------------------------data 123------------------------------------
+<hl> There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. <hl> On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What team was leading 16-10 in the fourth quarter?
+generated output:  What was the goal for the fourth quarter?
+
+
+question answering task:
+truth output:      the Broncos
+generated output:  50-yard line
+
+-------------------------------data 124------------------------------------
+There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. <hl> On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. <hl> A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who fumbled the ball?
+generated output:  What was the goal for the Panthers?
+
+
+question answering task:
+truth output:      Manning
+generated output:  a pass
+
+-------------------------------data 125------------------------------------
+There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. <hl> On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. <hl> A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who had the ball when he lost it to the Panthers?
+generated output:  What was the goal for the Panthers?
+
+
+question answering task:
+truth output:      Manning
+generated output:  a pass
+
+-------------------------------data 126------------------------------------
+<hl> There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. <hl> On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What team was down in points in the fourth quarter?
+generated output:  What was the goal for the fourth quarter?
+
+
+question answering task:
+truth output:      the Panthers
+generated output:  50-yard line

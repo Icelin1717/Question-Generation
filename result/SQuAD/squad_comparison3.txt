@@ -1,0 +1,2453 @@
+-------------------------------data 1------------------------------------
+Concerns were raised over whether Levi's Stadium's field was of a high enough quality to host a Super Bowl; during the inaugural season, the field had to be re-sodded multiple times due to various issues, and during a week 6 game earlier in the 2015 season, a portion of the turf collapsed under Baltimore Ravens kicker Justin Tucker, causing him to slip and miss a field goal, although the field has not had any major issues since. <hl> As is customary for Super Bowl games played at natural grass stadiums, the NFL re-sodded the field with a new playing surface; a hybrid Bermuda 419 turf. <hl> NFL and Atlanta Braves field director Ed Mangan stated that the field was in "great shape" for gameday. However, the turf showed problem throughout the game, with a number of players needing to change their cleats during the game and player slipping during plays all throughout the game.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What field type is usually chosen for Super Bowl games?
+generated output:  What was the name of the hybrid turf on the field for Super Bowls?
+
+
+question answering task:
+truth output:      natural grass
+generated output:  Bermuda 419
+
+/usr/local/lib/python3.8/dist-packages/nltk/translate/bleu_score.py:552: UserWarning: 
+The hypothesis contains 0 counts of 2-gram overlaps.
+Therefore the BLEU score evaluates to 0, independently of
+how many N-gram overlaps of lower order it contains.
+Consider using lower n-gram order or use SmoothingFunction()
+  warnings.warn(_msg)
+-------------------------------data 2------------------------------------
+<hl> As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. <hl> Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who was designated as the home team in the Super Bowl?
+generated output:  What color did the Broncos wear?
+
+
+question answering task:
+truth output:      Broncos
+generated output:  white
+
+-------------------------------data 3------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the final score of Super Bowl XXXIII?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      34–19
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 4------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What team lost Super Bowl XXXIII?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      Atlanta Falcons
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 5------------------------------------
+<hl> As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. <hl> Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color pants did the Broncos wear in Super Bowl 50?
+generated output:  What color did the Broncos wear?
+
+
+question answering task:
+truth output:      white
+generated output:  white
+
+-------------------------------data 6------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was Elway's final game as the Denver quarterback?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      Super Bowl XXXIII
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 7------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the last game that Elway played as a quarterback for Denver?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      Super Bowl XXXIII
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 8------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the final score for Super Bowl XXXIII?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      34–19
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 9------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What team did the Denver Broncos play in  Super Bowl XXXIII?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      Atlanta Falcons
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 10------------------------------------
+<hl> As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. <hl> Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color were the Bronco's uniforms in Super Bowl 50?
+generated output:  What color did the Broncos wear?
+
+
+question answering task:
+truth output:      white
+generated output:  white
+
+-------------------------------data 11------------------------------------
+<hl> As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. <hl> Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What jersey did the Broncos wear for Super Bowl 50?
+generated output:  What color did the Broncos wear?
+
+
+question answering task:
+truth output:      road white jerseys
+generated output:  white
+
+-------------------------------data 12------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. <hl> The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. <hl> The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who is the only other AFC Champion team to wear road jerseys in a Super Bowl?
+generated output:  What team did the Broncos have the option of wearing white as their home team?
+
+
+question answering task:
+truth output:      Pittsburgh Steelers
+generated output:  white jerseys
+
+-------------------------------data 13------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." <hl> The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was th elast Super Bowl where the Broncos wore white uniforms?
+generated output:  What was the last game of the Super Bowl for the Broncos when they defeated Atlanta
+
+
+question answering task:
+truth output:      Super Bowl XXXIII
+generated output:  Super Bowl XXXIII
+
+-------------------------------data 14------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. <hl> In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. <hl> They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the color of the jerseys in Super Bowl XXXII when Elway was quarterback?
+generated output:  What color was the primary color of the Broncos Super Bowl in Super Bowl X
+
+
+question answering task:
+truth output:      blue
+generated output:  blue jerseys
+
+-------------------------------data 15------------------------------------
+As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, "We've had Super Bowl success in our white uniforms." The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34–19. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. <hl> They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. <hl> The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21–10 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color jersey has Denver 0-4?
+generated output:  What was the only other AFC champion to have worn white as a home team?
+
+
+question answering task:
+truth output:      orange
+generated output:  Pittsburgh Steelers
+
+-------------------------------data 16------------------------------------
+<hl> The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What hotel did the Panthers stay in during Super Bowl 50? 
+generated output:  What San Jose State practice facility did the Panthers use?
+
+
+question answering task:
+truth output:      San Jose Marriott
+generated output:  San Jose Marriott
+
+-------------------------------data 17------------------------------------
+The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the hotel the Panthers chose to stay in during Super Bowl 50?
+generated output:  What school did the Broncos practice at?
+
+
+question answering task:
+truth output:      Santa Clara Marriott
+generated output:  Stanford University
+
+-------------------------------data 18------------------------------------
+<hl> The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Panthers practice at for Super Bowl 50?
+generated output:  What San Jose State practice facility did the Panthers use?
+
+
+question answering task:
+truth output:      San Jose State practice facility
+generated output:  San Jose Marriott
+
+-------------------------------data 19------------------------------------
+The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Broncos practice at for Super Bowl 50?
+generated output:  What school did the Broncos practice at?
+
+
+question answering task:
+truth output:      Stanford University
+generated output:  Stanford University
+
+-------------------------------data 20------------------------------------
+<hl> The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Panthers practice for the Super Bowl?
+generated output:  What San Jose State practice facility did the Panthers use?
+
+
+question answering task:
+truth output:      San Jose State practice facility
+generated output:  San Jose Marriott
+
+-------------------------------data 21------------------------------------
+The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Broncos practice for the Super Bowl?
+generated output:  What school did the Broncos practice at?
+
+
+question answering task:
+truth output:      Stanford University
+generated output:  Stanford University
+
+-------------------------------data 22------------------------------------
+<hl> The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where was the practice place the Panthers used for the Super Bowl?
+generated output:  What San Jose State practice facility did the Panthers use?
+
+
+question answering task:
+truth output:      San Jose
+generated output:  San Jose Marriott
+
+-------------------------------data 23------------------------------------
+<hl> The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where hotel did the Panthers stay at?
+generated output:  What San Jose State practice facility did the Panthers use?
+
+
+question answering task:
+truth output:      San Jose Marriott.
+generated output:  San Jose Marriott
+
+-------------------------------data 24------------------------------------
+The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Broncos practice for the Super Bowl?
+generated output:  What school did the Broncos practice at?
+
+
+question answering task:
+truth output:      Stanford University
+generated output:  Stanford University
+
+-------------------------------data 25------------------------------------
+The Panthers used the San Jose State practice facility and stayed at the San Jose Marriott. <hl> The Broncos practiced at Stanford University and stayed at the Santa Clara Marriott. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where did the Broncos stay at for Super Bowl 50?
+generated output:  What school did the Broncos practice at?
+
+
+question answering task:
+truth output:      Santa Clara Marriott.
+generated output:  Stanford University
+
+-------------------------------data 26------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When did the NFL announce the suspension of using Roman numerals to brand the Super Bowl?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      June 4, 2014
+generated output:  Super Bowl 50
+
+-------------------------------data 27------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the first Super Bowl branded with Roman numerals?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      Super Bowl V
+generated output:  Super Bowl 50
+
+-------------------------------data 28------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who is the NFL's vice president of brand and creative?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      Jaime Weston
+generated output:  Super Bowl 50
+
+-------------------------------data 29------------------------------------
+On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. <hl> The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the first Super Bowl to use the standardized logo template?
+generated output:  What was the name of the vice president of brand and creative at Super Bowl XLV?
+
+
+question answering task:
+truth output:      Super Bowl XLV
+generated output:  Jaime Weston
+
+-------------------------------data 30------------------------------------
+On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. <hl> The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who is the trophy featured on the logo named for?
+generated output:  What color is the logo used in Super Bowl V?
+
+
+question answering task:
+truth output:      Vince Lombardi
+generated output:  L
+
+-------------------------------data 31------------------------------------
+On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. <hl> The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color are the numbers in the Super Bowl 50 logo? 
+generated output:  What color is the logo used in Super Bowl V?
+
+
+question answering task:
+truth output:      gold
+generated output:  L
+
+-------------------------------data 32------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When did the NFL announce that it would not use Roman numbers to designate the Super Bowl number?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      June 4, 2014
+generated output:  Super Bowl 50
+
+-------------------------------data 33------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the Roman numeral for 50?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      L.
+generated output:  Super Bowl 50
+
+-------------------------------data 34------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When will Roman numerals be used again to denote the Super Bowl number?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      Super Bowl LI.
+generated output:  Super Bowl 50
+
+-------------------------------data 35------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of numeral did the latest Super Bowl use to designate the game number?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      Arabic
+generated output:  Super Bowl 50
+
+-------------------------------data 36------------------------------------
+<hl> On June 4, 2014, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. <hl> Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter "L" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the Roman numeral going to be for Super Bowl 51?
+generated output:  What was the name of the game that was not branded with Roman numerals?
+
+
+question answering task:
+truth output:      LI.
+generated output:  Super Bowl 50
+
+-------------------------------data 37------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color was featured in promotions related to Super Bowl 50?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      gold
+generated output:  Gold-themed promotions
+
+-------------------------------data 38------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When did sideline jackets and hats start to feature gold-trimmed logos?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      week 7
+generated output:  Gold-themed promotions
+
+-------------------------------data 39------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What yard marker on the field was painted gold?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      50
+generated output:  Gold-themed promotions
+
+-------------------------------data 40------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color was used to create the 50-yard line in Levi's Stadium for the season leading up to the Super Bowl 50 game?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      gold
+generated output:  Gold-themed promotions
+
+-------------------------------data 41------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What color were the footballs handed out to a variety of high schools, leading up to Super Bowl 50?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      gold
+generated output:  Gold-themed promotions
+
+-------------------------------data 42------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was given to high schools where former students went on to play or coach in a Super Bowl?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      Gold footballs
+generated output:  Gold-themed promotions
+
+-------------------------------data 43------------------------------------
+<hl> Various gold-themed promotions and initiatives were held throughout the 2015 NFL season to tie into the "Golden Super Bowl"; gold-tinted logos were implemented across the NFL's properties and painted on fields, the numbering of the 50-yard line on fields was colored gold, and beginning on week 7, all sideline jackets and hats featured gold-trimmed logos. <hl> Gold footballs were given to each high school that has had a player or coach appear in the Super Bowl, and "homecoming" events were also held by Super Bowl-winning teams at games.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What yard line was a gold color for all teams during the season?
+generated output:  What was used to tie into the Super Bowl in the 2015 NFL season?
+
+
+question answering task:
+truth output:      the 50-yard line
+generated output:  Gold-themed promotions
+
+-------------------------------data 44------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. <hl> San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who is the mayor of San Francisco?
+generated output:  Who did not want to reimburse San Francisco for services?
+
+
+question answering task:
+truth output:      Ed Lee
+generated output:  Jane Kim
+
+-------------------------------data 45------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million. <hl>
+question type classification task:
+truth output:      Who
+generated output:  How
+
+
+QG task:
+truth output:      Who is the city supervisor of San Francisco?
+generated output:  How much did San Francisco city supervisor Jane Kim want?
+
+
+question answering task:
+truth output:      Jane Kim
+generated output:  $5 million
+
+-------------------------------data 46------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. <hl> More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When was the opening of "Super Bowl City"?
+generated output:  What is the name of the building that opened on January 30 at Justin Herman Plaza?
+
+
+question answering task:
+truth output:      January 30
+generated output:  Super Bowl City
+
+-------------------------------data 47------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. <hl> More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. <hl> San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      How
+generated output:  How
+
+
+QG task:
+truth output:      How many people were estimated to go to the different game-themed events during the week prior to Super Bowl 50 in the city it was held in?
+generated output:  How many people attend the Super Bowl Week festivities in San Francisco?
+
+
+question answering task:
+truth output:      1 million
+generated output:  1 million
+
+-------------------------------data 48------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. <hl> San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who was the mayor of San Francisco during Super Bowl 50? 
+generated output:  Who did not want to reimburse San Francisco for services?
+
+
+question answering task:
+truth output:      Ed Lee
+generated output:  Jane Kim
+
+-------------------------------data 49------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. <hl> More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the event at the The Embarcadero that was held prior to Super Bowl 50 to help show off some of the things that San Francisco has to offer?
+generated output:  What is the name of the building that opened on January 30 at Justin Herman Plaza?
+
+
+question answering task:
+truth output:      Super Bowl City
+generated output:  Super Bowl City
+
+-------------------------------data 50------------------------------------
+<hl> The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      Where
+generated output:  Where
+
+
+QG task:
+truth output:      Where was the NFL Experience held for the 2015 season?
+generated output:  Where was the NFL Experience held?
+
+
+question answering task:
+truth output:      Moscone Center
+generated output:  Moscone Center
+
+-------------------------------data 51------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. <hl> More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What opened on January 30th at the Justin Herman plaza?
+generated output:  What is the name of the building that opened on January 30 at Justin Herman Plaza?
+
+
+question answering task:
+truth output:      Super Bowl City
+generated output:  Super Bowl City
+
+-------------------------------data 52------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. <hl> San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who is the mayor of San Francisco?
+generated output:  Who did not want to reimburse San Francisco for services?
+
+
+question answering task:
+truth output:      Ed Lee
+generated output:  Jane Kim
+
+-------------------------------data 53------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. <hl> More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What football associated thing started at Justin Herman Plaza in January?
+generated output:  What is the name of the building that opened on January 30 at Justin Herman Plaza?
+
+
+question answering task:
+truth output:      Super Bowl City
+generated output:  Super Bowl City
+
+-------------------------------data 54------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. <hl> More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many people are likely to visit Justin Herman Plaza during the week of the Super Bowl?
+generated output:  What is the name of the building that opened on January 30 at Justin Herman Plaza?
+
+
+question answering task:
+truth output:      More than 1 million
+generated output:  Super Bowl City
+
+-------------------------------data 55------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. <hl> San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who said the homeless in the area would have to leave?
+generated output:  Who did not want to reimburse San Francisco for services?
+
+
+question answering task:
+truth output:      mayor Ed Lee
+generated output:  Jane Kim
+
+-------------------------------data 56------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million. <hl>
+question type classification task:
+truth output:      How
+generated output:  How
+
+
+QG task:
+truth output:      How much did San Francisco get for providing services for the Super Bowl?
+generated output:  How much did San Francisco city supervisor Jane Kim want?
+
+
+question answering task:
+truth output:      $5 million.
+generated output:  $5 million
+
+-------------------------------data 57------------------------------------
+The annual NFL Experience was held at the Moscone Center in San Francisco. <hl> In addition, "Super Bowl City" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area "they are going to have to leave". <hl> San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did the Moscone Center host?
+generated output:  What city did the Super Bowl Experience open?
+
+
+question answering task:
+truth output:      The annual NFL Experience
+generated output:  San Francisco
+
+-------------------------------data 58------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much money is being spent on other Super Bowl-related events?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      $2 million
+generated output:  Santa Clara University
+
+-------------------------------data 59------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How long will the event at Santa Clara Convention Center last?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      a week
+generated output:  Santa Clara University
+
+-------------------------------data 60------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How much money was spent on other festivities in the Bay area to help celebrate the coming Super Bowl 50?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      $2 million
+generated output:  Santa Clara University
+
+-------------------------------data 61------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What type of rally was held?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      pep rally
+generated output:  Santa Clara University
+
+-------------------------------data 62------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where was a beer, wine and food festival held at prior to the Super Bowl?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      Bellomy Field
+generated output:  Santa Clara University
+
+-------------------------------data 63------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who helped find sponsors and donors to help with the cost?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      A professional fundraiser
+generated output:  Santa Clara University
+
+-------------------------------data 64------------------------------------
+In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. <hl> Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who set aside seed funding for the week-long event leading up to the Super Bowl?
+generated output:  What will help in finding business sponsors and individual donors?
+
+
+question answering task:
+truth output:      city council
+generated output:  A professional fundraiser
+
+-------------------------------data 65------------------------------------
+<hl> In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the cost of the other Super Bowl events in the San Francisco area?
+generated output:  What is a pep rally at Bellomy Field?
+
+
+question answering task:
+truth output:      $2 million
+generated output:  Santa Clara University
+
+-------------------------------data 66------------------------------------
+In addition, there are $2 million worth of other ancillary events, including a week-long event at the Santa Clara Convention Center, a beer, wine and food festival at Bellomy Field at Santa Clara University, and a pep rally. <hl> A professional fundraiser will aid in finding business sponsors and individual donors, but still may need the city council to help fund the event. <hl> Additional funding will be provided by the city council, which has announced plans to set aside seed funding for the event.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who may have been called upon to fund the festival associated with the Super Bowl in Santa Clara?
+generated output:  What will help in finding business sponsors and individual donors?
+
+
+question answering task:
+truth output:      city council
+generated output:  A professional fundraiser
+
+-------------------------------data 67------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  When
+
+
+QG task:
+truth output:      What venue hosted Super Bowl Opening Night?
+generated output:  When was the media day of the game held?
+
+
+question answering task:
+truth output:      SAP Center
+generated output:  February 1, 2016
+
+-------------------------------data 68------------------------------------
+<hl> The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What day of the week was Media Day held on for Super Bowl 50?
+generated output:  What was the name of the opening night of the game?
+
+
+question answering task:
+truth output:      Monday
+generated output:  Super Bowl
+
+-------------------------------data 69------------------------------------
+<hl> The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the Media Day event for Super Bowl 50?
+generated output:  What was the name of the opening night of the game?
+
+
+question answering task:
+truth output:      Super Bowl Opening Night
+generated output:  Super Bowl
+
+-------------------------------data 70------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  When
+
+
+QG task:
+truth output:      What is the name of the property where the media event was held for Super Bowl 50?
+generated output:  When was the media day of the game held?
+
+
+question answering task:
+truth output:      SAP Center
+generated output:  February 1, 2016
+
+-------------------------------data 71------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  When
+
+
+QG task:
+truth output:      What city was the media event held for Super Bowl 50?
+generated output:  When was the media day of the game held?
+
+
+question answering task:
+truth output:      San Jose
+generated output:  February 1, 2016
+
+-------------------------------data 72------------------------------------
+<hl> The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      When
+generated output:  What
+
+
+QG task:
+truth output:      When is the game's media day usually held?
+generated output:  What was the name of the opening night of the game?
+
+
+question answering task:
+truth output:      the Tuesday afternoon prior to the game
+generated output:  Super Bowl
+
+-------------------------------data 73------------------------------------
+<hl> The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What new name was given to the media day?
+generated output:  What was the name of the opening night of the game?
+
+
+question answering task:
+truth output:      Super Bowl Opening Night.
+generated output:  Super Bowl
+
+-------------------------------data 74------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      Where
+generated output:  When
+
+
+QG task:
+truth output:      Where was media day for Super Bowl 50 held?
+generated output:  When was the media day of the game held?
+
+
+question answering task:
+truth output:      SAP Center in San Jose.
+generated output:  February 1, 2016
+
+-------------------------------data 75------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What replica was used for player introductions?
+generated output:  What was the name of the opening ceremony for the game?
+
+
+question answering task:
+truth output:      the Golden Gate Bridge.
+generated output:  Super Bowl Opening Night
+
+-------------------------------data 76------------------------------------
+<hl> The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What day was Super Bowl 50 media day switched to?
+generated output:  What was the name of the opening night of the game?
+
+
+question answering task:
+truth output:      Monday
+generated output:  Super Bowl
+
+-------------------------------data 77------------------------------------
+<hl> The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was media day called for Super Bowl 50?
+generated output:  What was the name of the opening night of the game?
+
+
+question answering task:
+truth output:      Super Bowl Opening Night.
+generated output:  Super Bowl
+
+-------------------------------data 78------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      Where
+generated output:  When
+
+
+QG task:
+truth output:      Where was the new media day event for Super Bowl 50 held?
+generated output:  When was the media day of the game held?
+
+
+question answering task:
+truth output:      SAP Center in San Jose.
+generated output:  February 1, 2016
+
+-------------------------------data 79------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What bridge had a model of it at the Super Bowl Opening Night?
+generated output:  What was the name of the opening ceremony for the game?
+
+
+question answering task:
+truth output:      Golden Gate Bridge.
+generated output:  Super Bowl Opening Night
+
+-------------------------------data 80------------------------------------
+The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night. <hl> The event was held on February 1, 2016 at SAP Center in San Jose. <hl> Alongside the traditional media availabilities, the event featured an opening ceremony with player introductions on a replica of the Golden Gate Bridge.
+question type classification task:
+truth output:      What
+generated output:  When
+
+
+QG task:
+truth output:      What date was Super Bowl Opening Night held?
+generated output:  When was the media day of the game held?
+
+
+question answering task:
+truth output:      February 1, 2016
+generated output:  February 1, 2016
+
+-------------------------------data 81------------------------------------
+<hl> For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the program that provides contracting work to local companies?
+generated output:  What program provides businesses with contracting opportunities in and around the Super Bowl?
+
+
+question answering task:
+truth output:      Business Connect
+generated output:  Business Connect
+
+-------------------------------data 82------------------------------------
+For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health. <hl>
+question type classification task:
+truth output:      How
+generated output:  How
+
+
+QG task:
+truth output:      How much money has been raised by the host committee?
+generated output:  How much money did the Super Bowl 50 Host Committee raise?
+
+
+question answering task:
+truth output:      $40 million
+generated output:  $40 million
+
+-------------------------------data 83------------------------------------
+For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health. <hl>
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What health company was a Super Bowl sponsor?
+generated output:  How much money did the Super Bowl 50 Host Committee raise?
+
+
+question answering task:
+truth output:      Dignity Health
+generated output:  $40 million
+
+-------------------------------data 84------------------------------------
+For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health. <hl>
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What clothing company was a Super Bowl sponsor?
+generated output:  How much money did the Super Bowl 50 Host Committee raise?
+
+
+question answering task:
+truth output:      Gap
+generated output:  $40 million
+
+-------------------------------data 85------------------------------------
+For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health. <hl>
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What petroleum company was a Super Bowl sponsor?
+generated output:  How much money did the Super Bowl 50 Host Committee raise?
+
+
+question answering task:
+truth output:      Chevron
+generated output:  $40 million
+
+-------------------------------data 86------------------------------------
+For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health. <hl>
+question type classification task:
+truth output:      How
+generated output:  How
+
+
+QG task:
+truth output:      How much money did the committee raise?
+generated output:  How much money did the Super Bowl 50 Host Committee raise?
+
+
+question answering task:
+truth output:      over $40 million
+generated output:  $40 million
+
+-------------------------------data 87------------------------------------
+For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health. <hl>
+question type classification task:
+truth output:      How
+generated output:  How
+
+
+QG task:
+truth output:      How did the committee raise the money?
+generated output:  How much money did the Super Bowl 50 Host Committee raise?
+
+
+question answering task:
+truth output:      sponsors
+generated output:  $40 million
+
+-------------------------------data 88------------------------------------
+<hl> For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the Super Bowl program called that gives local companies business opportunities for the Super Bowl?
+generated output:  What program provides businesses with contracting opportunities in and around the Super Bowl?
+
+
+question answering task:
+truth output:      Business Connect
+generated output:  Business Connect
+
+-------------------------------data 89------------------------------------
+<hl> For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. <hl> The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the service that gets local businesses contract chances with the Super Bowl?
+generated output:  What program provides businesses with contracting opportunities in and around the Super Bowl?
+
+
+question answering task:
+truth output:      Business Connect
+generated output:  Business Connect
+
+-------------------------------data 90------------------------------------
+<hl> The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments.
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What percentage of money raised by the Host Committee will be used for charitable causes?
+generated output:  How much money does the Super Bowl 50 Host Committee dedicate to philanthropic
+
+
+question answering task:
+truth output:      25
+generated output:  25 percent
+
+-------------------------------data 91------------------------------------
+The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the Host Committee's charitable initiative?
+generated output:  What is the goal of the Super Bowl 50 Host Committee?
+
+
+question answering task:
+truth output:      the 50 fund
+generated output:  providing grants
+
+-------------------------------data 92------------------------------------
+<hl> The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments.
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What percentage of funds were given as charitable funds to causes in and around San Francisco?
+generated output:  How much money does the Super Bowl 50 Host Committee dedicate to philanthropic
+
+
+question answering task:
+truth output:      25 percent
+generated output:  25 percent
+
+-------------------------------data 93------------------------------------
+The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the fund setup to help with investing in the community? 
+generated output:  What is the goal of the Super Bowl 50 Host Committee?
+
+
+question answering task:
+truth output:      50 fund
+generated output:  providing grants
+
+-------------------------------data 94------------------------------------
+<hl> The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments.
+question type classification task:
+truth output:      How
+generated output:  How
+
+
+QG task:
+truth output:      How many will the host committee dedicate to local charities?
+generated output:  How much money does the Super Bowl 50 Host Committee dedicate to philanthropic
+
+
+question answering task:
+truth output:      25 percent
+generated output:  25 percent
+
+-------------------------------data 95------------------------------------
+The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the fund that focuses on youth, community and sustainable environments?
+generated output:  What is the goal of the Super Bowl 50 Host Committee?
+
+
+question answering task:
+truth output:      the 50 fund
+generated output:  providing grants
+
+-------------------------------data 96------------------------------------
+<hl> The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments.
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What percentage of money raised was earmarked for causes in the San Francisco area?
+generated output:  How much money does the Super Bowl 50 Host Committee dedicate to philanthropic
+
+
+question answering task:
+truth output:      25 percent
+generated output:  25 percent
+
+-------------------------------data 97------------------------------------
+The Super Bowl 50 Host Committee has vowed to be "the most giving Super Bowl ever", and will dedicate 25 percent of all money it raises for philanthropic causes in the Bay Area. <hl> The committee created the 50 fund as its philanthropic initiative and focuses on providing grants to aid with youth development, community investment and sustainable environments. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the work to give grants for youth development and other things?
+generated output:  What is the goal of the Super Bowl 50 Host Committee?
+
+
+question answering task:
+truth output:      50 fund
+generated output:  providing grants
+
+-------------------------------data 98------------------------------------
+<hl> In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". <hl> Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who is the trophy given to the Super Bowl champion named for?
+generated output:  What is the size of the digit at the Super Bowl 50?
+
+
+question answering task:
+truth output:      Vince Lombardi
+generated output:  33 lb (15 kg)
+
+-------------------------------data 99------------------------------------
+In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". <hl> Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). <hl> Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co.
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What will the "50" given to the Super Bowl winner weigh in pounds?
+generated output:  How much weight will each digit weigh?
+
+
+question answering task:
+truth output:      66
+generated output:  33 lb (15 kg)
+
+-------------------------------data 100------------------------------------
+In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). <hl> Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who designed the "50"?
+generated output:  What company will design the 50?
+
+
+question answering task:
+truth output:      Tiffany & Co.
+generated output:  Tiffany & Co.
+
+-------------------------------data 101------------------------------------
+In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). <hl> Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who designed the Vince Lombardi Trophy?
+generated output:  What company will design the 50?
+
+
+question answering task:
+truth output:      Tiffany & Co.
+generated output:  Tiffany & Co.
+
+-------------------------------data 102------------------------------------
+<hl> In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". <hl> Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the trophy given to anyone who plays on the winning team in a Super Bowl?
+generated output:  What is the size of the digit at the Super Bowl 50?
+
+
+question answering task:
+truth output:      Vince Lombardi Trophy
+generated output:  33 lb (15 kg)
+
+-------------------------------data 103------------------------------------
+<hl> In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". <hl> Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What will the number "50" be plated with? 
+generated output:  What is the size of the digit at the Super Bowl 50?
+
+
+question answering task:
+truth output:      18-karat gold-plated
+generated output:  33 lb (15 kg)
+
+-------------------------------data 104------------------------------------
+In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). <hl> Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who is the designer of the "50?"
+generated output:  What company will design the 50?
+
+
+question answering task:
+truth output:      Tiffany & Co
+generated output:  Tiffany & Co.
+
+-------------------------------data 105------------------------------------
+<hl> In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". <hl> Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What is the name of the trophy that all Super Bowl winners receive?
+generated output:  What is the size of the digit at the Super Bowl 50?
+
+
+question answering task:
+truth output:      the Vince Lombardi Trophy
+generated output:  33 lb (15 kg)
+
+-------------------------------data 106------------------------------------
+In addition to the Vince Lombardi Trophy that all Super Bowl champions receive, the winner of Super Bowl 50 will also receive a large, 18-karat gold-plated "50". Each digit will weigh 33 lb (15 kg) for a total of 66 lb (30 kg). <hl> Like the Lombardi Trophy, the "50" will be designed by Tiffany & Co. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who designs both the "50" as well as the Trophy?
+generated output:  What company will design the 50?
+
+
+question answering task:
+truth output:      Tiffany & Co.
+generated output:  Tiffany & Co.
+
+-------------------------------data 107------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who, with Jim Nantz, was a member of the game's lead broadcast team?
+generated output:  Who was on the team that televised the Super Bowl?
+
+
+question answering task:
+truth output:      Phil Simms
+generated output:  CBS
+
+-------------------------------data 108------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who shared sideline duties with Evan Washburn?
+generated output:  Who was on the team that televised the Super Bowl?
+
+
+question answering task:
+truth output:      Tracy Wolfson
+generated output:  CBS
+
+-------------------------------data 109------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. <hl> (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How many cameras did EyeVision 360 utilize?
+generated output:  What was the name of the telecast feature?
+
+
+question answering task:
+truth output:      36
+generated output:  EyeVision 360
+
+-------------------------------data 110------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. <hl> (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.) <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the resolution of the cameras used in the EyeVision 360 system?
+generated output:  What was the previous version of EyeVision that featured multiple cameras?
+
+
+question answering task:
+truth output:      5K
+generated output:  Super Bowl XXXV
+
+-------------------------------data 111------------------------------------
+<hl> In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      How
+generated output:  Who
+
+
+QG task:
+truth output:      How many different TV networks are considered to be the principal partners, when it comes to broadcasting NFL events?
+generated output:  Who was the lead broadcaster of the American Idol contest?
+
+
+question answering task:
+truth output:      three
+generated output:  Jim Nantz and Phil Simms
+
+-------------------------------data 112------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      Where
+generated output:  Who
+
+
+QG task:
+truth output:      Where was Tracy Wolfson announcing from during the Super Bowl 50 game?
+generated output:  Who was on the team that televised the Super Bowl?
+
+
+question answering task:
+truth output:      sidelines
+generated output:  CBS
+
+-------------------------------data 113------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. <hl> (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.) <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What resolution were the cameras increased to for the game?
+generated output:  What was the previous version of EyeVision that featured multiple cameras?
+
+
+question answering task:
+truth output:      5K resolution
+generated output:  Super Bowl XXXV
+
+-------------------------------data 114------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      Where
+generated output:  Who
+
+
+QG task:
+truth output:      Where was Evan Washburn located while announcing during the game?
+generated output:  Who was on the team that televised the Super Bowl?
+
+
+question answering task:
+truth output:      sidelines
+generated output:  CBS
+
+-------------------------------data 115------------------------------------
+<hl> In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      How
+generated output:  Who
+
+
+QG task:
+truth output:      How many broadcast television partners does the NFL have?
+generated output:  Who was the lead broadcaster of the American Idol contest?
+
+
+question answering task:
+truth output:      three
+generated output:  Jim Nantz and Phil Simms
+
+-------------------------------data 116------------------------------------
+<hl> In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What network aired Super Bowl 50?
+generated output:  Who was the lead broadcaster of the American Idol contest?
+
+
+question answering task:
+truth output:      CBS
+generated output:  Jim Nantz and Phil Simms
+
+-------------------------------data 117------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who were the announcers of Super Bowl 50?
+generated output:  Who was on the team that televised the Super Bowl?
+
+
+question answering task:
+truth output:      Jim Nantz and Phil Simms
+generated output:  CBS
+
+-------------------------------data 118------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. <hl> The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who were the Super Bowl 50 sideline announcers?
+generated output:  Who was on the team that televised the Super Bowl?
+
+
+question answering task:
+truth output:      Tracy Wolfson and Evan Washburn
+generated output:  CBS
+
+-------------------------------data 119------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. <hl> (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.) <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What resolution were the Eyevision cameras changed to?
+generated output:  What was the previous version of EyeVision that featured multiple cameras?
+
+
+question answering task:
+truth output:      5K
+generated output:  Super Bowl XXXV
+
+-------------------------------data 120------------------------------------
+In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL. The network's lead broadcast team of Jim Nantz and Phil Simms called the contest, with Tracy Wolfson and Evan Washburn on the sidelines. <hl> CBS introduced new features during the telecast, including pylon cameras and microphones along with EyeVision 360—an array of 36 cameras along the upper deck that can be used to provide a 360-degree view of plays and "bullet time" effects. <hl> (An earlier version of EyeVision was last used in Super Bowl XXXV; for Super Bowl 50, the cameras were upgraded to 5K resolution.)
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was put on pylons for Super Bowl 50?
+generated output:  What was the name of the telecast feature?
+
+
+question answering task:
+truth output:      cameras
+generated output:  EyeVision 360
+
+-------------------------------data 121------------------------------------
+On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). <hl> The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. <hl> ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who reported on the sideline for ESPN Deportes?
+generated output:  Who was the commentary crew of ESPN Deportes?
+
+
+question answering task:
+truth output:      John Sutcliffe
+generated output:  Alvaro Martin and Raul Allegre
+
+-------------------------------data 122------------------------------------
+On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). <hl> The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. <hl> ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who provided Spanish-language commentary alongside Raul Allegre?
+generated output:  Who was the commentary crew of ESPN Deportes?
+
+
+question answering task:
+truth output:      Alvaro Martin
+generated output:  Alvaro Martin and Raul Allegre
+
+-------------------------------data 123------------------------------------
+<hl> On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. <hl> Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who exclusively broadcast the game in Spanish after reaching an agreement with the NFL and CBS?
+generated output:  What was the third Spanish-language broadcast of the Super Bowl?
+
+
+question answering task:
+truth output:      ESPN Deportes
+generated output:  ESPN Deportes
+
+-------------------------------data 124------------------------------------
+On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). <hl> The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. <hl> ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who was the sideline reporter for ESPN Deportes?
+generated output:  Who was the commentary crew of ESPN Deportes?
+
+
+question answering task:
+truth output:      John Sutcliffe.
+generated output:  Alvaro Martin and Raul Allegre
+
+-------------------------------data 125------------------------------------
+<hl> On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. <hl> Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What agency did the Spanish version of the Super Bowl?
+generated output:  What was the third Spanish-language broadcast of the Super Bowl?
+
+
+question answering task:
+truth output:      ESPN Deportes
+generated output:  ESPN Deportes
+
+-------------------------------data 126------------------------------------
+On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). <hl> The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. <hl> ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who were the ESPN Deportes commentators for Super Bowl 50?
+generated output:  Who was the commentary crew of ESPN Deportes?
+
+
+question answering task:
+truth output:      Alvaro Martin and Raul Allegre
+generated output:  Alvaro Martin and Raul Allegre
+
+-------------------------------data 127------------------------------------
+On December 28, 2015, ESPN Deportes announced that they had reached an agreement with CBS and the NFL to be the exclusive Spanish-language broadcaster of the game, marking the third dedicated Spanish-language broadcast of the Super Bowl. Unlike NBC and Fox, CBS does not have a Spanish-language outlet of its own that could broadcast the game (though per league policy, a separate Spanish play-by-play call was carried on CBS's second audio program channel for over-the-air viewers). <hl> The game was called by ESPN Deportes' Monday Night Football commentary crew of Alvaro Martin and Raul Allegre, and sideline reporter John Sutcliffe. <hl> ESPN Deportes broadcast pre-game and post-game coverage, while Martin, Allegre, and Sutcliffe contributed English-language reports for ESPN's SportsCenter and Mike & Mike.
+question type classification task:
+truth output:      Who
+generated output:  Who
+
+
+QG task:
+truth output:      Who was the ESPN Deportes sideline commentator for Super Bowl 50?
+generated output:  Who was the commentary crew of ESPN Deportes?
+
+
+question answering task:
+truth output:      John Sutcliffe.
+generated output:  Alvaro Martin and Raul Allegre
+
+-------------------------------data 128------------------------------------
+CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. <hl> The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What service did Verizon customers need to use to stream the game on their smartphones?
+generated output:  What was provided by Verizon Wireless only via the NFL Mobile service?
+
+
+question answering task:
+truth output:      NFL Mobile
+generated output:  streaming on smartphones
+
+-------------------------------data 129------------------------------------
+<hl> CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What CBS website provided a stream?
+generated output:  What other digital media player was provided by CBS?
+
+
+question answering task:
+truth output:      CBSSports.com
+generated output:  Chromecast and Roku
+
+-------------------------------data 130------------------------------------
+<hl> CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What version of Windows supported the CBS sports app?
+generated output:  What other digital media player was provided by CBS?
+
+
+question answering task:
+truth output:      10
+generated output:  Chromecast and Roku
+
+-------------------------------data 131------------------------------------
+<hl> CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the domain name of the site that streamed the Super Bowl 50 game? 
+generated output:  What other digital media player was provided by CBS?
+
+
+question answering task:
+truth output:      CBSSports.com
+generated output:  Chromecast and Roku
+
+-------------------------------data 132------------------------------------
+CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. <hl> The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What app did viewers use to watch the game on their smartphones? 
+generated output:  What was provided by Verizon Wireless only via the NFL Mobile service?
+
+
+question answering task:
+truth output:      NFL Mobile service
+generated output:  streaming on smartphones
+
+-------------------------------data 133------------------------------------
+<hl> CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What did CBS provide of the Super Bowl 50 broadcast for its website, some apps and media players?
+generated output:  What other digital media player was provided by CBS?
+
+
+question answering task:
+truth output:      digital streams of the game
+generated output:  Chromecast and Roku
+
+-------------------------------data 134------------------------------------
+CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). <hl> Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. <hl> The ESPN Deportes Spanish broadcast was made available through WatchESPN.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What cellular carrier had the only contract for the Super Bowl to be shown on smartphones?
+generated output:  What was provided by Verizon Wireless only via the NFL Mobile service?
+
+
+question answering task:
+truth output:      Verizon
+generated output:  streaming on smartphones
+
+-------------------------------data 135------------------------------------
+CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. <hl> The ESPN Deportes Spanish broadcast was made available through WatchESPN. <hl>
+question type classification task:
+truth output:      Where
+generated output:  What
+
+
+QG task:
+truth output:      Where was the ESPN Deportes Spanish version of Super Bowl 50 available?
+generated output:  What Spanish platform provided the streaming via CBS Sports?
+
+
+question answering task:
+truth output:      WatchESPN.
+generated output:  WatchESPN
+
+-------------------------------data 136------------------------------------
+<hl> As opposed to broadcasts of primetime series, CBS broadcast special episodes of its late night talk shows as its lead-out programs for Super Bowl 50, beginning with a special episode of The Late Show with Stephen Colbert following the game. <hl> Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden.
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What talk show followed immediately after Super Bowl 50 on CBS?
+generated output:  Who aired a special episode of The Late Show with James Corden?
+
+
+question answering task:
+truth output:      The Late Show with Stephen Colbert
+generated output:  CBS
+
+-------------------------------data 137------------------------------------
+As opposed to broadcasts of primetime series, CBS broadcast special episodes of its late night talk shows as its lead-out programs for Super Bowl 50, beginning with a special episode of The Late Show with Stephen Colbert following the game. <hl> Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden. <hl>
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What show aired on CBS after late local programming?
+generated output:  Who did CBS air a special episode of the Late Show with?
+
+
+question answering task:
+truth output:      The Late Late Show with James Corden
+generated output:  James Corden
+
+-------------------------------data 138------------------------------------
+As opposed to broadcasts of primetime series, CBS broadcast special episodes of its late night talk shows as its lead-out programs for Super Bowl 50, beginning with a special episode of The Late Show with Stephen Colbert following the game. <hl> Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden. <hl>
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What other CBS talk show played, after the main one that began immediately after Super Bowl 50?
+generated output:  Who did CBS air a special episode of the Late Show with?
+
+
+question answering task:
+truth output:      The Late Late Show with James Corden
+generated output:  James Corden
+
+-------------------------------data 139------------------------------------
+<hl> As opposed to broadcasts of primetime series, CBS broadcast special episodes of its late night talk shows as its lead-out programs for Super Bowl 50, beginning with a special episode of The Late Show with Stephen Colbert following the game. <hl> Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden.
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What CBS show followed the Super Bowl?
+generated output:  Who aired a special episode of The Late Show with James Corden?
+
+
+question answering task:
+truth output:      The Late Show with Stephen Colbert
+generated output:  CBS
+
+-------------------------------data 140------------------------------------
+As opposed to broadcasts of primetime series, CBS broadcast special episodes of its late night talk shows as its lead-out programs for Super Bowl 50, beginning with a special episode of The Late Show with Stephen Colbert following the game. <hl> Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden. <hl>
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What followed The Late Show with Stephen Colbert?
+generated output:  Who did CBS air a special episode of the Late Show with?
+
+
+question answering task:
+truth output:      late local programming
+generated output:  James Corden
+
+-------------------------------data 141------------------------------------
+As opposed to broadcasts of primetime series, CBS broadcast special episodes of its late night talk shows as its lead-out programs for Super Bowl 50, beginning with a special episode of The Late Show with Stephen Colbert following the game. <hl> Following a break for late local programming, CBS also aired a special episode of The Late Late Show with James Corden. <hl>
+question type classification task:
+truth output:      What
+generated output:  Who
+
+
+QG task:
+truth output:      What followed the late local programming after Super Bowl 50?
+generated output:  Who did CBS air a special episode of the Late Show with?
+
+
+question answering task:
+truth output:      The Late Late Show with James Corden.
+generated output:  James Corden
+
+-------------------------------data 142------------------------------------
+<hl> CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. <hl> As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What was the base rate for a 30-second ad during Super Bowl 50?
+generated output:  How much did CBS set the base rate for a 30-second ad advertisement?
+
+
+question answering task:
+truth output:      $5,000,000
+generated output:  $5,000,000
+
+-------------------------------data 143------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. <hl> This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. <hl> It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What beverage company signed a contract allowing them to broadcast ads at a discount?
+generated output:  What was the final year for a contract with Anheuser-Busch InBev
+
+
+question answering task:
+truth output:      Anheuser-Busch InBev
+generated output:  2012
+
+-------------------------------data 144------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. <hl> It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. <hl> Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What brand sponsored the "Crash the Super Bowl" contest?
+generated output:  What year did Doritos launch its "Crash the Super Bowl" contest?
+
+
+question answering task:
+truth output:      Doritos
+generated output:  2013
+
+-------------------------------data 145------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. <hl> Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise. <hl>
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What anniversary of the Pokémon franchise was celebrated during the Super Bowl?
+generated output:  What year did the Pokémon company and Nintendo make their Super Bowl debut?
+
+
+question answering task:
+truth output:      20th
+generated output:  20th anniversary
+
+-------------------------------data 146------------------------------------
+<hl> CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. <hl> As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  How
+
+
+QG task:
+truth output:      What was the starting cost for a TV commercial lasting 30 seconds and airing during Super Bowl 50?
+generated output:  How much did CBS set the base rate for a 30-second ad advertisement?
+
+
+question answering task:
+truth output:      $5,000,000
+generated output:  $5,000,000
+
+-------------------------------data 147------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. <hl> Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise. <hl>
+question type classification task:
+truth output:      Who
+generated output:  What
+
+
+QG task:
+truth output:      Who made their Super Bowl commercial debut with Nintendo?
+generated output:  What year did the Pokémon company and Nintendo make their Super Bowl debut?
+
+
+question answering task:
+truth output:      The Pokémon Company
+generated output:  20th anniversary
+
+-------------------------------data 148------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. <hl> This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. <hl> It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What company was in its last year for getting Super Bowl commercials at a big discount?
+generated output:  What was the final year for a contract with Anheuser-Busch InBev
+
+
+question answering task:
+truth output:      Anheuser-Busch InBev
+generated output:  2012
+
+-------------------------------data 149------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. <hl> It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. <hl> Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What company was this the last Super Bowl they would let customers have an opportunity to get their own commercial ideas aired?
+generated output:  What year did Doritos launch its "Crash the Super Bowl" contest?
+
+
+question answering task:
+truth output:      Doritos
+generated output:  2013
+
+-------------------------------data 150------------------------------------
+CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. <hl> It was also the final year that Doritos, a longtime sponsor of the game, held its "Crash the Super Bowl" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. <hl> Nintendo and The Pokémon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pokémon video game and media franchise.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the Doritos customer Super Bowl ad campaign called?
+generated output:  What year did Doritos launch its "Crash the Super Bowl" contest?
+
+
+question answering task:
+truth output:      Crash the Super Bowl
+generated output:  2013
+
+-------------------------------data 151------------------------------------
+<hl> QuickBooks sponsored a "Small Business Big Game" contest, in which Death Wish Coffee had a 30-second commercial aired free of charge courtesy of QuickBooks. <hl> Death Wish Coffee beat out nine other contenders from across the United States for the free advertisement.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What was the name of the contest sponsored by QuickBooks?
+generated output:  What company sponsored a "Small Business Big Game" contest?
+
+
+question answering task:
+truth output:      "Small Business Big Game"
+generated output:  QuickBooks
+
+-------------------------------data 152------------------------------------
+<hl> QuickBooks sponsored a "Small Business Big Game" contest, in which Death Wish Coffee had a 30-second commercial aired free of charge courtesy of QuickBooks. <hl> Death Wish Coffee beat out nine other contenders from across the United States for the free advertisement.
+question type classification task:
+truth output:      What
+generated output:  What
+
+
+QG task:
+truth output:      What company won a free advertisement due to the QuickBooks contest?
+generated output:  What company sponsored a "Small Business Big Game" contest?
+
+
+question answering task:
+truth output:      Death Wish Coffee
+generated output:  QuickBooks
+
+-------------------------------data 153------------------------------------
+<hl> QuickBooks sponsored a "Small Business Big Game" contest, in which Death Wish Coffee had a 30-second commercial aired free of charge courtesy of QuickBooks. <hl> Death Wish Coffee beat out nine other contenders from across the United States for the free advertisement.
+question type classification task:
+truth output:      How
+generated output:  What
+
+
+QG task:
+truth output:      How long was the Death Wish Coffee commercial?
+generated output:  What company sponsored a "Small Business Big Game" contest?
+
+
+question answering task:
+truth output:      30-second
+generated output:  QuickBooks
